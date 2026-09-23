@@ -12,3 +12,5 @@ so read QC plots are made in R instead.
 Reads: R10.4.1 flow cell, Dorado basecalling model dna_r10.4.1_e8.2_400bps_sup@v4.3.0 (from FASTQ header)
 | Polishing | dorado polish --bacteria | 1.1.1 (model dna_r10.4.1_e8.2_400bps_polish_bacterial_methylation_v5.0.0) | /programs/dorado-1.1.1-linux-x64 |
 | Alignment/BAM | samtools | 1.20 | /programs/samtools-1.20 |
+| Taxonomy (ANI) | skani | 0.3.1 | /programs/skani-0.3.1 |
+| Reference download | NCBI datasets | 18.35.0 | /programs/ncbi_datasets_18.35.0 |
