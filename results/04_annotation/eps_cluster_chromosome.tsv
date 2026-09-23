@@ -1,0 +1,22 @@
+start	end	strand	locus_tag	gene	product
+615529	616191	+	DLVP55_03010		Potassium uptake protein
+616313	617320	-	DLVP55_03015		Aspartate--ammonia ligase
+617940	619352	+	DLVP55_03020		Amino acid permease
+619405	620424	+	DLVP55_03025		lipoate--protein ligase
+620616	621671	+	DLVP55_03030		EPS operon transcriptional regulator EpsIIA
+621924	622715	+	DLVP55_03035	cpsC	Capsular polysaccharide biosynthesis protein CpsC
+622716	623486	+	DLVP55_03040	cpsD	Tyrosine-protein kinase CpsD
+623483	624265	+	DLVP55_03045		Tyrosine-protein phosphatase
+624265	624933	+	DLVP55_03050		Undecaprenyl-phosphate galactose phosphotransferase
+624945	626027	+	DLVP55_03055		Glycosyl transferase
+626041	627039	+	DLVP55_03060		hypothetical protein
+627071	628003	+	DLVP55_03065		hypothetical protein
+628063	629157	+	DLVP55_03070		hypothetical protein
+629184	630299	+	DLVP55_03075		UDP-galactopyranose mutase
+630305	631720	+	DLVP55_03080		Polysaccharide biosynthesis protein C-terminal domain-containing protein
+631754	633097	+	DLVP55_03085		hypothetical protein
+633171	634244	+	DLVP55_03090		Cell envelope-related transcriptional attenuator domain-containing protein
+634362	635369	+	DLVP55_03095		dTDP-glucose 4,6-dehydratase
+635465	636412	-	DLVP55_03100		Phosphoglycerate dehydrogenase-like protein
+636701	638152	+	DLVP55_03105		Cytochrome bd-I ubiquinol oxidase subunit 1
+638145	639155	+	DLVP55_03110		Cytochrome d ubiquinol oxidase, subunit II

@@ -1,0 +1,22 @@
+start	end	strand	locus_tag	gene	product
+10130	10636	-	DLVP55_12420		Addiction module toxin, PemK-like protein
+10626	10907	-	DLVP55_12425		DNA-damage-inducible protein
+11157	11465	-	DLVP55_12430		Replication initiator protein A C-terminal domain-containing protein
+11784	12056	-	DLVP55_12435		PepSY domain-containing protein
+12892	13698	+	DLVP55_12440		Sporulation initiation inhibitor protein Soj
+13701	14069	+	DLVP55_12445		Transcriptional regulator
+14858	15427	-	DLVP55_12450		DNA invertase
+15808	16068	-	DLVP55_12455		hypothetical protein
+16207	17331	+	DLVP55_12460	tnp	IS256 family IS1310 transposase
+17461	17742	+	DLVP55_12465		hypothetical protein
+17754	19169	-	DLVP55_12470		Polysaccharide biosynthesis protein
+19162	20250	-	DLVP55_12475		Polysaccharide pyruvyl transferase domain-containing protein
+21736	21999	-	DLVP55_12480		Transposase
+22410	23339	+	DLVP55_12485	tnp	IS30 family ISLpl1 transposase
+23897	24082	+	DLVP55_12490	rli28	Listeria sRNA rli28
+24011	24100	+	DLVP55_12495		Holin-like toxin
+24147	24233	-	DLVP55_12500	ratA	RNA anti-toxin A
+24256	25380	-	DLVP55_12505	ltrC	LtrC
+25384	25599	-	DLVP55_12510		hypothetical protein
+25722	27857	-	DLVP55_12515		DNA topoisomerase
+31925	297	-	DLVP55_12550		DUF5105 domain-containing protein
