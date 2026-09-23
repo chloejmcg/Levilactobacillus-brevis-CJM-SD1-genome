@@ -1,0 +1,12 @@
+# Raw and large data: reads go to NCBI SRA, not GitHub
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+data/
+# R / OS clutter
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
