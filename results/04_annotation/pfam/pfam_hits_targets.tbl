@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Glycos_transf_2      PF00535.25 DLVP55_03060         -            4.9e-27   94.7   0.1   8.7e-27   93.9   0.1   1.4   1   0   0   1   1   1   1 Glycosyl transferase family 2
+Glyco_tranf_2_3      PF13641.5  DLVP55_03060         -            6.4e-11   42.5   0.0   9.6e-11   41.9   0.0   1.3   1   0   0   1   1   1   1 Glycosyltransferase like family 2
+Glyco_tranf_2_2      PF10111.8  DLVP55_03060         -            1.2e-06   28.1   0.1   2.3e-06   27.2   0.1   1.4   1   0   0   1   1   1   1 Glycosyltransferase like family 2
+Glyco_tranf_2_3      PF13641.5  DLVP55_03065         -            5.4e-16   59.1   0.0   7.7e-16   58.6   0.0   1.2   1   0   0   1   1   1   1 Glycosyltransferase like family 2
+Glycos_transf_2      PF00535.25 DLVP55_03065         -            7.2e-16   58.4   0.6   1.1e-15   57.7   0.6   1.3   1   0   0   1   1   1   1 Glycosyl transferase family 2
+Glyphos_transf       PF04464.13 DLVP55_03070         -            4.8e-76  256.0   0.8   5.2e-76  255.9   0.8   1.0   1   0   0   1   1   1   1 CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase
+AAA_21               PF13304.5  DLVP55_05010         -            7.9e-16   58.6  12.0   6.2e-14   52.4  12.0   3.0   1   1   0   1   1   1   1 AAA domain, putative AbiEii toxin, Type IV TA system
+AAA_15               PF13175.5  DLVP55_05010         -            4.9e-13   49.4  28.9   4.9e-13   49.4  28.9   3.7   2   1   1   3   3   1   1 AAA ATPase domain
+AAA_23               PF13476.5  DLVP55_05010         -            3.9e-09   37.2  13.2   3.9e-09   37.2  13.2   2.3   2   1   0   2   2   1   1 AAA domain
+SMC_N                PF02463.18 DLVP55_05010         -            1.9e-08   33.9   7.1   6.9e-07   28.8   7.1   2.4   1   1   0   1   1   1   1 RecF/RecN/SMC N terminal domain
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /local/workdir/cjm423/DLVP55_2/annotation/bakta/targets.faa
+# Target file:     /programs/PfamScan/db/Pfam-A.hmm
+# Option settings: hmmscan --tblout /local/workdir/cjm423/DLVP55_2/annotation/pfam/pfam_hits.tbl --domtblout /local/workdir/cjm423/DLVP55_2/annotation/pfam/pfam_domains.tbl -E 1e-5 --domE 1e-5 --cpu 24 /programs/PfamScan/db/Pfam-A.hmm /local/workdir/cjm423/DLVP55_2/annotation/bakta/targets.faa 
+# Current dir:     /local/workdir/cjm423/DLVP55_2/annotation/bakta
+# Date:            Wed Sep 23 19:05:57 2026
+# [ok]
