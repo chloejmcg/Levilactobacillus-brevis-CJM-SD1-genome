@@ -1,0 +1,10 @@
+metric	value
+reads	115148
+total_bases	378391306
+mean_length	3286
+read_N50	5991
+max_length	52340
+median_mean_Q	21.7
+reads_Q10_plus	115082
+reads_Q20_plus	76337
+est_coverage_x	151.4
