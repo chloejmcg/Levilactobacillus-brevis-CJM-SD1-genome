@@ -14,3 +14,7 @@ Reads: R10.4.1 flow cell, Dorado basecalling model dna_r10.4.1_e8.2_400bps_sup@v
 | Alignment/BAM | samtools | 1.20 | /programs/samtools-1.20 |
 | Taxonomy (ANI) | skani | 0.3.1 | /programs/skani-0.3.1 |
 | Reference download | NCBI datasets | 18.35.0 | /programs/ncbi_datasets_18.35.0 |
+| Completeness/contamination | CheckM (lineage_wf) | 1.2.4, data checkm_data_2015_01_16 | /programs/checkm-1.2.4 |
+| CheckM dependency | HMMER | 3.4 | /programs/hmmer-3.4 |
+| CheckM dependency | prodigal | 2.6.3 | /programs/prodigal-2.6.3 |
+| CheckM dependency | pplacer | v1.1.alpha19 | /programs/pplacer-Linux-v1.1.alpha19 |
