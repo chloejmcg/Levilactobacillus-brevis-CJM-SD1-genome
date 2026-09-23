@@ -7,3 +7,6 @@
 
 Note: BioHPC NanoPlot 1.38.1 fails on Rocky 9 (Python 3.6 build, numpy error),
 so read QC plots are made in R instead.
+| Assembly | Flye | 2.9.2-b1795 | /programs/Flye-2.9.2 |
+
+Reads: R10.4.1 flow cell, Dorado basecalling model dna_r10.4.1_e8.2_400bps_sup@v4.3.0 (from FASTQ header)

@@ -1,0 +1,2 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len	Q1	Q2	Q3	sum_gap	N50	N50_num	Q20(%)	Q30(%)	AvgQual	GC(%)	sum_n
+/workdir/cjm423/DLVP55_2/filtered/DLVP55_2_filtered.fastq.gz	FASTQ	DNA	32372	250000856	3099	7722.7	52340	4566	6288	9370	0	8693	6176	94	87	21.27	45.90	0
