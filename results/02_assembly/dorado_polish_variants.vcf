@@ -1,0 +1,13 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##fileformat=VCFv4.1
+##contig=<ID=contig_1,length=2449864>
+##contig=<ID=contig_2,length=32245>
+##contig=<ID=contig_3,length=32797>
+##FILTER=<ID=LowQual,Description="Variant quality is below threshold">
+##FILTER=<ID=.,Description="Non-variant position">
+##dorado_version=1.1.1+e72f1492
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total Depth">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=GQ,Number=1,Type=Integer,Description="Genotype quality score">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE
