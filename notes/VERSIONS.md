@@ -18,3 +18,4 @@ Reads: R10.4.1 flow cell, Dorado basecalling model dna_r10.4.1_e8.2_400bps_sup@v
 | CheckM dependency | HMMER | 3.4 | /programs/hmmer-3.4 |
 | CheckM dependency | prodigal | 2.6.3 | /programs/prodigal-2.6.3 |
 | CheckM dependency | pplacer | v1.1.alpha19 | /programs/pplacer-Linux-v1.1.alpha19 |
+| Annotation | Bakta (container bakta.sif) | 1.9.3, DB v5.1 light (doi:10.5281/zenodo.10522951) | /programs/bakta-1.9.3 |
