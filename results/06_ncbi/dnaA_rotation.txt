@@ -1,0 +1,2 @@
+dnaA: DLVP55_11745  chromosome:2357098-2358456 (+)
+dnaA ORF check: GTG start, 452 aa, no internal stops — OK

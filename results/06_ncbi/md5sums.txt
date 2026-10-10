@@ -1,0 +1,2 @@
+430cfc12c5935a718eec87769cae372c  /workdir/cjm423/DLVP55_2/06_ncbi/CJM-SD1.fsa
+8be94936d257c7a4a52c56eaf9c8444f  /workdir/cjm423/DLVP55_2/raw/DLVP55_2_sample_2.fastq.gz

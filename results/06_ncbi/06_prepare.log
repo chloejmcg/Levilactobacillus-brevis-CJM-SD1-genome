@@ -1,0 +1,37 @@
+== 0. Input replicons ==
+chromosome	2449864	46.03
+pDLVP55_2_1	32797	39.88
+pDLVP55_2_2	32245	39.98
+dnaA coordinates from: /home/cjm423/DLVP55_2-genome/results/04_annotation/DLVP55_2.tsv
+dnaA: DLVP55_11745  chromosome:2357098-2358456 (+)
+[INFO][0m create or read FASTA index ...
+[INFO][0m read FASTA index from /workdir/cjm423/DLVP55_2/06_ncbi/chromosome.fasta.seqkit.fai
+[INFO][0m   1 records loaded from /workdir/cjm423/DLVP55_2/06_ncbi/chromosome.fasta.seqkit.fai
+[INFO][0m create or read FASTA index ...
+[INFO][0m read FASTA index from /workdir/cjm423/DLVP55_2/06_ncbi/chromosome.fasta.seqkit.fai
+[INFO][0m   1 records loaded from /workdir/cjm423/DLVP55_2/06_ncbi/chromosome.fasta.seqkit.fai
+dnaA ORF check: GTG start, 452 aa, no internal stops — OK
+[INFO][0m when flag -t (--seq-type) given, flag -v (--validate-seq) is automatically switched on
+Rotation check: forward rotation of original — OK
+First 60 nt (should start with the dnaA start codon): GTGCCAGACATGTTAACTTTGTGGACTGATATTAAGGCGTTGTTTGAAGAAAACAACTCG
+== 2. Definition lines ==
+>chromosome [organism=Levilactobacillus brevis] [strain=CJM-SD1] [location=chromosome] [topology=circular] [completeness=complete]
+>pCJMSD1_1 [organism=Levilactobacillus brevis] [strain=CJM-SD1] [plasmid-name=pCJMSD1_1] [topology=circular] [completeness=complete]
+>pCJMSD1_2 [organism=Levilactobacillus brevis] [strain=CJM-SD1] [plasmid-name=pCJMSD1_2] [topology=circular] [completeness=complete]
+== 3. Checks ==
+chromosome	2449864	46.03	0.00
+pCJMSD1_1	32797	39.88	0.00
+pCJMSD1_2	32245	39.98	0.00
+Total length 2514906 — OK
+No Ns — OK
+All records >199 nt — OK
+SeqIDs valid — OK
+Plasmid names valid — OK
+== 4. Checksums ==
+Raw reads gzip integrity — OK
+Raw MD5 matches notes — OK
+430cfc12c5935a718eec87769cae372c  /workdir/cjm423/DLVP55_2/06_ncbi/CJM-SD1.fsa
+8be94936d257c7a4a52c56eaf9c8444f  /workdir/cjm423/DLVP55_2/raw/DLVP55_2_sample_2.fastq.gz
+
+Done. Upload to the Genome Submission Portal: /workdir/cjm423/DLVP55_2/06_ncbi/CJM-SD1.fsa
+Upload to SRA: /workdir/cjm423/DLVP55_2/raw/DLVP55_2_sample_2.fastq.gz  (MD5 8be94936d257c7a4a52c56eaf9c8444f)
