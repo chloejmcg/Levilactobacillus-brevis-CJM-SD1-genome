@@ -1,7 +1,9 @@
 # DLVP55_2 genome analysis
 
 Genome assembly, quality control and functional annotation of *Levilactobacillus brevis*
-DLVP55_2, isolated from sourdough starter. Sequenced by Plasmidsaurus (Oxford Nanopore).
+CJM-SD1, isolated from sourdough starter. Sequenced by Plasmidsaurus (Oxford Nanopore).
+
+NOTE: DLVP55_2 is the order ID from Plasmidsaurus carries through analysis
 
 Goals: (1) genome announcement, (2) annotation of exopolysaccharide (EPS) genes and
 genetic-tractability features (plasmids, R-M, CRISPR-Cas).
@@ -13,3 +15,6 @@ genetic-tractability features (plasmids, R-M, CRISPR-Cas).
 
 Raw reads are not stored here; they will be deposited in NCBI SRA.
 Analyses were run on Cornell BioHPC.
+
+BioProject: PRJNA1542414 
+BioSample: SAMN64125442
