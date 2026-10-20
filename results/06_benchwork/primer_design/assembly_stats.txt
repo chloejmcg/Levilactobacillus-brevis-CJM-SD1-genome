@@ -1,0 +1,2 @@
+file                                                                format  type  num_seqs    sum_len  min_len  avg_len    max_len
+/home/cjm423/DLVP55_2-genome/results/DLVP55_2_final_assembly.fasta  FASTA   DNA          3  2,514,906   32,245  838,302  2,449,864

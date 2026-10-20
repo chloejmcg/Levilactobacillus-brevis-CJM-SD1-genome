@@ -1,0 +1,41 @@
+# Retention multiplex primer design — QC
+date: 2026-10-20T10:29:41-0400
+candidates parsed: 20
+targets with a specific pair: 4 of 4
+
+## Amplicon ladder (must be resolvable on 2% agarose with a 100 bp ladder)
+  P1R  604 bp  (pDLVP55_2_1)
+  P2C  441 bp  (pDLVP55_2_2)
+  P2M  333 bp  (pDLVP55_2_2)
+  CH1  147 bp  (chromosome)
+
+  minimum separation: 108 bp
+  separation OK
+
+## Tm spread across all oligos (one touchdown program must serve all)
+  range: 59.1 – 60.2 °C, spread 1.2 °C
+  spread OK — touchdown 68→58 °C will serve all four pairs
+
+## Specificity diagnostics (candidates passing each criterion, of n)
+  pair n pass_unique pass_replicon pass_anchor pass_all max_anchor_L
+1  CH1 5           5             5           5        5            1
+2  P1R 5           5             5           5        5            1
+3  P2C 5           5             5           5        5            1
+4  P2M 5           5             5           5        5            1
+  max_anchor_R
+1            1
+2            1
+3            1
+4            1
+
+  all reported pairs are strictly specific
+
+## Cross-pair 3' dimer flags
+  none
+
+## Reminders
+  - Tm here is primer3/SantaLucia. The vendor's OligoAnalyzer value will differ;
+    do not re-derive the annealing temperature from the spec sheet.
+  - Coordinates are Bakta/unrotated. Remap to PGAP after SUB16549748 returns.
+  - Part C singleplex validation is mandatory before the multiplex is trusted.
+  - There is no plasmid-free negative control strain. NTC + extraction blank only.

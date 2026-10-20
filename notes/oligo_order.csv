@@ -1,0 +1,9 @@
+Name,Sequence,Scale,Purification,Note
+P1R_F,ATTAAACTCTTCGAAGCGGG,25nm,STD,retention multiplex
+P1R_R,TGGTCTTAACAGCAGAAACC,25nm,STD,retention multiplex
+P2C_F,CATTGCCTCTGCTTATTTCC,25nm,STD,singleplex confirmation only
+P2C_R,ACAAGTTAATCCAGACTGCC,25nm,STD,singleplex confirmation only
+P2M_F,CCGTAGATCTTTGACTGCTC,25nm,STD,retention multiplex
+P2M_R,GATTTTGAACAGACAACCGC,25nm,STD,retention multiplex
+CH1_F,AGGTCCGGTATTTTATTCGC,25nm,STD,retention multiplex
+CH1_R,ATCTTAAACATGGCCCCATC,25nm,STD,retention multiplex

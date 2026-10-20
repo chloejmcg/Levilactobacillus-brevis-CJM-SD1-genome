@@ -1,0 +1,47 @@
+
+== Locating Bakta proteome ==
+Proteome: /home/cjm423/DLVP55_2-genome/results/04_annotation/DLVP55_2.faa
+Proteins: 2422
+
+== Resolving run_dbcan ==
+Not on PATH or in /programs — building a venv at /workdir/cjm423/venv_dbcan
+Collecting dbcan
+  Downloading dbcan-3.0.6.tar.gz (83.4 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 83.4/83.4 MB 11.5 MB/s  0:00:07
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting natsort (from dbcan)
+  Downloading natsort-8.4.0-py3-none-any.whl.metadata (21 kB)
+Requirement already satisfied: setuptools in /local/workdir/cjm423/venv_dbcan/lib/python3.9/site-packages (from dbcan) (53.0.0)
+Collecting scipy (from dbcan)
+  Downloading scipy-1.13.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (60 kB)
+Collecting psutil (from dbcan)
+  Downloading psutil-7.2.2-cp36-abi3-manylinux2010_x86_64.manylinux_2_12_x86_64.manylinux_2_28_x86_64.whl.metadata (22 kB)
+Collecting numpy (from dbcan)
+  Downloading numpy-2.0.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (60 kB)
+Downloading natsort-8.4.0-py3-none-any.whl (38 kB)
+Downloading numpy-2.0.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (19.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 19.5/19.5 MB 7.7 MB/s  0:00:02
+Downloading psutil-7.2.2-cp36-abi3-manylinux2010_x86_64.manylinux_2_12_x86_64.manylinux_2_28_x86_64.whl (155 kB)
+Downloading scipy-1.13.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (38.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 38.6/38.6 MB 14.8 MB/s  0:00:02
+Building wheels for collected packages: dbcan
+  Building wheel for dbcan (pyproject.toml): started
+  Building wheel for dbcan (pyproject.toml): finished with status 'done'
+  Created wheel for dbcan: filename=dbcan-3.0.6-py3-none-any.whl size=86135603 sha256=49677c986a0d0d0dc8767bf1757c7d4cf6116041756b41eb3d97238c9e941450
+  Stored in directory: /home/cjm423/.cache/pip/wheels/fd/d5/c1/b4c367836ce008fd8c47d81669a83d3c3bad9f59b3ecbbc72f
+Successfully built dbcan
+Installing collected packages: psutil, numpy, natsort, scipy, dbcan
+
+Successfully installed dbcan-3.0.6 natsort-8.4.0 numpy-2.0.2 psutil-7.2.2 scipy-1.13.1
+run_dbcan: /workdir/cjm423/venv_dbcan/bin/run_dbcan
+version string: usage: run_dbcan [-h] [--cluster CLUSTER] [--dbCANFile DBCANFILE]
+diamond version 2.1.9
+CLI generation: 4
+
+== Database ==
+ERROR: v4 CLI needs manual DB staging; see dbcan.readthedocs.io

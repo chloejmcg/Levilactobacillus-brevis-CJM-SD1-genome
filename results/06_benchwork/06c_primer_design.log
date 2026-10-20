@@ -1,0 +1,61 @@
+
+== Assembly check ==
+seqkit v2.13.0
+file                                                                format  type  num_seqs    sum_len  min_len  avg_len    max_len
+/home/cjm423/DLVP55_2-genome/results/DLVP55_2_final_assembly.fasta  FASTA   DNA          3  2,514,906   32,245  838,302  2,449,864
+Total length 2514906 — OK
+
+== Bakta annotation table ==
+Bakta TSV: /home/cjm423/DLVP55_2-genome/results/04_annotation/DLVP55_2.tsv
+[INFO][0m create or read FASTA index ...
+[INFO][0m read FASTA index from /home/cjm423/DLVP55_2-genome/results/DLVP55_2_final_assembly.fasta.seqkit.fai
+[INFO][0m   3 records loaded from /home/cjm423/DLVP55_2-genome/results/DLVP55_2_final_assembly.fasta.seqkit.fai
+[INFO][0m create or read FASTA index ...
+[INFO][0m read FASTA index from /home/cjm423/DLVP55_2-genome/results/DLVP55_2_final_assembly.fasta.seqkit.fai
+[INFO][0m   3 records loaded from /home/cjm423/DLVP55_2-genome/results/DLVP55_2_final_assembly.fasta.seqkit.fai
+[INFO][0m create or read FASTA index ...
+[INFO][0m read FASTA index from /home/cjm423/DLVP55_2-genome/results/DLVP55_2_final_assembly.fasta.seqkit.fai
+[INFO][0m   3 records loaded from /home/cjm423/DLVP55_2-genome/results/DLVP55_2_final_assembly.fasta.seqkit.fai
+[INFO][0m create or read FASTA index ...
+[INFO][0m read FASTA index from /home/cjm423/DLVP55_2-genome/results/DLVP55_2_final_assembly.fasta.seqkit.fai
+[INFO][0m   3 records loaded from /home/cjm423/DLVP55_2-genome/results/DLVP55_2_final_assembly.fasta.seqkit.fai
+pair  locus_tag     contig       start   end     strand  len
+CH1   DLVP55_03050  chromosome   624265  624933  +       669
+P2M   DLVP55_12405  pDLVP55_2_2  7298    9361    -       2064
+P1R   DLVP55_12340  pDLVP55_2_1  28357   29733   +       1377
+P2C   DLVP55_12475  pDLVP55_2_2  19162   20250   -       1089
+
+== primer3 ==
+primer3_core: /programs/primer3-2.6/primer3_core
+
+primer3_config: /programs/primer3-2.6/primer3_config/
+pairs with >=1 candidate: 4
+PRIMER_LEFT_EXPLAIN=considered 3236, GC content failed 2077, GC clamp failed 204, low tm 161, high tm 491, high hairpin stability 9, ok 294
+PRIMER_RIGHT_EXPLAIN=considered 3514, GC content failed 2610, GC clamp failed 160, low tm 122, high tm 386, high hairpin stability 3, ok 233
+PRIMER_PAIR_EXPLAIN=considered 199, unacceptable product size 191, ok 8
+PRIMER_LEFT_EXPLAIN=considered 10371, GC content failed 6862, GC clamp failed 619, low tm 414, high tm 1597, high hairpin stability 2, long poly-x seq 51, ok 826
+PRIMER_RIGHT_EXPLAIN=considered 10555, GC content failed 7084, GC clamp failed 574, low tm 375, high tm 1678, high hairpin stability 2, long poly-x seq 47, ok 795
+PRIMER_PAIR_EXPLAIN=considered 404, unacceptable product size 395, ok 9
+PRIMER_LEFT_EXPLAIN=considered 4782, GC content failed 3396, GC clamp failed 244, low tm 167, high tm 620, high hairpin stability 3, long poly-x seq 9, ok 343
+PRIMER_RIGHT_EXPLAIN=considered 4150, GC content failed 2004, GC clamp failed 327, low tm 280, high tm 1005, high hairpin stability 3, long poly-x seq 9, ok 522
+PRIMER_PAIR_EXPLAIN=considered 173, unacceptable product size 163, ok 10
+PRIMER_LEFT_EXPLAIN=considered 4790, GC content failed 4503, GC clamp failed 80, low tm 69, high tm 50, high hairpin stability 1, long poly-x seq 6, ok 81
+PRIMER_RIGHT_EXPLAIN=considered 4697, GC content failed 4306, GC clamp failed 90, low tm 56, high tm 137, long poly-x seq 5, ok 103
+PRIMER_PAIR_EXPLAIN=considered 111, unacceptable product size 105, ok 6
+
+== BLAST specificity against the assembly ==
+makeblastdb: 2.16.0+
+blast db built
+candidate oligos: 40
+blast hit rows: 159135
+
+== Done — now parse and choose ==
+
+Outputs in /home/cjm423/DLVP55_2-genome/results/06_benchwork/primer_design:
+  target_windows.tsv     locus tag -> contig/coords used
+  primer3_output.txt     5 candidate pairs per target
+  candidates_blast.tsv   specificity hits
+
+Next:
+  Rscript scripts/06c_primer_design.R
+  # writes notes/primers.tsv and notes/oligo_order.csv
