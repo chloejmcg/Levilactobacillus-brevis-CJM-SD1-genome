@@ -1,0 +1,12 @@
+# competence gene inventory, CJM-SD1, 2026-11-05
+ADATZ4_03210	CM205908.1	681158	681805	-	prepilin peptidase
+ADATZ4_04295	CM205908.1	886193	887287	+	competence protein CoiA
+ADATZ4_04550	CM205908.1	950830	953355	+	SF1B family DNA helicase RecD2
+ADATZ4_04725	CM205908.1	989898	990377	+	ComE operon protein 2
+ADATZ4_04730	CM205908.1	990428	992644	+	DNA internalization-related competence protein ComEC/Rec2
+ADATZ4_06155	CM205908.1	1246192	1247082	+	DNA-processing protein DprA
+ADATZ4_07880	CM205908.1	1562969	1563391	-	prepilin-type N-terminal cleavage/methylation domain-containing protein
+ADATZ4_07895	CM205908.1	1564008	1564319	-	competence type IV pilus major pilin ComGC
+ADATZ4_07905	CM205908.1	1565300	1566265	-	competence type IV pilus ATPase ComGA
+ADATZ4_08100	CM205908.1	1605419	1606669	-	competence/damage-inducible protein A
+ADATZ4_08955	CM205908.1	1781872	1782546	-	ComF family protein
