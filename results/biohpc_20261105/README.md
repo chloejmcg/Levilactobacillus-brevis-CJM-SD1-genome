@@ -41,7 +41,22 @@ locus tags used elsewhere in this project.**
 
 ## Not done in this session
 
-- Q7 (ADATZ4_12090 vs nr, replicon incompatibility) — still running at time of commit
-- Proteome-wide SignalP 6 — still running at time of commit
-- Q9B (*eps* operon terminator scan) — `09_eps_operon_structure.sh` is not in this repo
-- ISEScan — not installed on BioHPC and no substitute found
+- **Q9B** (*eps* operon terminator scan) — `09_eps_operon_structure.sh` is not in this repo
+- **ISEScan** — not installed on BioHPC, no substitute found. Still outstanding for construct
+  design and for the parked pyruvylation work
+
+## Method deviations
+
+- **Q7** was specified as `ADATZ4_12090` vs nr. That run was killed after ~80 min without output
+  and replaced with a direct pairwise comparison against representatives of both vector replicon
+  families (`Q7_12090_vs_vector_reps.tsv`, `vector_reps_core.faa`), run at `-evalue 100`. The
+  pairwise test is the stronger one for incompatibility, which is a question about one specific
+  relationship rather than global similarity. Result: no similarity to either family.
+- **Q10** was specified as the YfhO pair vs `gtf-2` alone. Run instead against the **entire**
+  *L. brevis* TMW 1.2112 proteome (CP016797, 2,144 proteins), which is strictly more informative.
+- **Q11** used SignalP 6.0 via the BioHPC singularity image with the model weights bind-mounted
+  from `/programs/signalp-6/`. SignalP 5.0 on this system is broken (missing model assets).
+- **CRISPR** used `minced` 0.4.2 rather than CRISPRCasFinder, which exists on BioHPC only as an
+  unextracted 2018 tarball.
+- **RM systems** were assessed from the Pfam domain scan rather than PADLOC, which is not
+  installed.
