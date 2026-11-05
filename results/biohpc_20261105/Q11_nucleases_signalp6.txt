@@ -1,0 +1,4 @@
+# SignalP-6.0	Organism: Other	Timestamp: 20261105150323
+# ID	Prediction	OTHER	SP(Sec/SPI)	LIPO(Sec/SPII)	TAT(Tat/SPI)	TATLIPO(Tat/SPII)	PILIN(Sec/SPIII)	CS Position
+ADATZ4_01125 DNA/RNA non-specific endonuclease [Levilactobacillus brevis] [MJD1879313.1]	OTHER	1.000000	0.000000	0.000000	0.000000	0.000000	0.000000	
+ADATZ4_11865 DNA/RNA non-specific endonuclease [Levilactobacillus brevis] [MJD1881367.1]	OTHER	0.918659	0.068246	0.000884	0.000400	0.000183	0.011654	

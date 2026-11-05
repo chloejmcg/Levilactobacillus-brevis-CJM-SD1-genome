@@ -1,0 +1,80 @@
+BLASTP 2.16.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: User specified sequence set (Input: queries/catIII.faa).
+           1 sequences; 213 total letters
+
+
+
+Query= ADATZ4_02560 chloramphenicol acetyltransferase [Levilactobacillus
+brevis] [MJD1879598.1]
+
+Length=222
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+P00484.1 RecName: Full=Chloramphenicol acetyltransferase 3; AltNa...  133     2e-43
+
+
+> P00484.1 RecName: Full=Chloramphenicol acetyltransferase 3; AltName: 
+Full=Chloramphenicol acetyltransferase III; Short=CAT-III 
+[Escherichia coli]
+Length=213
+
+ Score = 133 bits (334),  Expect = 2e-43, Method: Compositional matrix adjust.
+ Identities = 65/206 (32%), Positives = 106/206 (51%), Gaps = 0/206 (0%)
+
+Query  9    TPIDQATWARREYFYYFTKMMPTGFTLNVDIDITATKAWLTKHNRKFNPAYLYLVTKLIT  68
+            T  D   W RRE+F ++   +P GF+L   IDIT  K  L     KF P  +YL+ + + 
+Sbjct  4    TKFDVKNWVRREHFEFYRHRLPCGFSLTSKIDITTLKKSLDDSAYKFYPVMIYLIAQAVN  63
+
+Query  69   KHPEFRVGQVDGQLVEYDVLHPSYSIFHGDDLSISSLWTAYDPSFEQFYQNYLADQATYG  128
+            +  E R+   D +L+ +D + P +++FH +  + S+L   Y    +QF  NYL+    Y 
+Sbjct  64   QFDELRMAIKDDELIVWDSVDPQFTVFHQETETFSALSCPYSSDIDQFMVNYLSVMERYK  123
+
+Query  129  DYHTPMPKAPQSANTYMIGSIPWTHFTSYTPLPFTPLNTFFPVIQAGRFTFKDGQWLMPL  188
+                  P+     N   I ++PW +F S+        + F P+I   ++  +  + L+PL
+Sbjct  124  SDTKLFPQGVTPENHLNISALPWVNFDSFNLNVANFTDYFAPIITMAKYQQEGDRLLLPL  183
+
+Query  189  SFTIHHAVADGYHVSQFFNELQRVFD  214
+            S  +HHAV DG+HV++F N LQ + +
+Sbjct  184  SVQVHHAVCDGFHVARFINRLQELCN  209
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.137    0.445    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 38200
+
+
+  Database: User specified sequence set (Input: queries/catIII.faa).
+    Posted date:  Unknown
+  Number of letters in database: 213
+  Number of sequences in database:  1
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

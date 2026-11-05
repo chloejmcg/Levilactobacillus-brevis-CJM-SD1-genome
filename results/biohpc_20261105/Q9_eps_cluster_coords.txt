@@ -1,0 +1,27 @@
+ADATZ4_03440   713383-714438   +  LCP family protein
+    gap    252
+ADATZ4_03445   714691-715482   +  YveK family protein
+    gap      9
+ADATZ4_03450   715492-716253   +  CpsD/CapB family tyrosine-protein kinase
+    gap     -4
+ADATZ4_03455   716250-717032   +  tyrosine-protein phosphatase
+    gap     -1
+ADATZ4_03460   717032-717700   +  sugar transferase
+    gap     11
+ADATZ4_03465   717712-718794   +  glycosyltransferase
+    gap     13
+ADATZ4_03470   718808-719806   +  glycosyltransferase family 2 protein
+    gap     31
+ADATZ4_03475   719838-720770   +  glycosyltransferase
+    gap     59
+ADATZ4_03480   720830-721924   +  CDP-glycerol glycerophosphotransferase family protein
+    gap     26
+ADATZ4_03485   721951-723066   +  UDP-galactopyranose mutase
+    gap      5
+ADATZ4_03490   723072-724487   +  oligosaccharide flippase family protein
+    gap     33
+ADATZ4_03495   724521-725864   +  O-antigen polymerase
+    gap     73
+ADATZ4_03500   725938-727011   +  LCP family protein
+    gap    114
+ADATZ4_03505   727126-728136   +  dTDP-glucose 4%2C6-dehydratase

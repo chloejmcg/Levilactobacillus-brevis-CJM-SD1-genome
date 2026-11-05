@@ -1,0 +1,2392 @@
+locus_tag	replicon	start	end	strand	product
+ADATZ4_00005	CM205908.1	1	1359	+	chromosomal replication initiator protein DnaA
+ADATZ4_00010	CM205908.1	1629	2768	+	DNA polymerase III subunit beta
+ADATZ4_00015	CM205908.1	3188	3415	+	S4 domain-containing protein YaaA
+ADATZ4_00020	CM205908.1	3415	4569	+	DNA replication/repair protein RecF
+ADATZ4_00025	CM205908.1	4573	6516	+	DNA topoisomerase (ATP-hydrolyzing) subunit B
+ADATZ4_00030	CM205908.1	6538	9072	+	DNA gyrase subunit A
+ADATZ4_00035	CM205908.1	9842	10138	+	30S ribosomal protein S6
+ADATZ4_00040	CM205908.1	10172	10738	+	single-stranded DNA-binding protein
+ADATZ4_00045	CM205908.1	10767	11003	+	30S ribosomal protein S18
+ADATZ4_00050	CM205908.1	11149	12336	-	metal-dependent hydrolase family protein
+ADATZ4_00055	CM205908.1	12367	13974	-	peptide ABC transporter substrate-binding protein
+ADATZ4_00060	CM205908.1	14583	15359	+	D-alanyl-D-alanine carboxypeptidase
+ADATZ4_00065	CM205908.1	15492	16676	-	metal-dependent hydrolase family protein
+ADATZ4_00070	CM205908.1	16698	18299	-	peptide ABC transporter substrate-binding protein
+ADATZ4_00075	CM205908.1	18855	19421	-	TetR/AcrR family transcriptional regulator
+ADATZ4_00080	CM205908.1	19532	20278	+	sulfite exporter TauE/SafE family protein
+ADATZ4_00085	CM205908.1	20535	22550	+	DHH family phosphoesterase
+ADATZ4_00090	CM205908.1	22619	23077	+	50S ribosomal protein L9
+ADATZ4_00095	CM205908.1	23253	23471	+	hypothetical protein
+ADATZ4_00100	CM205908.1	23984	25372	+	replicative DNA helicase
+ADATZ4_00105	CM205908.1	25762	26292	-	flavodoxin family protein
+ADATZ4_00110	CM205908.1	26433	27608	+	MDR family MFS transporter
+ADATZ4_00115	CM205908.1	27682	27951	+	hypothetical protein
+ADATZ4_00120	CM205908.1	28400	30010	+	peptide ABC transporter substrate-binding protein
+ADATZ4_00125	CM205908.1	30210	30455	+	hypothetical protein
+ADATZ4_00130	CM205908.1	30495	31496	-	matrixin family metalloprotease
+ADATZ4_00140	CM205908.1	32486	33202	+	cell wall metabolism response regulator VicR
+ADATZ4_00145	CM205908.1	33247	35103	+	cell wall metabolism sensor histidine kinase WalK
+ADATZ4_00150	CM205908.1	35090	36391	+	YycH family regulatory protein
+ADATZ4_00155	CM205908.1	36414	37268	+	two-component system regulatory protein YycI
+ADATZ4_00160	CM205908.1	37414	38241	+	MBL fold metallo-hydrolase
+ADATZ4_00165	CM205908.1	38391	39731	+	S1C family serine protease
+ADATZ4_00170	CM205908.1	40268	40747	+	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH
+ADATZ4_00175	CM205908.1	40838	41698	+	hypothetical protein
+ADATZ4_00180	CM205908.1	41710	43074	+	hypothetical protein
+ADATZ4_00185	CM205908.1	43808	44227	-	hypothetical protein
+ADATZ4_00190	CM205908.1	44238	44750	-	hypothetical protein
+ADATZ4_00195	CM205908.1	44787	45356	-	hypothetical protein
+ADATZ4_00200	CM205908.1	45624	46076	+	hypothetical protein
+ADATZ4_00205	CM205908.1	46210	48093	-	bifunctional metallophosphatase/5'-nucleotidase
+ADATZ4_00210	CM205908.1	48242	48733	-	GNAT family N-acetyltransferase
+ADATZ4_00215	CM205908.1	49167	51191	+	DUF5776 domain-containing protein
+ADATZ4_00220	CM205908.1	51332	52462	-	hypothetical protein
+ADATZ4_00225	CM205908.1	52764	53607	+	peptidylprolyl isomerase
+ADATZ4_00230	CM205908.1	53669	53800	+	hypothetical protein
+ADATZ4_00235	CM205908.1	53784	55856	-	BspA family leucine-rich repeat surface protein
+ADATZ4_00240	CM205908.1	56441	56605	+	Mor transcription activator family protein
+ADATZ4_00245	CM205908.1	56641	57633	+	NlpC/P60 family protein
+ADATZ4_00250	CM205908.1	57900	59741	+	DUF5776 domain-containing protein
+ADATZ4_00255	CM205908.1	59809	61302	-	ribosomal protection-like ABC-F family protein
+ADATZ4_00260	CM205908.1	61712	62320	+	LysE/ArgO family amino acid transporter
+ADATZ4_00265	CM205908.1	62514	62945	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_00270	CM205908.1	63072	64025	+	alpha/beta hydrolase
+ADATZ4_00275	CM205908.1	64152	65096	+	ADP-ribosylglycohydrolase family protein
+ADATZ4_00280	CM205908.1	65096	65692	+	sugar O-acetyltransferase
+ADATZ4_00285	CM205908.1	65801	66115	-	hypothetical protein
+ADATZ4_00290	CM205908.1	66155	66727	-	cadmium resistance transporter
+ADATZ4_00295	CM205908.1	66816	67247	+	GNAT family N-acetyltransferase
+ADATZ4_00300	CM205908.1	67291	67803	-	GtrA family protein
+ADATZ4_00305	CM205908.1	68027	69667	-	peptide ABC transporter substrate-binding protein
+ADATZ4_00310	CM205908.1	70364	70999	+	helix-turn-helix domain-containing protein
+ADATZ4_00315	CM205908.1	71139	72413	+	YhgE/Pip domain-containing protein
+ADATZ4_00320	CM205908.1	72477	73325	-	SPFH domain-containing protein
+ADATZ4_00325	CM205908.1	73339	73668	-	toxin-antitoxin system HicB family antitoxin
+ADATZ4_00330	CM205908.1	73766	74503	-	MucBP domain-containing protein
+ADATZ4_00335	CM205908.1	74813	75379	+	nucleotidyltransferase family protein
+ADATZ4_00340	CM205908.1	75496	75999	-	DUF2798 domain-containing protein
+ADATZ4_00345	CM205908.1	76087	76452	-	PaaI family thioesterase
+ADATZ4_00350	CM205908.1	76485	77306	+	1%2C4-dihydroxy-2-naphthoyl-CoA synthase
+ADATZ4_00355	CM205908.1	77322	78755	+	o-succinylbenzoate--CoA ligase
+ADATZ4_00360	CM205908.1	78820	79362	-	DUF1097 domain-containing protein
+ADATZ4_00365	CM205908.1	79565	80509	+	hypothetical protein
+ADATZ4_00370	CM205908.1	80569	82083	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2%2C6-diaminopimelate ligase
+ADATZ4_00375	CM205908.1	82104	83612	-	lysine--tRNA ligase
+ADATZ4_00380	CM205908.1	83826	85007	+	MFS transporter
+ADATZ4_00395	CM205908.1	85445	85639	+	zinc-binding dehydrogenase
+ADATZ4_00400	CM205908.1	85911	86501	+	TetR/AcrR family transcriptional regulator C-terminal domain-containing protein
+ADATZ4_00405	CM205908.1	86695	88200	+	amino acid permease
+ADATZ4_00410	CM205908.1	88256	89695	+	glutamate decarboxylase
+ADATZ4_00415	CM205908.1	89756	91267	+	glutamate--tRNA ligase
+ADATZ4_00420	CM205908.1	91446	92360	+	hypothetical protein
+ADATZ4_00440	CM205908.1	98019	99305	+	dicarboxylate/amino acid:cation symporter
+ADATZ4_00445	CM205908.1	100397	100960	+	peroxiredoxin
+ADATZ4_00450	CM205908.1	101066	101413	-	hypothetical protein
+ADATZ4_00455	CM205908.1	101577	102218	+	SDR family oxidoreductase
+ADATZ4_00460	CM205908.1	102310	102573	+	hypothetical protein
+ADATZ4_00465	CM205908.1	102739	103380	-	helix-turn-helix transcriptional regulator
+ADATZ4_00470	CM205908.1	103529	103735	-	hypothetical protein
+ADATZ4_00475	CM205908.1	103751	103942	-	hypothetical protein
+ADATZ4_00480	CM205908.1	104168	105610	-	NADP-dependent phosphogluconate dehydrogenase
+ADATZ4_00485	CM205908.1	105744	106172	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_00490	CM205908.1	106257	106694	+	GNAT family N-acetyltransferase
+ADATZ4_00495	CM205908.1	106780	108510	-	DUF5776 domain-containing protein
+ADATZ4_00500	CM205908.1	108688	110175	-	glucose-6-phosphate dehydrogenase
+ADATZ4_00505	CM205908.1	110636	111457	+	AAC(3) family N-acetyltransferase
+ADATZ4_00510	CM205908.1	111946	113892	+	MucBP domain-containing protein
+ADATZ4_00515	CM205908.1	114000	114434	-	DUF2178 domain-containing protein
+ADATZ4_00520	CM205908.1	114431	114634	-	helix-turn-helix transcriptional regulator
+ADATZ4_00525	CM205908.1	114775	115941	-	DUF2075 domain-containing protein
+ADATZ4_00530	CM205908.1	116612	117250	+	carbonic anhydrase family protein
+ADATZ4_00535	CM205908.1	117412	118575	-	hypothetical protein
+ADATZ4_00540	CM205908.1	118830	119957	+	hypothetical protein
+ADATZ4_00545	CM205908.1	120116	120751	+	sugar O-acetyltransferase
+ADATZ4_00550	CM205908.1	120780	121748	+	aldo/keto reductase family protein
+ADATZ4_00555	CM205908.1	122024	123187	+	MFS transporter
+ADATZ4_00560	CM205908.1	123238	123654	-	Zn-Finger Containing protein
+ADATZ4_00565	CM205908.1	123768	124952	-	helix-turn-helix domain-containing protein
+ADATZ4_00570	CM205908.1	125120	127147	+	right-handed parallel beta-helix repeat-containing protein
+ADATZ4_00575	CM205908.1	127265	128506	+	MFS transporter
+ADATZ4_00580	CM205908.1	128562	128909	+	DUF6176 family protein
+ADATZ4_00585	CM205908.1	128976	130187	-	aminotransferase-like domain-containing protein
+ADATZ4_00590	CM205908.1	130414	132369	+	GTP-binding protein
+ADATZ4_00595	CM205908.1	132452	133126	+	type 1 glutamine amidotransferase
+ADATZ4_00600	CM205908.1	133196	134272	+	DNA alkylation repair protein
+ADATZ4_00605	CM205908.1	134416	135108	+	GntR family transcriptional regulator
+ADATZ4_00610	CM205908.1	135132	136136	+	ADP-ribosylglycohydrolase family protein
+ADATZ4_00615	CM205908.1	136157	137530	+	purine-cytosine permease family protein
+ADATZ4_00620	CM205908.1	137523	138401	+	PfkB family carbohydrate kinase
+ADATZ4_00625	CM205908.1	138504	139403	+	proline iminopeptidase
+ADATZ4_00630	CM205908.1	139396	140115	+	DUF3658 domain-containing protein
+ADATZ4_00635	CM205908.1	140207	141430	-	MFS transporter
+ADATZ4_00640	CM205908.1	141728	142447	+	orotidine-5'-phosphate decarboxylase
+ADATZ4_00645	CM205908.1	142444	143076	+	orotate phosphoribosyltransferase
+ADATZ4_00650	CM205908.1	143102	143848	-	peroxide stress protein YaaA
+ADATZ4_00655	CM205908.1	143945	145477	-	glycoside hydrolase family 30 protein
+ADATZ4_00660	CM205908.1	145659	146522	+	helix-turn-helix domain-containing protein
+ADATZ4_00665	CM205908.1	146698	147111	+	YjdF family protein
+ADATZ4_00670	CM205908.1	147323	147574	+	GlsB/YeaQ/YmgE family stress response membrane protein
+ADATZ4_00675	CM205908.1	147588	147854	+	CsbD family protein
+ADATZ4_00680	CM205908.1	148305	150983	+	SpaA isopeptide-forming pilin-related protein
+ADATZ4_00685	CM205908.1	151135	152640	-	arabinosylfuranosidase ArfA
+ADATZ4_00690	CM205908.1	152826	153716	+	EamA family transporter
+ADATZ4_00695	CM205908.1	153786	153977	-	hypothetical protein
+ADATZ4_00700	CM205908.1	154028	155197	-	thiolase family protein
+ADATZ4_00705	CM205908.1	155617	156660	+	putrescine carbamoyltransferase
+ADATZ4_00710	CM205908.1	156705	158090	+	APC family permease
+ADATZ4_00715	CM205908.1	158117	159211	+	agmatine deiminase
+ADATZ4_00720	CM205908.1	159278	160222	+	carbamate kinase
+ADATZ4_00725	CM205908.1	160246	161358	+	agmatine deiminase
+ADATZ4_00730	CM205908.1	161355	162164	+	MurR/RpiR family transcriptional regulator
+ADATZ4_00735	CM205908.1	162288	163175	-	LysR family transcriptional regulator
+ADATZ4_00740	CM205908.1	163308	164945	+	malolactic enzyme
+ADATZ4_00745	CM205908.1	165052	166023	+	AEC family transporter
+ADATZ4_00750	CM205908.1	166212	166706	+	energy coupling factor transporter S component ThiW
+ADATZ4_00755	CM205908.1	166808	167998	+	MFS transporter
+ADATZ4_00760	CM205908.1	168138	168659	+	TetR/AcrR family transcriptional regulator
+ADATZ4_00765	CM205908.1	168663	169721	+	ABC transporter permease
+ADATZ4_00770	CM205908.1	169733	170416	+	ABC transporter ATP-binding protein
+ADATZ4_00775	CM205908.1	170676	172037	+	sugar porter family MFS transporter
+ADATZ4_00780	CM205908.1	172159	172791	+	GyrI-like domain-containing protein
+ADATZ4_00785	CM205908.1	172849	173502	-	HAD-IA family hydrolase
+ADATZ4_00790	CM205908.1	173594	174766	-	iron-containing alcohol dehydrogenase
+ADATZ4_00795	CM205908.1	175082	176059	+	cation diffusion facilitator family transporter
+ADATZ4_00800	CM205908.1	176130	176810	-	transcriptional regulator YeiL
+ADATZ4_00805	CM205908.1	176911	177843	+	ribosylpyrimidine nucleosidase
+ADATZ4_00810	CM205908.1	177899	178981	-	S66 family peptidase
+ADATZ4_00815	CM205908.1	179118	179504	+	winged helix-turn-helix transcriptional regulator
+ADATZ4_00820	CM205908.1	179566	179853	+	hypothetical protein
+ADATZ4_00825	CM205908.1	179850	181040	+	NADH-dependent flavin oxidoreductase
+ADATZ4_00830	CM205908.1	181119	182390	-	MFS transporter
+ADATZ4_00835	CM205908.1	182840	183532	+	hypothetical protein
+ADATZ4_00840	CM205908.1	183665	184087	-	MerR family transcriptional regulator
+ADATZ4_00845	CM205908.1	184258	184908	+	hypothetical protein
+ADATZ4_00850	CM205908.1	184979	186652	-	glycoside hydrolase family 13 protein
+ADATZ4_00855	CM205908.1	186673	188055	-	SLC45 family MFS transporter
+ADATZ4_00860	CM205908.1	188250	189248	+	LacI family DNA-binding transcriptional regulator
+ADATZ4_00865	CM205908.1	189484	189972	+	hypothetical protein
+ADATZ4_00870	CM205908.1	189993	190493	+	hypothetical protein
+ADATZ4_00875	CM205908.1	190683	192326	-	peptide ABC transporter substrate-binding protein
+ADATZ4_00880	CM205908.1	193171	194550	+	MFS transporter
+ADATZ4_00885	CM205908.1	194613	195665	+	alpha/beta hydrolase fold domain-containing protein
+ADATZ4_00890	CM205908.1	195698	197908	+	glycoside hydrolase family 65 protein
+ADATZ4_00895	CM205908.1	198520	199089	+	SdpI family protein
+ADATZ4_00900	CM205908.1	199350	200183	+	histidine phosphatase family protein
+ADATZ4_00905	CM205908.1	200257	200786	+	GNAT family N-acetyltransferase
+ADATZ4_00910	CM205908.1	200795	201109	-	DMT family transporter
+ADATZ4_00915	CM205908.1	201111	201437	-	DMT family transporter
+ADATZ4_00920	CM205908.1	201676	202098	-	hypothetical protein
+ADATZ4_00925	CM205908.1	202457	203332	+	fructokinase ScrK
+ADATZ4_00930	CM205908.1	203350	204351	+	zinc-dependent alcohol dehydrogenase family protein
+ADATZ4_00935	CM205908.1	204403	205152	+	DUF6198 family protein
+ADATZ4_00940	CM205908.1	205154	205546	+	VOC family protein
+ADATZ4_00945	CM205908.1	205835	207232	-	aminotransferase-like domain-containing protein
+ADATZ4_00950	CM205908.1	207355	208149	+	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase
+ADATZ4_00955	CM205908.1	208146	208646	+	ECF transporter S component
+ADATZ4_00960	CM205908.1	208664	209224	+	TIGR01440 family protein
+ADATZ4_00965	CM205908.1	209657	210289	+	pentapeptide repeat-containing protein
+ADATZ4_00970	CM205908.1	210281	211258	-	LacI family DNA-binding transcriptional regulator
+ADATZ4_00980	CM205908.1	211650	212738	+	PfkB family carbohydrate kinase
+ADATZ4_00985	CM205908.1	212996	213952	+	PfkB family carbohydrate kinase
+ADATZ4_00990	CM205908.1	213969	214661	+	phosphoribosylanthranilate isomerase
+ADATZ4_00995	CM205908.1	214681	215307	+	YczE/YyaS/YitT family protein
+ADATZ4_01000	CM205908.1	215321	216481	+	iron-containing alcohol dehydrogenase
+ADATZ4_01005	CM205908.1	216506	217690	+	NupC/NupG family nucleoside CNT transporter
+ADATZ4_01010	CM205908.1	217702	218085	+	hypothetical protein
+ADATZ4_01015	CM205908.1	218102	219034	+	pyrimidine-specific ribonucleoside hydrolase RihA
+ADATZ4_01020	CM205908.1	219160	219840	+	YoaK family protein
+ADATZ4_01025	CM205908.1	219953	221656	-	aryl-sulfate sulfotransferase
+ADATZ4_01030	CM205908.1	222098	223309	+	acyltransferase
+ADATZ4_01035	CM205908.1	223257	224783	+	AMP-binding protein
+ADATZ4_01040	CM205908.1	224780	225766	+	aliphatic sulfonate ABC transporter substrate-binding protein
+ADATZ4_01045	CM205908.1	225859	227436	-	bifunctional metallophosphatase/5'-nucleotidase
+ADATZ4_01050	CM205908.1	227870	229948	-	Na+/H+ antiporter
+ADATZ4_01055	CM205908.1	230480	230878	+	transcriptional regulator Spx
+ADATZ4_01060	CM205908.1	231010	231294	-	hypothetical protein
+ADATZ4_01065	CM205908.1	231475	232404	-	ketopantoate reductase family protein
+ADATZ4_01070	CM205908.1	232567	234537	+	S9 family peptidase
+ADATZ4_01075	CM205908.1	234814	235176	+	type II toxin-antitoxin system RelB family anti-toxin
+ADATZ4_01080	CM205908.1	235822	237426	+	polysaccharide biosynthesis C-terminal domain-containing protein
+ADATZ4_01085	CM205908.1	237560	238033	-	C40 family peptidase
+ADATZ4_01090	CM205908.1	238192	239148	-	linear amide C-N hydrolase
+ADATZ4_01095	CM205908.1	239280	239906	+	LVIS_2131 family protein
+ADATZ4_01100	CM205908.1	240024	240587	-	M15 family metallopeptidase
+ADATZ4_01105	CM205908.1	240831	241478	-	NAD(P)H-hydrate epimerase
+ADATZ4_01110	CM205908.1	241505	241957	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_01115	CM205908.1	242105	242431	+	hypothetical protein
+ADATZ4_01125	CM205908.1	243093	244385	-	DNA/RNA non-specific endonuclease
+ADATZ4_01130	CM205908.1	244766	245212	+	DUF5776 domain-containing protein
+ADATZ4_01135	CM205908.1	245495	246856	+	APC family permease
+ADATZ4_01140	CM205908.1	246846	247739	+	ROK family protein
+ADATZ4_01145	CM205908.1	248096	249478	+	branched-chain amino acid transport system II carrier protein
+ADATZ4_01150	CM205908.1	249570	250643	+	YdcF family protein
+ADATZ4_01155	CM205908.1	250713	251564	-	SAM-dependent methyltransferase
+ADATZ4_01160	CM205908.1	251643	252062	-	helix-turn-helix domain-containing protein
+ADATZ4_01165	CM205908.1	252130	253938	-	M3 family oligoendopeptidase
+ADATZ4_01170	CM205908.1	254063	255007	+	alpha/beta hydrolase
+ADATZ4_01175	CM205908.1	255458	256147	+	YoaK family protein
+ADATZ4_01180	CM205908.1	256265	257872	+	ribonuclease Y
+ADATZ4_01185	CM205908.1	257976	259295	+	replication-associated recombination protein A
+ADATZ4_01190	CM205908.1	259314	260159	+	aldo/keto reductase
+ADATZ4_01195	CM205908.1	260450	261643	+	ROK family protein
+ADATZ4_01200	CM205908.1	261780	262505	+	MerR family transcriptional regulator
+ADATZ4_01205	CM205908.1	262548	263402	-	DUF368 domain-containing protein
+ADATZ4_01210	CM205908.1	263725	264675	+	magnesium transporter CorA family protein
+ADATZ4_01215	CM205908.1	264916	265440	+	helix-turn-helix domain-containing protein
+ADATZ4_01220	CM205908.1	266094	266522	+	hypothetical protein
+ADATZ4_01225	CM205908.1	266797	267237	-	hypothetical protein
+ADATZ4_01230	CM205908.1	267319	268782	-	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+ADATZ4_01235	CM205908.1	268995	269645	+	ABC transporter ATP-binding protein
+ADATZ4_01240	CM205908.1	269642	270400	+	ABC transporter permease
+ADATZ4_01245	CM205908.1	270425	271261	+	oxidoreductase
+ADATZ4_01250	CM205908.1	271642	272430	+	hydroxyethylthiazole kinase
+ADATZ4_01255	CM205908.1	272454	273269	+	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase
+ADATZ4_01260	CM205908.1	273269	273922	+	thiamine phosphate synthase
+ADATZ4_01265	CM205908.1	274000	275925	+	ABC transporter ATP-binding protein/permease
+ADATZ4_01270	CM205908.1	276409	277707	+	Y-family DNA polymerase
+ADATZ4_01275	CM205908.1	277700	278008	+	hypothetical protein
+ADATZ4_01280	CM205908.1	278022	278405	+	hypothetical protein
+ADATZ4_01285	CM205908.1	278633	279739	-	hypothetical protein
+ADATZ4_01290	CM205908.1	280055	280609	+	sigma-70 family RNA polymerase sigma factor
+ADATZ4_01295	CM205908.1	280714	280908	+	hypothetical protein
+ADATZ4_01300	CM205908.1	280929	281165	+	DUF2922 domain-containing protein
+ADATZ4_01305	CM205908.1	281283	282191	-	LysR family transcriptional regulator
+ADATZ4_01310	CM205908.1	282416	283633	+	aminotransferase-like domain-containing protein
+ADATZ4_01315	CM205908.1	284159	285625	+	hypothetical protein
+ADATZ4_01320	CM205908.1	286196	287608	+	S-layer protein
+ADATZ4_01325	CM205908.1	287822	288742	+	IS30-like element ISLsa1 family transposase
+ADATZ4_01330	CM205908.1	288907	290736	+	DUF5776 domain-containing protein
+ADATZ4_01335	CM205908.1	290873	291514	-	hypothetical protein
+ADATZ4_01340	CM205908.1	291799	292593	+	hypothetical protein
+ADATZ4_01345	CM205908.1	292821	293201	+	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_01350	CM205908.1	293307	293564	-	hypothetical protein
+ADATZ4_01355	CM205908.1	293697	294275	-	hypothetical protein
+ADATZ4_01360	CM205908.1	294676	294942	+	hypothetical protein
+ADATZ4_01365	CM205908.1	295110	295751	+	SDR family oxidoreductase
+ADATZ4_01370	CM205908.1	297037	297861	+	alkaline phosphatase family protein
+ADATZ4_01375	CM205908.1	298152	299411	+	NupC/NupG family nucleoside CNT transporter
+ADATZ4_01380	CM205908.1	299685	300998	+	NCS2 family permease
+ADATZ4_01385	CM205908.1	301075	301989	+	ribonucleoside hydrolase RihC
+ADATZ4_01390	CM205908.1	302420	303271	+	metallophosphoesterase family protein
+ADATZ4_01395	CM205908.1	303509	304237	+	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+ADATZ4_01400	CM205908.1	304257	305093	+	nucleoid occlusion protein
+ADATZ4_01405	CM205908.1	305108	305875	+	ParA family protein
+ADATZ4_01410	CM205908.1	305865	306749	+	ParB/RepB/Spo0J family partition protein
+ADATZ4_01415	CM205908.1	306770	306973	+	DUF951 domain-containing protein
+ADATZ4_01420	CM205908.1	306979	308079	+	redox-regulated ATPase YchF
+ADATZ4_01425	CM205908.1	308097	308828	+	DUF1129 domain-containing protein
+ADATZ4_01430	CM205908.1	309003	309503	+	hypothetical protein
+ADATZ4_01435	CM205908.1	309659	310798	+	IMP dehydrogenase
+ADATZ4_01440	CM205908.1	311116	311805	+	response regulator transcription factor CroR
+ADATZ4_01445	CM205908.1	311881	313044	+	sensor histidine kinase
+ADATZ4_01450	CM205908.1	313095	314414	+	D-alanyl-D-alanine carboxypeptidase family protein
+ADATZ4_01455	CM205908.1	314677	317835	+	YhgE/Pip family protein
+ADATZ4_01460	CM205908.1	317905	319152	-	DUF5776 domain-containing protein
+ADATZ4_01465	CM205908.1	319458	320792	+	dihydrolipoyl dehydrogenase family protein
+ADATZ4_01470	CM205908.1	320874	321371	+	GNAT family N-acetyltransferase
+ADATZ4_01475	CM205908.1	321641	322363	+	AzlC family ABC transporter permease
+ADATZ4_01480	CM205908.1	322381	322728	+	branched-chain amino acid transport AzlD family protein
+ADATZ4_01485	CM205908.1	322878	324068	-	class I SAM-dependent methyltransferase
+ADATZ4_01490	CM205908.1	324282	325190	+	hypothetical protein
+ADATZ4_01495	CM205908.1	325622	326806	+	ROK family protein
+ADATZ4_01500	CM205908.1	326939	328030	+	AI-2E family transporter
+ADATZ4_01505	CM205908.1	328384	330375	+	MSCRAMM family protein
+ADATZ4_01510	CM205908.1	330512	331204	+	2%2C3-diphosphoglycerate-dependent phosphoglycerate mutase
+ADATZ4_01515	CM205908.1	331293	331766	+	GNAT family N-acetyltransferase
+ADATZ4_01520	CM205908.1	331785	332036	+	hypothetical protein
+ADATZ4_01525	CM205908.1	332026	332286	+	DUF3781 domain-containing protein
+ADATZ4_01530	CM205908.1	332366	332704	+	hypothetical protein
+ADATZ4_01535	CM205908.1	332868	333296	-	MerR family transcriptional regulator
+ADATZ4_01540	CM205908.1	333440	334153	+	MBL fold metallo-hydrolase
+ADATZ4_01545	CM205908.1	334485	339629	+	phosphodiester glycosidase family protein
+ADATZ4_01550	CM205908.1	339959	341242	+	MFS transporter
+ADATZ4_01555	CM205908.1	341338	343224	+	DUF2264 domain-containing protein
+ADATZ4_01560	CM205908.1	343246	345057	+	beta-glucuronidase
+ADATZ4_01565	CM205908.1	345154	346149	-	LacI family DNA-binding transcriptional regulator
+ADATZ4_01570	CM205908.1	346370	347740	-	DHA2 family efflux MFS transporter permease subunit
+ADATZ4_01575	CM205908.1	348022	348975	-	tyrosine-protein phosphatase
+ADATZ4_01580	CM205908.1	349151	351163	-	cation:proton antiporter
+ADATZ4_01585	CM205908.1	351348	351950	+	DJ-1/PfpI family protein
+ADATZ4_01590	CM205908.1	351999	353165	-	DUF998 domain-containing protein
+ADATZ4_01595	CM205908.1	353304	353543	+	hypothetical protein
+ADATZ4_01600	CM205908.1	353611	354945	-	dipeptidase
+ADATZ4_01605	CM205908.1	354972	356486	-	YfcC family protein
+ADATZ4_01610	CM205908.1	356587	357417	-	DNA-binding domain-containing protein
+ADATZ4_01615	CM205908.1	357414	358712	-	sensor histidine kinase
+ADATZ4_01620	CM205908.1	358813	360375	+	YfcC family protein
+ADATZ4_01625	CM205908.1	360704	361936	+	arginine deiminase
+ADATZ4_01630	CM205908.1	361979	363010	+	ornithine carbamoyltransferase
+ADATZ4_01635	CM205908.1	363087	364499	+	arginine-ornithine antiporter
+ADATZ4_01640	CM205908.1	364510	365619	+	aminotransferase
+ADATZ4_01645	CM205908.1	365647	366591	+	carbamate kinase
+ADATZ4_01650	CM205908.1	366668	367348	+	Crp/Fnr family transcriptional regulator
+ADATZ4_01655	CM205908.1	367442	368152	+	B3/B4 domain-containing protein
+ADATZ4_01660	CM205908.1	368250	368651	-	aggregation-promoting factor C-terminal-like domain-containing protein
+ADATZ4_01665	CM205908.1	368872	369447	+	helix-turn-helix transcriptional regulator
+ADATZ4_01670	CM205908.1	369440	370981	+	MFS transporter
+ADATZ4_01675	CM205908.1	371359	372750	+	asparagine--tRNA ligase
+ADATZ4_01680	CM205908.1	372845	373759	-	hypothetical protein
+ADATZ4_01685	CM205908.1	374013	374270	+	GlsB/YeaQ/YmgE family stress response membrane protein
+ADATZ4_01690	CM205908.1	374283	374828	+	alkaline shock response membrane anchor protein AmaP
+ADATZ4_01695	CM205908.1	374842	375024	+	hypothetical protein
+ADATZ4_01700	CM205908.1	375041	375460	+	Asp23/Gls24 family envelope stress response protein
+ADATZ4_01705	CM205908.1	375472	375882	+	Asp23/Gls24 family envelope stress response protein
+ADATZ4_01710	CM205908.1	376000	376362	-	winged helix-turn-helix transcriptional regulator
+ADATZ4_01715	CM205908.1	376498	377226	+	SDR family oxidoreductase
+ADATZ4_01720	CM205908.1	377263	377424	-	hypothetical protein
+ADATZ4_01725	CM205908.1	377426	378349	-	MDR/zinc-dependent alcohol dehydrogenase-like family protein
+ADATZ4_01730	CM205908.1	378527	379231	+	hypothetical protein
+ADATZ4_01735	CM205908.1	379373	380161	+	type I methionyl aminopeptidase
+ADATZ4_01740	CM205908.1	380282	381088	+	Cof-type HAD-IIB family hydrolase
+ADATZ4_01745	CM205908.1	381307	382482	+	multidrug effflux MFS transporter
+ADATZ4_01750	CM205908.1	382556	383308	+	HAD-IIB family hydrolase
+ADATZ4_01755	CM205908.1	383397	383870	+	glutathione peroxidase
+ADATZ4_01760	CM205908.1	383936	384898	-	serine hydrolase
+ADATZ4_01765	CM205908.1	385110	385484	+	GntR family transcriptional regulator
+ADATZ4_01770	CM205908.1	385477	386187	+	ATP-binding cassette domain-containing protein
+ADATZ4_01775	CM205908.1	386180	386935	+	ABC transporter permease
+ADATZ4_01780	CM205908.1	387101	387883	+	tyrosine-protein phosphatase
+ADATZ4_01785	CM205908.1	387949	388662	-	sulfite exporter TauE/SafE family protein
+ADATZ4_01790	CM205908.1	388969	389502	+	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_01795	CM205908.1	389530	391299	+	ABC transporter ATP-binding protein
+ADATZ4_01800	CM205908.1	391393	392007	+	pyroglutamyl-peptidase I
+ADATZ4_01805	CM205908.1	392237	392887	+	MIP/aquaporin family protein
+ADATZ4_01810	CM205908.1	393033	394757	-	phosphatase PAP2 family protein
+ADATZ4_01815	CM205908.1	395034	395444	-	peptide deformylase
+ADATZ4_01820	CM205908.1	395536	395715	-	hypothetical protein
+ADATZ4_01825	CM205908.1	396024	396917	+	energy-coupling factor transporter transmembrane component T
+ADATZ4_01830	CM205908.1	396905	398557	+	ABC transporter ATP-binding protein
+ADATZ4_01835	CM205908.1	398617	399255	+	ECF transporter S component
+ADATZ4_01840	CM205908.1	399270	400319	+	fucose-binding lectin II
+ADATZ4_01845	CM205908.1	400345	401052	+	DUF4430 domain-containing protein
+ADATZ4_01850	CM205908.1	401133	402056	-	helix-turn-helix transcriptional regulator
+ADATZ4_01855	CM205908.1	402334	402600	+	EutN/CcmL family microcompartment protein
+ADATZ4_01860	CM205908.1	402625	403593	+	oxidoreductase
+ADATZ4_01865	CM205908.1	403780	404973	+	MFS transporter
+ADATZ4_01870	CM205908.1	404999	406183	+	MFS transporter
+ADATZ4_01875	CM205908.1	406243	407085	+	aldo/keto reductase
+ADATZ4_01880	CM205908.1	407446	408687	+	S-layer protein
+ADATZ4_01885	CM205908.1	409143	409451	+	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_01890	CM205908.1	409885	410454	+	TetR/AcrR family transcriptional regulator
+ADATZ4_01895	CM205908.1	410631	411059	+	MerR family transcriptional regulator
+ADATZ4_01900	CM205908.1	411065	411487	+	cupin domain-containing protein
+ADATZ4_01905	CM205908.1	411487	411807	+	carboxymuconolactone decarboxylase family protein
+ADATZ4_01910	CM205908.1	411943	413067	+	family 8 glycosyl hydrolase
+ADATZ4_01915	CM205908.1	413129	414079	-	GH25 family lysozyme
+ADATZ4_01920	CM205908.1	414226	415152	-	matrixin family metalloprotease
+ADATZ4_01925	CM205908.1	415376	415936	+	DNA-3-methyladenine glycosylase I
+ADATZ4_01930	CM205908.1	415948	417081	+	exonuclease SbcCD subunit D
+ADATZ4_01935	CM205908.1	417078	420227	+	AAA family ATPase
+ADATZ4_01940	CM205908.1	420722	421705	+	bile salt hydrolase
+ADATZ4_01945	CM205908.1	421751	424006	-	glycoside hydrolase family 3 C-terminal domain-containing protein
+ADATZ4_01950	CM205908.1	424504	426144	+	peptide ABC transporter substrate-binding protein
+ADATZ4_01955	CM205908.1	426232	426780	+	DNA-3-methyladenine glycosylase I
+ADATZ4_01960	CM205908.1	427288	428091	+	MetQ/NlpA family ABC transporter substrate-binding protein
+ADATZ4_01965	CM205908.1	428156	429220	+	methionine ABC transporter ATP-binding protein
+ADATZ4_01970	CM205908.1	429260	429901	+	methionine ABC transporter permease
+ADATZ4_01975	CM205908.1	430104	431090	+	DMT family transporter
+ADATZ4_01980	CM205908.1	431147	431362	-	P8 family protein
+ADATZ4_01985	CM205908.1	431567	432550	+	aldo/keto reductase
+ADATZ4_01990	CM205908.1	432654	433028	-	glycine cleavage system H family protein
+ADATZ4_01995	CM205908.1	433174	434214	+	lipoate--protein ligase
+ADATZ4_02000	CM205908.1	434204	434518	+	DUF7671 family protein
+ADATZ4_02005	CM205908.1	434998	438336	+	mucin-binding protein
+ADATZ4_02010	CM205908.1	438387	440042	-	peptide ABC transporter substrate-binding protein
+ADATZ4_02015	CM205908.1	440177	441316	+	A/G-specific adenine glycosylase
+ADATZ4_02020	CM205908.1	441378	441698	+	hypothetical protein
+ADATZ4_02025	CM205908.1	441711	442319	+	alpha/beta hydrolase
+ADATZ4_02030	CM205908.1	442509	442712	+	cold-shock protein
+ADATZ4_02035	CM205908.1	443094	443333	+	cytochrome b5 domain-containing protein
+ADATZ4_02040	CM205908.1	443420	443569	-	hypothetical protein
+ADATZ4_02045	CM205908.1	443678	443995	-	hypothetical protein
+ADATZ4_02055	CM205908.1	444341	445033	+	NAD(P)H-dependent oxidoreductase
+ADATZ4_02060	CM205908.1	445026	445205	+	hypothetical protein
+ADATZ4_02065	CM205908.1	445292	446107	-	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase
+ADATZ4_02070	CM205908.1	446316	446612	+	hypothetical protein
+ADATZ4_02075	CM205908.1	446642	447880	+	cytosine deaminase
+ADATZ4_02080	CM205908.1	447840	449564	-	IS1182 family transposase
+ADATZ4_02085	CM205908.1	449731	450210	-	hypothetical protein
+ADATZ4_02090	CM205908.1	450483	451277	+	ribonuclease H family protein
+ADATZ4_02095	CM205908.1	451391	451870	+	VOC family protein
+ADATZ4_02100	CM205908.1	451954	452562	+	sugar O-acetyltransferase
+ADATZ4_02105	CM205908.1	452964	454544	+	BCCT family transporter
+ADATZ4_02110	CM205908.1	454656	455114	+	universal stress protein
+ADATZ4_02115	CM205908.1	455250	455942	+	beta-phosphoglucomutase family hydrolase
+ADATZ4_02120	CM205908.1	455881	456273	-	DUF488 domain-containing protein
+ADATZ4_02125	CM205908.1	456343	456975	+	DNA-3-methyladenine glycosylase
+ADATZ4_02130	CM205908.1	457029	457883	+	helix-turn-helix domain-containing protein
+ADATZ4_02135	CM205908.1	458317	459033	-	demethylmenaquinone methyltransferase
+ADATZ4_02140	CM205908.1	459049	459846	-	type I methionyl aminopeptidase
+ADATZ4_02145	CM205908.1	459975	460148	-	hypothetical protein
+ADATZ4_02150	CM205908.1	460328	461740	+	MFS transporter
+ADATZ4_02155	CM205908.1	461808	462251	-	ASCH domain-containing protein
+ADATZ4_02160	CM205908.1	462338	463156	-	SDR family NAD(P)-dependent oxidoreductase
+ADATZ4_02165	CM205908.1	463171	464031	-	quinate/shikimate dehydrogenase
+ADATZ4_02170	CM205908.1	464051	465274	-	MFS transporter
+ADATZ4_02175	CM205908.1	465431	466333	+	LysR family transcriptional regulator
+ADATZ4_02180	CM205908.1	466386	468104	+	phosphoenolpyruvate carboxykinase (ATP)
+ADATZ4_02185	CM205908.1	468199	469164	-	electron transfer flavoprotein subunit alpha/FixB family protein
+ADATZ4_02190	CM205908.1	469178	469972	-	electron transfer flavoprotein subunit beta/FixA family protein
+ADATZ4_02195	CM205908.1	469982	471100	-	acyl-CoA dehydrogenase family protein
+ADATZ4_02200	CM205908.1	471431	472453	+	aldose epimerase family protein
+ADATZ4_02205	CM205908.1	472475	474205	+	phospho-sugar mutase
+ADATZ4_02210	CM205908.1	474494	474739	+	hypothetical protein
+ADATZ4_02215	CM205908.1	474772	476196	+	glycoside-pentoside-hexuronide (GPH):cation symporter
+ADATZ4_02220	CM205908.1	476356	477525	+	galactokinase
+ADATZ4_02225	CM205908.1	477602	478606	+	UDP-glucose 4-epimerase GalE
+ADATZ4_02230	CM205908.1	478610	480073	+	UDP-glucose--hexose-1-phosphate uridylyltransferase
+ADATZ4_02235	CM205908.1	480096	481106	+	LacI family DNA-binding transcriptional regulator
+ADATZ4_02240	CM205908.1	482128	482313	+	hypothetical protein
+ADATZ4_02245	CM205908.1	482800	485049	+	ribonucleoside-triphosphate reductase%2C adenosylcobalamin-dependent
+ADATZ4_02250	CM205908.1	485203	485736	+	cob(I)yrinic acid a%2Cc-diamide adenosyltransferase
+ADATZ4_02255	CM205908.1	485838	487793	-	M13 family metallopeptidase
+ADATZ4_02260	CM205908.1	487930	488433	-	MarR family transcriptional regulator
+ADATZ4_02265	CM205908.1	488684	489568	-	hypothetical protein
+ADATZ4_02270	CM205908.1	489783	490211	+	universal stress protein
+ADATZ4_02275	CM205908.1	490625	491740	+	YibE/F family protein
+ADATZ4_02280	CM205908.1	491737	492519	+	YibE/F family protein
+ADATZ4_02285	CM205908.1	492516	492737	+	hypothetical protein
+ADATZ4_02290	CM205908.1	492875	493930	-	peptidoglycan recognition protein family protein
+ADATZ4_02295	CM205908.1	494262	494753	-	Fur family transcriptional regulator
+ADATZ4_02300	CM205908.1	495023	495712	+	VIT1/CCC1 transporter family protein
+ADATZ4_02305	CM205908.1	495724	496431	+	VIT1/CCC1 transporter family protein
+ADATZ4_02310	CM205908.1	496516	498105	+	APC family permease
+ADATZ4_02315	CM205908.1	498166	498612	-	GNAT family N-acetyltransferase
+ADATZ4_02320	CM205908.1	498756	499799	+	lactonase family protein
+ADATZ4_02325	CM205908.1	499924	500841	-	sce7725 family protein
+ADATZ4_02330	CM205908.1	500838	501530	-	hypothetical protein
+ADATZ4_02335	CM205908.1	501527	503893	-	ATP-dependent DNA helicase
+ADATZ4_02340	CM205908.1	504046	504309	+	HPr family phosphocarrier protein
+ADATZ4_02345	CM205908.1	504380	504583	+	hypothetical protein
+ADATZ4_02350	CM205908.1	504641	504991	-	hypothetical protein
+ADATZ4_02355	CM205908.1	505272	506162	+	phosphate ABC transporter substrate-binding protein PstS family protein
+ADATZ4_02360	CM205908.1	506232	507185	+	phosphate ABC transporter permease subunit PstC
+ADATZ4_02365	CM205908.1	507175	508065	+	phosphate ABC transporter permease PstA
+ADATZ4_02370	CM205908.1	508078	508881	+	phosphate ABC transporter ATP-binding protein PstB
+ADATZ4_02375	CM205908.1	508924	509994	-	ABC transporter substrate-binding protein
+ADATZ4_02380	CM205908.1	509991	510794	-	ABC transporter permease
+ADATZ4_02385	CM205908.1	510791	511615	-	ABC transporter permease
+ADATZ4_02390	CM205908.1	511593	512705	-	ABC transporter ATP-binding protein
+ADATZ4_02395	CM205908.1	513085	513267	+	hypothetical protein
+ADATZ4_02400	CM205908.1	513407	513634	+	hypothetical protein
+ADATZ4_02405	CM205908.1	513702	514121	-	GNAT family N-acetyltransferase
+ADATZ4_02410	CM205908.1	514570	515553	-	HoxN/HupN/NixA family nickel/cobalt transporter
+ADATZ4_02415	CM205908.1	515640	516362	-	MIP/aquaporin family protein
+ADATZ4_02420	CM205908.1	516370	517206	-	ATP-dependent sacrificial sulfur transferase LarE
+ADATZ4_02425	CM205908.1	517213	518445	-	nickel pincer cofactor biosynthesis protein LarC
+ADATZ4_02430	CM205908.1	518442	519203	-	nickel pincer cofactor biosynthesis protein LarB
+ADATZ4_02435	CM205908.1	519206	520486	-	nickel-dependent lactate racemase
+ADATZ4_02440	CM205908.1	520692	521378	+	Crp/Fnr family transcriptional regulator
+ADATZ4_02445	CM205908.1	521469	522869	-	glutamate decarboxylase
+ADATZ4_02450	CM205908.1	522964	523326	-	TIGR02328 family protein
+ADATZ4_02455	CM205908.1	523338	523706	-	YbgA family protein
+ADATZ4_02460	CM205908.1	523879	524685	-	aldo/keto reductase
+ADATZ4_02465	CM205908.1	524902	525768	+	DegV family protein
+ADATZ4_02470	CM205908.1	525871	527220	+	threonine/serine exporter family protein
+ADATZ4_02480	CM205908.1	527664	528884	-	ABC transporter permease
+ADATZ4_02485	CM205908.1	528881	529774	-	ABC transporter ATP-binding protein
+ADATZ4_02490	CM205908.1	529892	531193	-	nucleobase:cation symporter-2 family protein
+ADATZ4_02495	CM205908.1	531544	531699	-	hypothetical protein
+ADATZ4_02500	CM205908.1	531782	532765	+	asparaginase
+ADATZ4_02505	CM205908.1	532847	534010	+	hypothetical protein
+ADATZ4_02510	CM205908.1	534063	534407	+	hypothetical protein
+ADATZ4_02515	CM205908.1	534422	534664	+	zinc-ribbon domain-containing protein
+ADATZ4_02520	CM205908.1	534745	534936	-	LBP_cg2779 family protein
+ADATZ4_02525	CM205908.1	535638	536003	-	hypothetical protein
+ADATZ4_02530	CM205908.1	536082	536735	-	thiaminase II
+ADATZ4_02535	CM205908.1	536760	537413	-	energy-coupling factor transporter transmembrane component T family protein
+ADATZ4_02540	CM205908.1	537413	538819	-	ABC transporter ATP-binding protein
+ADATZ4_02545	CM205908.1	538844	539407	-	ECF transporter S component
+ADATZ4_02550	CM205908.1	539786	540709	+	D-alanyl-D-alanine carboxypeptidase family protein
+ADATZ4_02555	CM205908.1	540931	542109	+	serine hydrolase
+ADATZ4_02560	CM205908.1	542155	542823	-	chloramphenicol acetyltransferase
+ADATZ4_02565	CM205908.1	542833	543162	-	GIY-YIG nuclease family protein
+ADATZ4_02570	CM205908.1	543159	543917	-	DUF2087 domain-containing protein
+ADATZ4_02575	CM205908.1	544094	544915	+	HAD-IIB family hydrolase
+ADATZ4_02580	CM205908.1	544999	546276	+	PTS transporter subunit EIIC
+ADATZ4_02585	CM205908.1	546273	547088	+	alpha/beta hydrolase
+ADATZ4_02590	CM205908.1	547161	547976	+	Cof-type HAD-IIB family hydrolase
+ADATZ4_02595	CM205908.1	548048	548710	+	hypothetical protein
+ADATZ4_02600	CM205908.1	548751	549098	-	hypothetical protein
+ADATZ4_02605	CM205908.1	549239	550195	-	nucleoside hydrolase
+ADATZ4_02610	CM205908.1	550364	551407	+	PrsW family intramembrane metalloprotease
+ADATZ4_02615	CM205908.1	551392	552150	-	alpha/beta hydrolase
+ADATZ4_02620	CM205908.1	552195	553190	+	NAD(P)/FAD-dependent oxidoreductase
+ADATZ4_02625	CM205908.1	553270	555360	-	LTA synthase family protein
+ADATZ4_02630	CM205908.1	555637	556299	+	histidine phosphatase family protein
+ADATZ4_02635	CM205908.1	556316	556747	+	GNAT family N-acetyltransferase
+ADATZ4_02640	CM205908.1	556928	557398	-	C40 family peptidase
+ADATZ4_02645	CM205908.1	557607	558077	+	MerR family transcriptional regulator
+ADATZ4_02650	CM205908.1	558162	559058	-	AraC family transcriptional regulator
+ADATZ4_02655	CM205908.1	559239	561290	+	glycoside hydrolase family 31 protein
+ADATZ4_02660	CM205908.1	561569	562984	+	MFS transporter
+ADATZ4_02665	CM205908.1	563485	564021	+	PadR family transcriptional regulator
+ADATZ4_02670	CM205908.1	564024	565460	+	MFS transporter
+ADATZ4_02675	CM205908.1	565517	568279	-	MMPL family transporter
+ADATZ4_02680	CM205908.1	568482	568718	+	hypothetical protein
+ADATZ4_02685	CM205908.1	568796	569557	+	acetoin reductase
+ADATZ4_02690	CM205908.1	569647	570624	+	linear amide C-N hydrolase
+ADATZ4_02695	CM205908.1	570621	571610	-	YdcF family protein
+ADATZ4_02700	CM205908.1	571725	572348	+	glycoside hydrolase family 73 protein
+ADATZ4_02705	CM205908.1	572457	573770	-	serine hydrolase domain-containing protein
+ADATZ4_02710	CM205908.1	574006	574755	+	MeeY/MeeF family manganese export membrane protein
+ADATZ4_02715	CM205908.1	574812	575729	+	NAD(P)-dependent oxidoreductase
+ADATZ4_02720	CM205908.1	575822	576019	+	hypothetical protein
+ADATZ4_02725	CM205908.1	576084	576854	-	ABC transporter ATP-binding protein
+ADATZ4_02730	CM205908.1	576847	577749	-	ABC transporter permease
+ADATZ4_02735	CM205908.1	577746	578741	-	tryptophan ABC transporter substrate-binding protein
+ADATZ4_02740	CM205908.1	579298	580188	+	DegV family protein
+ADATZ4_02745	CM205908.1	580548	581513	+	ABC transporter substrate binding protein
+ADATZ4_02750	CM205908.1	581531	582496	+	ABC transporter permease
+ADATZ4_02755	CM205908.1	582429	583202	+	ABC transporter ATP-binding protein
+ADATZ4_02760	CM205908.1	583289	583978	-	CPBP family intramembrane glutamic endopeptidase
+ADATZ4_02765	CM205908.1	583990	584373	-	VOC family protein
+ADATZ4_02770	CM205908.1	584556	586112	+	ABC-F family ATP-binding cassette domain-containing protein
+ADATZ4_02775	CM205908.1	586214	586813	+	L%2CD-transpeptidase
+ADATZ4_02780	CM205908.1	587037	587273	+	hypothetical protein
+ADATZ4_02785	CM205908.1	587545	588456	-	proline-specific peptidase family protein
+ADATZ4_02790	CM205908.1	588534	590969	-	Xaa-Pro dipeptidyl-peptidase
+ADATZ4_02795	CM205908.1	591006	592400	-	APC family permease
+ADATZ4_02800	CM205908.1	592573	592995	+	bis(5'-nucleosyl)-tetraphosphatase
+ADATZ4_02805	CM205908.1	592988	593560	+	guanylate kinase
+ADATZ4_02810	CM205908.1	593654	594112	+	Fur family transcriptional regulator
+ADATZ4_02815	CM205908.1	594187	594732	+	hypothetical protein
+ADATZ4_02820	CM205908.1	594753	595685	+	DUF6681 family protein
+ADATZ4_02825	CM205908.1	596069	596809	+	amino acid ABC transporter ATP-binding protein
+ADATZ4_02830	CM205908.1	596829	597665	+	transporter substrate-binding domain-containing protein
+ADATZ4_02835	CM205908.1	597662	598300	+	amino acid ABC transporter permease
+ADATZ4_02840	CM205908.1	598320	598973	+	amino acid ABC transporter permease
+ADATZ4_02845	CM205908.1	599038	600315	-	GTPase HflX
+ADATZ4_02850	CM205908.1	600536	602155	+	peptide ABC transporter substrate-binding protein
+ADATZ4_02855	CM205908.1	602528	604153	+	peptide ABC transporter substrate-binding protein
+ADATZ4_02860	CM205908.1	604350	605279	+	oligopeptide ABC transporter permease
+ADATZ4_02865	CM205908.1	605291	606316	+	ABC transporter permease
+ADATZ4_02870	CM205908.1	606330	607430	+	ABC transporter ATP-binding protein
+ADATZ4_02875	CM205908.1	607430	608389	+	ABC transporter ATP-binding protein
+ADATZ4_02880	CM205908.1	608481	609131	-	histidine phosphatase family protein
+ADATZ4_02885	CM205908.1	609177	611030	-	cation:proton antiporter domain-containing protein
+ADATZ4_02890	CM205908.1	611366	613660	+	RNA polymerase recycling motor HelD
+ADATZ4_02895	CM205908.1	614218	615141	+	type I pantothenate kinase
+ADATZ4_02900	CM205908.1	615148	615732	+	hypothetical protein
+ADATZ4_02905	CM205908.1	615841	617382	+	glutamine-hydrolyzing GMP synthase
+ADATZ4_02910	CM205908.1	618072	620306	+	KxYKxGKxW signal peptide domain-containing protein
+ADATZ4_02915	CM205908.1	620504	622717	+	alpha-galactosidase
+ADATZ4_02920	CM205908.1	622792	623190	+	iron-sulfur cluster biosynthesis family protein
+ADATZ4_02925	CM205908.1	623348	625882	+	M1 family metallopeptidase
+ADATZ4_02930	CM205908.1	626255	627697	+	arginine-ornithine antiporter
+ADATZ4_02935	CM205908.1	627789	629192	-	C69 family dipeptidase
+ADATZ4_02940	CM205908.1	629394	629969	-	NADPH-dependent F420 reductase
+ADATZ4_02945	CM205908.1	630111	630533	+	Rrf2 family transcriptional regulator
+ADATZ4_02950	CM205908.1	630778	632553	+	DNA helicase RecQ
+ADATZ4_02955	CM205908.1	632590	634080	-	arabinosylfuranosidase ArfA
+ADATZ4_02960	CM205908.1	634146	635435	-	oligosaccharide MFS transporter
+ADATZ4_02965	CM205908.1	635449	636429	-	glycoside hydrolase family 43 protein
+ADATZ4_02970	CM205908.1	636673	637563	+	ArsR/SmtB family transcription factor
+ADATZ4_02975	CM205908.1	637675	638262	+	sugar O-acetyltransferase
+ADATZ4_02980	CM205908.1	638427	639512	+	GntR family transcriptional regulator
+ADATZ4_02985	CM205908.1	639879	641276	+	sugar porter family MFS transporter
+ADATZ4_02990	CM205908.1	641308	642909	+	xylulokinase
+ADATZ4_02995	CM205908.1	642929	643657	+	L-ribulose-5-phosphate 4-epimerase
+ADATZ4_03000	CM205908.1	643707	645131	+	L-arabinose isomerase
+ADATZ4_03005	CM205908.1	645206	645769	+	sugar O-acetyltransferase
+ADATZ4_03010	CM205908.1	645850	646020	-	hypothetical protein
+ADATZ4_03015	CM205908.1	646236	646436	-	hypothetical protein
+ADATZ4_03020	CM205908.1	646568	646885	+	biotin/lipoyl attachment domain-containing protein
+ADATZ4_03025	CM205908.1	646904	647788	+	RluA family pseudouridine synthase
+ADATZ4_03030	CM205908.1	647796	648572	+	DUF1003 domain-containing protein
+ADATZ4_03035	CM205908.1	648710	649297	+	GNAT family N-acetyltransferase
+ADATZ4_03040	CM205908.1	649472	649990	+	GNAT family N-acetyltransferase
+ADATZ4_03045	CM205908.1	650025	650423	+	hypothetical protein
+ADATZ4_03050	CM205908.1	650455	651648	+	MFS transporter
+ADATZ4_03055	CM205908.1	651831	653108	+	uracil-xanthine permease family protein
+ADATZ4_03060	CM205908.1	653152	653484	-	branched-chain amino acid transport AzlD family protein
+ADATZ4_03065	CM205908.1	653469	654179	-	AzlC family ABC transporter permease
+ADATZ4_03070	CM205908.1	654368	654607	+	helix-turn-helix domain-containing protein
+ADATZ4_03075	CM205908.1	654739	655464	-	DUF4811 domain-containing protein
+ADATZ4_03080	CM205908.1	655464	656960	-	MDR family MFS transporter
+ADATZ4_03085	CM205908.1	657184	657621	+	MerR family transcriptional regulator
+ADATZ4_03090	CM205908.1	658150	658713	+	GNAT family N-acetyltransferase
+ADATZ4_03095	CM205908.1	658885	659781	+	cation diffusion facilitator family transporter
+ADATZ4_03100	CM205908.1	659843	660490	+	metal-dependent transcriptional regulator
+ADATZ4_03105	CM205908.1	660615	661376	+	threonine/serine exporter family protein
+ADATZ4_03110	CM205908.1	661393	661842	+	threonine/serine exporter family protein
+ADATZ4_03115	CM205908.1	661954	662622	+	phosphatase PAP2 family protein
+ADATZ4_03120	CM205908.1	662726	663520	-	lp_1002 family arylesterase
+ADATZ4_03125	CM205908.1	663604	664158	+	GNAT family N-acetyltransferase
+ADATZ4_03130	CM205908.1	664508	666007	+	amino acid permease
+ADATZ4_03135	CM205908.1	666214	666846	+	deoxynucleoside kinase
+ADATZ4_03140	CM205908.1	667129	668400	+	serine--tRNA ligase
+ADATZ4_03185	CM205908.1	669722	670189	+	CtsR family transcriptional regulator
+ADATZ4_03190	CM205908.1	670207	672693	+	ATP-dependent Clp protease ATP-binding subunit
+ADATZ4_03195	CM205908.1	672968	673573	+	TetR/AcrR family transcriptional regulator
+ADATZ4_03200	CM205908.1	673812	677423	+	DNA-directed RNA polymerase subunit beta
+ADATZ4_03205	CM205908.1	677445	681092	+	DNA-directed RNA polymerase subunit beta'
+ADATZ4_03210	CM205908.1	681158	681805	-	prepilin peptidase
+ADATZ4_03215	CM205908.1	682085	682498	+	30S ribosomal protein S12
+ADATZ4_03220	CM205908.1	682574	683044	+	30S ribosomal protein S7
+ADATZ4_03225	CM205908.1	683229	685328	+	elongation factor G
+ADATZ4_03230	CM205908.1	685487	686818	+	MATE family efflux transporter
+ADATZ4_03235	CM205908.1	687101	687409	+	30S ribosomal protein S10
+ADATZ4_03240	CM205908.1	687452	688102	+	50S ribosomal protein L3
+ADATZ4_03245	CM205908.1	688124	688747	+	50S ribosomal protein L4
+ADATZ4_03250	CM205908.1	688747	689034	+	50S ribosomal protein L23
+ADATZ4_03255	CM205908.1	689061	689909	+	50S ribosomal protein L2
+ADATZ4_03260	CM205908.1	689988	690263	+	30S ribosomal protein S19
+ADATZ4_03265	CM205908.1	690280	690636	+	50S ribosomal protein L22
+ADATZ4_03270	CM205908.1	690640	691299	+	30S ribosomal protein S3
+ADATZ4_03275	CM205908.1	691301	691735	+	50S ribosomal protein L16
+ADATZ4_03280	CM205908.1	691725	691919	+	50S ribosomal protein L29
+ADATZ4_03285	CM205908.1	691948	692214	+	30S ribosomal protein S17
+ADATZ4_03290	CM205908.1	692265	692633	+	50S ribosomal protein L14
+ADATZ4_03295	CM205908.1	692668	692979	+	50S ribosomal protein L24
+ADATZ4_03300	CM205908.1	693005	693547	+	50S ribosomal protein L5
+ADATZ4_03305	CM205908.1	693566	693751	+	type Z 30S ribosomal protein S14
+ADATZ4_03310	CM205908.1	693785	694183	+	30S ribosomal protein S8
+ADATZ4_03315	CM205908.1	694213	694749	+	50S ribosomal protein L6
+ADATZ4_03320	CM205908.1	694784	695149	+	50S ribosomal protein L18
+ADATZ4_03325	CM205908.1	695172	695675	+	30S ribosomal protein S5
+ADATZ4_03330	CM205908.1	695690	695872	+	50S ribosomal protein L30
+ADATZ4_03335	CM205908.1	695908	696342	+	50S ribosomal protein L15
+ADATZ4_03340	CM205908.1	696342	697652	+	preprotein translocase subunit SecY
+ADATZ4_03345	CM205908.1	697733	698392	+	adenylate kinase
+ADATZ4_03350	CM205908.1	698557	698775	+	translation initiation factor IF-1
+ADATZ4_03355	CM205908.1	698805	698924	+	50S ribosomal protein L36
+ADATZ4_03360	CM205908.1	698951	699316	+	30S ribosomal protein S13
+ADATZ4_03365	CM205908.1	699334	699723	+	30S ribosomal protein S11
+ADATZ4_03370	CM205908.1	699811	700761	+	DNA-directed RNA polymerase subunit alpha
+ADATZ4_03375	CM205908.1	700792	701175	+	50S ribosomal protein L17
+ADATZ4_03380	CM205908.1	701439	702278	+	energy-coupling factor ABC transporter ATP-binding protein
+ADATZ4_03385	CM205908.1	702254	703126	+	energy-coupling factor ABC transporter ATP-binding protein
+ADATZ4_03390	CM205908.1	703119	703919	+	energy-coupling factor transporter transmembrane component T family protein
+ADATZ4_03395	CM205908.1	703929	704726	+	tRNA pseudouridine(38-40) synthase TruA
+ADATZ4_03400	CM205908.1	704865	705308	+	50S ribosomal protein L13
+ADATZ4_03405	CM205908.1	705322	705714	+	30S ribosomal protein S9
+ADATZ4_03410	CM205908.1	705779	706747	-	mannose-6-phosphate isomerase%2C class I
+ADATZ4_03415	CM205908.1	706931	708283	+	TrkH family potassium uptake protein
+ADATZ4_03420	CM205908.1	708296	708958	+	potassium channel family protein
+ADATZ4_03425	CM205908.1	709080	710087	-	aspartate--ammonia ligase
+ADATZ4_03430	CM205908.1	710707	712119	+	APC family permease
+ADATZ4_03435	CM205908.1	712172	713191	+	lipoate--protein ligase
+ADATZ4_03440	CM205908.1	713383	714438	+	LCP family protein
+ADATZ4_03445	CM205908.1	714691	715482	+	YveK family protein
+ADATZ4_03450	CM205908.1	715492	716253	+	CpsD/CapB family tyrosine-protein kinase
+ADATZ4_03455	CM205908.1	716250	717032	+	tyrosine-protein phosphatase
+ADATZ4_03460	CM205908.1	717032	717700	+	sugar transferase
+ADATZ4_03465	CM205908.1	717712	718794	+	glycosyltransferase
+ADATZ4_03470	CM205908.1	718808	719806	+	glycosyltransferase family 2 protein
+ADATZ4_03475	CM205908.1	719838	720770	+	glycosyltransferase
+ADATZ4_03480	CM205908.1	720830	721924	+	CDP-glycerol glycerophosphotransferase family protein
+ADATZ4_03485	CM205908.1	721951	723066	+	UDP-galactopyranose mutase
+ADATZ4_03490	CM205908.1	723072	724487	+	oligosaccharide flippase family protein
+ADATZ4_03495	CM205908.1	724521	725864	+	O-antigen polymerase
+ADATZ4_03500	CM205908.1	725938	727011	+	LCP family protein
+ADATZ4_03505	CM205908.1	727126	728136	+	dTDP-glucose 4%2C6-dehydratase
+ADATZ4_03510	CM205908.1	728232	729179	-	phosphoglycerate dehydrogenase
+ADATZ4_03515	CM205908.1	729468	730919	+	cytochrome ubiquinol oxidase subunit I
+ADATZ4_03520	CM205908.1	730912	731922	+	cytochrome d ubiquinol oxidase subunit II
+ADATZ4_03525	CM205908.1	732019	733752	+	thiol reductant ABC exporter subunit CydD
+ADATZ4_03530	CM205908.1	733749	735488	+	thiol reductant ABC exporter subunit CydC
+ADATZ4_03535	CM205908.1	735805	736782	-	polyprenyl synthetase family protein
+ADATZ4_03540	CM205908.1	736891	737799	+	1%2C4-dihydroxy-2-naphthoate polyprenyltransferase
+ADATZ4_03545	CM205908.1	737886	738461	+	xanthine phosphoribosyltransferase
+ADATZ4_03550	CM205908.1	738557	739708	+	ATP-grasp domain-containing protein
+ADATZ4_03555	CM205908.1	739914	742166	+	DNA helicase PcrA
+ADATZ4_03560	CM205908.1	742192	744222	+	NAD-dependent DNA ligase LigA
+ADATZ4_03565	CM205908.1	744209	745390	+	CamS family sex pheromone protein
+ADATZ4_03570	CM205908.1	746029	746340	+	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC
+ADATZ4_03575	CM205908.1	746341	747810	+	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA
+ADATZ4_03580	CM205908.1	747810	749231	+	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB
+ADATZ4_03585	CM205908.1	749251	750270	+	diacylglycerol kinase
+ADATZ4_03590	CM205908.1	750342	751709	+	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+ADATZ4_03595	CM205908.1	751939	752370	+	EutP/PduV family microcompartment system protein
+ADATZ4_03600	CM205908.1	752576	753283	+	MIP/aquaporin family protein
+ADATZ4_03605	CM205908.1	753336	754424	-	helix-turn-helix domain-containing protein
+ADATZ4_03610	CM205908.1	754726	755004	+	BMC domain-containing protein
+ADATZ4_03615	CM205908.1	755025	755840	+	propanediol utilization microcompartment protein PduB
+ADATZ4_03620	CM205908.1	755855	757531	+	propanediol/glycerol family dehydratase large subunit
+ADATZ4_03625	CM205908.1	757552	758271	+	propanediol/glycerol family dehydratase medium subunit
+ADATZ4_03630	CM205908.1	758284	758811	+	diol dehydratase small subunit
+ADATZ4_03635	CM205908.1	758826	760676	+	diol dehydratase reactivase subunit alpha
+ADATZ4_03640	CM205908.1	760657	761010	+	glycerol dehydratase reactivase beta/small subunit family protein
+ADATZ4_03645	CM205908.1	761024	761512	+	BMC domain-containing protein
+ADATZ4_03650	CM205908.1	761529	761822	+	BMC domain-containing protein
+ADATZ4_03655	CM205908.1	761851	762477	+	phosphate propanoyltransferase
+ADATZ4_03660	CM205908.1	762498	763019	+	PduM family microcompartment protein
+ADATZ4_03665	CM205908.1	763001	763273	+	EutN/CcmL family microcompartment protein
+ADATZ4_03670	CM205908.1	763289	763864	+	cob(I)yrinic acid a%2Cc-diamide adenosyltransferase
+ADATZ4_03675	CM205908.1	763867	764346	+	GlcG/HbpS family heme-binding protein
+ADATZ4_03680	CM205908.1	764349	765782	+	aldehyde dehydrogenase family protein
+ADATZ4_03685	CM205908.1	765786	766907	+	1-propanol dehydrogenase PduQ
+ADATZ4_03690	CM205908.1	767065	768252	+	acetate/propionate family kinase
+ADATZ4_03695	CM205908.1	768271	768615	+	BMC domain-containing protein
+ADATZ4_03700	CM205908.1	768633	769697	+	oxidoreductase
+ADATZ4_03705	CM205908.1	769715	770500	+	tyrosine-protein phosphatase
+ADATZ4_03710	CM205908.1	770675	771031	-	helix-turn-helix domain-containing protein
+ADATZ4_03715	CM205908.1	771187	771426	+	helix-turn-helix domain-containing protein
+ADATZ4_03720	CM205908.1	771743	772432	+	deoxyribose-phosphate aldolase
+ADATZ4_03725	CM205908.1	772464	773651	+	phosphopentomutase
+ADATZ4_03730	CM205908.1	773682	774389	+	purine-nucleoside phosphorylase
+ADATZ4_03735	CM205908.1	774456	775415	+	DNA-binding transcriptional repressor DeoR
+ADATZ4_03740	CM205908.1	775452	776750	+	pyrimidine-nucleoside phosphorylase
+ADATZ4_03745	CM205908.1	776910	778426	+	gamma-glutamylcysteine synthetase
+ADATZ4_03750	CM205908.1	778761	779156	+	D-ribose pyranase
+ADATZ4_03755	CM205908.1	779207	780556	+	L-fucose:H+ symporter permease
+ADATZ4_03760	CM205908.1	780605	781870	-	APC family permease
+ADATZ4_03765	CM205908.1	782063	783421	-	gluconate:H+ symporter
+ADATZ4_03770	CM205908.1	783592	785139	-	gluconokinase
+ADATZ4_03775	CM205908.1	785358	786218	+	MurR/RpiR family transcriptional regulator
+ADATZ4_03780	CM205908.1	786273	787034	+	GH25 family lysozyme
+ADATZ4_03785	CM205908.1	787108	787470	-	DUF4828 domain-containing protein
+ADATZ4_03790	CM205908.1	787633	788637	+	Gfo/Idh/MocA family protein
+ADATZ4_03795	CM205908.1	788650	789975	+	DEAD/DEAH box helicase
+ADATZ4_03805	CM205908.1	790168	790356	+	hypothetical protein
+ADATZ4_03810	CM205908.1	790442	790885	+	universal stress protein
+ADATZ4_03815	CM205908.1	791045	792400	+	gluconate:H+ symporter
+ADATZ4_03820	CM205908.1	792570	794291	+	IS1182 family transposase
+ADATZ4_03825	CM205908.1	794292	795233	-	glycosyltransferase family 2 protein
+ADATZ4_03830	CM205908.1	795428	796558	+	non-hydrolyzing UDP-N-acetylglucosamine 2-epimerase
+ADATZ4_03835	CM205908.1	796551	797402	+	nuclease-related domain-containing protein
+ADATZ4_03840	CM205908.1	797418	798329	+	YihY/virulence factor BrkB family protein
+ADATZ4_03845	CM205908.1	798374	798823	-	flavodoxin
+ADATZ4_03850	CM205908.1	799053	799838	+	recombination regulator RecX
+ADATZ4_03855	CM205908.1	799869	801047	+	serine hydrolase domain-containing protein
+ADATZ4_03860	CM205908.1	801151	801396	-	YdeI/OmpD-associated family protein
+ADATZ4_03865	CM205908.1	801560	802117	+	nucleoside tri-diphosphate phosphatase
+ADATZ4_03870	CM205908.1	802191	803333	+	AI-2E family transporter
+ADATZ4_03875	CM205908.1	803451	803867	+	glycerol-3-phosphate cytidylyltransferase
+ADATZ4_03880	CM205908.1	803933	804817	+	hypothetical protein
+ADATZ4_03885	CM205908.1	804832	806856	+	CDP-glycerol glycerophosphotransferase family protein
+ADATZ4_03890	CM205908.1	806909	807457	-	hypothetical protein
+ADATZ4_03895	CM205908.1	807638	809215	+	peptide chain release factor 3
+ADATZ4_03900	CM205908.1	809448	811574	+	L-type lectin family protein
+ADATZ4_03905	CM205908.1	811707	813059	-	FAD-dependent oxidoreductase
+ADATZ4_03910	CM205908.1	813288	814721	+	C69 family dipeptidase
+ADATZ4_03915	CM205908.1	815005	817611	+	cation-translocating P-type ATPase
+ADATZ4_03920	CM205908.1	817661	818752	-	MucBP domain-containing protein
+ADATZ4_03925	CM205908.1	818897	821134	-	ATP-dependent Clp protease ATP-binding subunit
+ADATZ4_03930	CM205908.1	821434	821634	+	protein YkzS
+ADATZ4_03935	CM205908.1	821802	822068	+	phosphocarrier protein HPr
+ADATZ4_03940	CM205908.1	822068	823804	+	phosphoenolpyruvate--protein phosphotransferase
+ADATZ4_03945	CM205908.1	823989	825167	+	glycosyltransferase family 4 protein
+ADATZ4_03950	CM205908.1	825180	826202	+	glycosyltransferase family 4 protein
+ADATZ4_03955	CM205908.1	826207	827241	+	lysylphosphatidylglycerol synthase transmembrane domain-containing protein
+ADATZ4_03960	CM205908.1	827319	827555	+	YkuJ family protein
+ADATZ4_03965	CM205908.1	827692	829749	+	LTA synthase family protein
+ADATZ4_04050	CM205908.1	836867	837334	-	universal stress protein
+ADATZ4_04055	CM205908.1	837588	838157	-	matrixin family metalloprotease
+ADATZ4_04060	CM205908.1	838545	838868	-	heavy metal-binding domain-containing protein
+ADATZ4_04065	CM205908.1	839079	839648	+	hypothetical protein
+ADATZ4_04070	CM205908.1	839695	840036	-	hypothetical protein
+ADATZ4_04075	CM205908.1	840141	840848	-	hypothetical protein
+ADATZ4_04080	CM205908.1	841092	842279	+	methionine adenosyltransferase
+ADATZ4_04085	CM205908.1	842485	843960	+	MDR family MFS transporter
+ADATZ4_04090	CM205908.1	844034	844360	+	DUF960 domain-containing protein
+ADATZ4_04095	CM205908.1	844408	845055	-	deoxynucleoside kinase
+ADATZ4_04100	CM205908.1	845209	845979	+	Cof-type HAD-IIB family hydrolase
+ADATZ4_04105	CM205908.1	846033	846704	-	beta-phosphoglucomutase
+ADATZ4_04110	CM205908.1	846717	849431	-	glycoside hydrolase family 65 protein
+ADATZ4_04115	CM205908.1	849651	850613	-	2-hydroxyacid dehydrogenase family protein
+ADATZ4_04120	CM205908.1	850763	851011	+	hypothetical protein
+ADATZ4_04125	CM205908.1	851320	852000	+	CPBP family intramembrane glutamic endopeptidase
+ADATZ4_04130	CM205908.1	852052	852528	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_04135	CM205908.1	853084	853602	+	VanZ family protein
+ADATZ4_04140	CM205908.1	853593	853886	+	heavy metal-binding domain-containing protein
+ADATZ4_04150	CM205908.1	854336	856783	+	ATP-binding cassette domain-containing protein
+ADATZ4_04155	CM205908.1	856965	857342	+	hypothetical protein
+ADATZ4_04160	CM205908.1	857521	857772	+	hypothetical protein
+ADATZ4_04165	CM205908.1	858323	860125	+	cell surface protein
+ADATZ4_04170	CM205908.1	860273	860509	-	hypothetical protein
+ADATZ4_04175	CM205908.1	860579	861988	-	C69 family dipeptidase
+ADATZ4_04180	CM205908.1	862127	862825	+	Crp/Fnr family transcriptional regulator
+ADATZ4_04185	CM205908.1	862969	864852	+	asparagine synthase (glutamine-hydrolyzing)
+ADATZ4_04190	CM205908.1	864987	866243	+	carboxylate--amine ligase
+ADATZ4_04195	CM205908.1	866250	866963	+	aspartate/glutamate racemase family protein
+ADATZ4_04200	CM205908.1	867177	867518	-	DUF1516 family protein
+ADATZ4_04205	CM205908.1	867585	868118	-	dihydrofolate reductase family protein
+ADATZ4_04210	CM205908.1	868178	869437	-	peptidoglycan recognition protein family protein
+ADATZ4_04215	CM205908.1	869771	869992	+	DUF2187 domain-containing protein
+ADATZ4_04225	CM205908.1	870465	872156	+	arginine--tRNA ligase
+ADATZ4_04230	CM205908.1	872395	872862	+	arginine repressor
+ADATZ4_04235	CM205908.1	873028	875124	+	PBP1A family penicillin-binding protein
+ADATZ4_04240	CM205908.1	875215	875559	+	YlbF family regulator
+ADATZ4_04245	CM205908.1	875642	876856	+	metallophosphoesterase family protein
+ADATZ4_04250	CM205908.1	876846	879470	+	ATP-binding protein
+ADATZ4_04255	CM205908.1	879483	880457	+	3'-5' exoribonuclease YhaM family protein
+ADATZ4_04260	CM205908.1	880522	881439	-	peptidylprolyl isomerase PrsA
+ADATZ4_04265	CM205908.1	881552	881872	-	hypothetical protein
+ADATZ4_04270	CM205908.1	881875	882333	-	HIT family protein
+ADATZ4_04275	CM205908.1	882543	883277	+	ABC transporter ATP-binding protein
+ADATZ4_04280	CM205908.1	883274	884500	+	ABC transporter permease
+ADATZ4_04285	CM205908.1	884562	885353	+	phosphotransferase
+ADATZ4_04290	CM205908.1	885419	886066	+	tRNA (guanosine(46)-N7)-methyltransferase TrmB
+ADATZ4_04295	CM205908.1	886193	887287	+	competence protein CoiA
+ADATZ4_04300	CM205908.1	887354	889159	+	oligoendopeptidase F
+ADATZ4_04305	CM205908.1	889213	890076	-	DegV family protein
+ADATZ4_04310	CM205908.1	890238	890876	-	ClpXP adapter SpxH family protein
+ADATZ4_04315	CM205908.1	891203	891862	+	GTP diphosphokinase
+ADATZ4_04320	CM205908.1	891864	892667	+	NAD kinase
+ADATZ4_04325	CM205908.1	892664	893563	+	RluA family pseudouridine synthase
+ADATZ4_04330	CM205908.1	894023	899398	+	KxYKxGKxW signal peptide domain-containing protein
+ADATZ4_04335	CM205908.1	899760	901259	+	glycosyltransferase
+ADATZ4_04340	CM205908.1	901287	902804	+	glycosyltransferase
+ADATZ4_04345	CM205908.1	902884	903129	+	hypothetical protein
+ADATZ4_04350	CM205908.1	903232	904758	+	glycosyltransferase
+ADATZ4_04355	CM205908.1	904793	905683	+	zinc metalloprotease
+ADATZ4_04360	CM205908.1	905748	906590	-	CatB-related O-acetyltransferase
+ADATZ4_04365	CM205908.1	906875	907705	+	CatB-related O-acetyltransferase
+ADATZ4_04370	CM205908.1	908108	909619	+	glycosyltransferase
+ADATZ4_04375	CM205908.1	909690	911204	+	accessory Sec system glycosyltransferase Asp1
+ADATZ4_04380	CM205908.1	911235	912776	+	glycosyltransferase
+ADATZ4_04385	CM205908.1	913426	919896	+	beta strand repeat-containing protein
+ADATZ4_04390	CM205908.1	920074	920922	+	zinc metalloprotease
+ADATZ4_04395	CM205908.1	920992	921624	-	copper homeostasis protein CutC
+ADATZ4_04400	CM205908.1	921714	922901	+	AI-2E family transporter
+ADATZ4_04405	CM205908.1	922888	923742	+	methyltransferase domain-containing protein
+ADATZ4_04410	CM205908.1	924042	924554	+	tRNA (cytidine(34)-2'-O)-methyltransferase
+ADATZ4_04415	CM205908.1	924573	926918	+	DNA translocase FtsK
+ADATZ4_04420	CM205908.1	926978	927100	-	DUF4044 domain-containing protein
+ADATZ4_04425	CM205908.1	927272	927625	+	DUF3397 family protein
+ADATZ4_04430	CM205908.1	927836	928267	+	division/cell wall cluster transcriptional repressor MraZ
+ADATZ4_04435	CM205908.1	928299	929243	+	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH
+ADATZ4_04440	CM205908.1	929288	929683	+	cell division protein FtsL
+ADATZ4_04445	CM205908.1	929683	931842	+	penicillin-binding transpeptidase domain-containing protein
+ADATZ4_04450	CM205908.1	931864	932835	+	phospho-N-acetylmuramoyl-pentapeptide-transferase
+ADATZ4_04455	CM205908.1	932937	934316	+	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+ADATZ4_04460	CM205908.1	934316	935410	+	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+ADATZ4_04465	CM205908.1	935443	936312	+	cell division protein FtsQ/DivIB
+ADATZ4_04470	CM205908.1	936454	937782	+	cell division protein FtsA
+ADATZ4_04475	CM205908.1	937804	939063	+	cell division protein FtsZ
+ADATZ4_04480	CM205908.1	939099	939530	+	cell division protein SepF
+ADATZ4_04485	CM205908.1	939543	939827	+	YggT family protein
+ADATZ4_04490	CM205908.1	939849	940628	+	YlmH family RNA-binding protein
+ADATZ4_04495	CM205908.1	940648	941358	+	DivIVA domain-containing protein
+ADATZ4_04500	CM205908.1	941710	944523	+	isoleucine--tRNA ligase
+ADATZ4_04505	CM205908.1	944626	944850	+	cold-shock protein
+ADATZ4_04510	CM205908.1	944852	945394	+	NUDIX hydrolase
+ADATZ4_04515	CM205908.1	945403	945699	+	hypothetical protein
+ADATZ4_04520	CM205908.1	945722	946414	+	5'-methylthioadenosine/adenosylhomocysteine nucleosidase
+ADATZ4_04525	CM205908.1	946441	947637	+	cysteine desulfurase family protein
+ADATZ4_04530	CM205908.1	947639	947980	+	DUF1831 domain-containing protein
+ADATZ4_04535	CM205908.1	948199	949326	+	tRNA 2-thiouridine(34) synthase MnmA
+ADATZ4_04540	CM205908.1	949448	950125	+	histidine phosphatase family protein
+ADATZ4_04545	CM205908.1	950135	950815	+	tetratricopeptide repeat protein
+ADATZ4_04550	CM205908.1	950830	953355	+	SF1B family DNA helicase RecD2
+ADATZ4_04555	CM205908.1	953451	954437	+	ribose-phosphate diphosphokinase
+ADATZ4_04560	CM205908.1	954504	955196	+	YoaK family protein
+ADATZ4_04565	CM205908.1	955258	955947	-	amino acid ABC transporter permease
+ADATZ4_04570	CM205908.1	955966	956844	-	transporter substrate-binding domain-containing protein
+ADATZ4_04575	CM205908.1	956982	958469	+	amidase
+ADATZ4_04580	CM205908.1	958482	960131	+	peptide ABC transporter substrate-binding protein
+ADATZ4_04585	CM205908.1	960294	961223	+	N-acetylmuramic acid 6-phosphate etherase
+ADATZ4_04590	CM205908.1	961301	962290	+	aldo/keto reductase
+ADATZ4_04595	CM205908.1	962448	963455	+	ribose utilization transcriptional repressor RbsR
+ADATZ4_04600	CM205908.1	963589	964509	+	ribokinase
+ADATZ4_04605	CM205908.1	964823	966847	+	transketolase
+ADATZ4_04610	CM205908.1	966967	967857	+	C40 family peptidase
+ADATZ4_04615	CM205908.1	967970	968992	+	DUF1002 domain-containing protein
+ADATZ4_04620	CM205908.1	969453	971051	+	LysM peptidoglycan-binding domain-containing protein
+ADATZ4_04625	CM205908.1	971387	971593	+	hypothetical protein
+ADATZ4_04630	CM205908.1	971655	972614	-	diacylglycerol/lipid kinase family protein
+ADATZ4_04635	CM205908.1	972754	974433	-	ribonuclease J1
+ADATZ4_04640	CM205908.1	974430	974648	-	DNA-directed RNA polymerase subunit epsilon
+ADATZ4_04645	CM205908.1	974852	975349	+	hypothetical protein
+ADATZ4_04650	CM205908.1	975402	975962	-	peptide deformylase
+ADATZ4_04655	CM205908.1	976240	977355	+	pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+ADATZ4_04660	CM205908.1	977358	978335	+	alpha-ketoacid dehydrogenase subunit beta
+ADATZ4_04665	CM205908.1	978411	979730	+	dihydrolipoamide acetyltransferase family protein
+ADATZ4_04670	CM205908.1	979738	981165	+	dihydrolipoyl dehydrogenase
+ADATZ4_04675	CM205908.1	981371	982279	+	Rossmann-fold NAD(P)-binding domain-containing protein
+ADATZ4_04680	CM205908.1	982281	982562	+	UPF0223 family protein
+ADATZ4_04685	CM205908.1	982571	983362	+	inositol monophosphatase family protein
+ADATZ4_04690	CM205908.1	983500	985344	+	translational GTPase TypA
+ADATZ4_04695	CM205908.1	985498	986652	+	FtsW/RodA/SpoVE family cell cycle protein
+ADATZ4_04700	CM205908.1	986674	986961	+	YlbG family protein
+ADATZ4_04705	CM205908.1	986958	987521	+	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD
+ADATZ4_04710	CM205908.1	987518	988003	+	pantetheine-phosphate adenylyltransferase
+ADATZ4_04715	CM205908.1	988004	989053	+	SepM family pheromone-processing serine protease
+ADATZ4_04720	CM205908.1	989154	989849	+	helix-hairpin-helix domain-containing protein
+ADATZ4_04725	CM205908.1	989898	990377	+	ComE operon protein 2
+ADATZ4_04730	CM205908.1	990428	992644	+	DNA internalization-related competence protein ComEC/Rec2
+ADATZ4_04735	CM205908.1	992641	993669	+	DNA polymerase III subunit delta
+ADATZ4_04740	CM205908.1	993743	993997	-	30S ribosomal protein S20
+ADATZ4_04745	CM205908.1	994275	994544	+	30S ribosomal protein S15
+ADATZ4_04750	CM205908.1	994747	996579	+	ribonuclease J
+ADATZ4_04755	CM205908.1	996652	997581	+	hypothetical protein
+ADATZ4_04760	CM205908.1	997790	998980	+	elongation factor Tu
+ADATZ4_04765	CM205908.1	999234	1000544	+	trigger factor
+ADATZ4_04770	CM205908.1	1000773	1002029	+	ATP-dependent Clp protease ATP-binding subunit ClpX
+ADATZ4_04775	CM205908.1	1002211	1002804	+	ribosome biogenesis GTP-binding protein YihA/YsxC
+ADATZ4_04780	CM205908.1	1002807	1003106	+	nucleoside triphosphate pyrophosphohydrolase family protein
+ADATZ4_04785	CM205908.1	1003147	1003335	-	SPJ_0845 family protein
+ADATZ4_04790	CM205908.1	1003493	1005310	+	excinuclease ABC subunit UvrC
+ADATZ4_04795	CM205908.1	1005398	1006693	+	GTPase ObgE
+ADATZ4_04800	CM205908.1	1006740	1007495	-	hypothetical protein
+ADATZ4_04805	CM205908.1	1007510	1007785	-	hypothetical protein
+ADATZ4_04810	CM205908.1	1007958	1008911	+	ribonuclease Z
+ADATZ4_04815	CM205908.1	1008908	1009297	+	LapA family protein
+ADATZ4_04820	CM205908.1	1009362	1011683	+	single-stranded-DNA-specific exonuclease RecJ
+ADATZ4_04825	CM205908.1	1011701	1012219	+	adenine phosphoribosyltransferase
+ADATZ4_04830	CM205908.1	1012283	1012738	-	universal stress protein
+ADATZ4_04835	CM205908.1	1012776	1012988	-	CsbD family protein
+ADATZ4_04840	CM205908.1	1013338	1013727	+	hypothetical protein
+ADATZ4_04845	CM205908.1	1013724	1014614	-	diacylglycerol/lipid kinase family protein
+ADATZ4_04850	CM205908.1	1014833	1015231	+	TIR domain-containing protein
+ADATZ4_04860	CM205908.1	1015613	1016776	-	site-specific integrase
+ADATZ4_04865	CM205908.1	1017120	1018463	-	hypothetical protein
+ADATZ4_04870	CM205908.1	1018557	1018934	-	large-conductance mechanosensitive channel protein MscL
+ADATZ4_04875	CM205908.1	1019036	1019371	-	hypothetical protein
+ADATZ4_04880	CM205908.1	1019495	1020568	-	exonuclease domain-containing protein
+ADATZ4_04885	CM205908.1	1020805	1021284	-	hypothetical protein
+ADATZ4_04890	CM205908.1	1021288	1021692	-	helix-turn-helix domain-containing protein
+ADATZ4_04895	CM205908.1	1021953	1022168	+	hypothetical protein
+ADATZ4_04900	CM205908.1	1022181	1022897	+	Rha family transcriptional regulator
+ADATZ4_04905	CM205908.1	1023212	1023589	-	hypothetical protein
+ADATZ4_04910	CM205908.1	1023658	1023918	+	hypothetical protein
+ADATZ4_04915	CM205908.1	1024007	1024270	+	hypothetical protein
+ADATZ4_04920	CM205908.1	1024598	1024777	+	hypothetical protein
+ADATZ4_04925	CM205908.1	1024770	1025663	+	DUF1351 domain-containing protein
+ADATZ4_04930	CM205908.1	1025665	1026642	+	AAA family ATPase
+ADATZ4_04935	CM205908.1	1026645	1027208	+	DUF669 domain-containing protein
+ADATZ4_04940	CM205908.1	1027227	1028060	+	conserved phage C-terminal domain-containing protein
+ADATZ4_04945	CM205908.1	1028080	1029297	+	replicative DNA helicase
+ADATZ4_04950	CM205908.1	1029290	1029715	+	hypothetical protein
+ADATZ4_04955	CM205908.1	1029705	1029947	+	DUF3310 domain-containing protein
+ADATZ4_04960	CM205908.1	1029958	1030338	+	hypothetical protein
+ADATZ4_04965	CM205908.1	1030335	1030796	+	DUF1064 domain-containing protein
+ADATZ4_04970	CM205908.1	1030810	1031016	+	hypothetical protein
+ADATZ4_04975	CM205908.1	1031032	1031289	+	hypothetical protein
+ADATZ4_04980	CM205908.1	1031290	1031571	+	hypothetical protein
+ADATZ4_04985	CM205908.1	1031749	1032201	+	sigma-70 family RNA polymerase sigma factor
+ADATZ4_04990	CM205908.1	1032427	1033236	+	hypothetical protein
+ADATZ4_04995	CM205908.1	1033278	1033793	+	HNH endonuclease
+ADATZ4_05000	CM205908.1	1033796	1034098	+	hypothetical protein
+ADATZ4_05005	CM205908.1	1034268	1034726	+	phage terminase small subunit P27 family
+ADATZ4_05010	CM205908.1	1034758	1036664	+	terminase large subunit
+ADATZ4_05015	CM205908.1	1036654	1036851	+	DUF1056 family protein
+ADATZ4_05020	CM205908.1	1036854	1038035	+	phage portal protein
+ADATZ4_05025	CM205908.1	1038013	1038732	+	head maturation protease%2C ClpP-related
+ADATZ4_05030	CM205908.1	1038732	1039964	+	phage major capsid protein
+ADATZ4_05035	CM205908.1	1039987	1040313	+	head-tail connector protein
+ADATZ4_05040	CM205908.1	1040297	1040653	+	phage head closure protein
+ADATZ4_05045	CM205908.1	1040646	1041092	+	phage tail protein
+ADATZ4_05050	CM205908.1	1041089	1041463	+	DUF806 family protein
+ADATZ4_05055	CM205908.1	1041477	1042100	+	phage tail protein
+ADATZ4_05060	CM205908.1	1042224	1042625	+	phage tail tube assembly chaperone
+ADATZ4_05065	CM205908.1	1042667	1042816	+	hypothetical protein
+ADATZ4_05070	CM205908.1	1042833	1044905	+	tape measure protein
+ADATZ4_05075	CM205908.1	1044902	1048165	+	hypothetical protein
+ADATZ4_05080	CM205908.1	1048173	1050143	+	distal tail protein Dit
+ADATZ4_05085	CM205908.1	1050160	1052754	+	phage tail spike protein
+ADATZ4_05090	CM205908.1	1052751	1053764	+	tail fiber domain-containing protein
+ADATZ4_05095	CM205908.1	1053761	1054000	+	hypothetical protein
+ADATZ4_05100	CM205908.1	1053993	1056197	+	XkdV family phage structural protein
+ADATZ4_05105	CM205908.1	1056308	1056667	+	hypothetical protein
+ADATZ4_05110	CM205908.1	1056669	1056842	+	XkdX family protein
+ADATZ4_05115	CM205908.1	1056900	1057328	+	hypothetical protein
+ADATZ4_05120	CM205908.1	1057321	1058139	+	GH25 family lysozyme
+ADATZ4_05125	CM205908.1	1058139	1058411	+	hypothetical protein
+ADATZ4_05130	CM205908.1	1059150	1059587	+	hypothetical protein
+ADATZ4_05135	CM205908.1	1059783	1059989	-	hypothetical protein
+ADATZ4_05140	CM205908.1	1060070	1060534	-	nucleoside-diphosphate kinase
+ADATZ4_05145	CM205908.1	1060677	1060859	-	PspC domain-containing protein
+ADATZ4_05150	CM205908.1	1060872	1061534	-	histidine phosphatase family protein
+ADATZ4_05155	CM205908.1	1061695	1062576	+	polyphosphate kinase 2 family protein
+ADATZ4_05160	CM205908.1	1062728	1063891	+	hydroxymethylglutaryl-CoA synthase
+ADATZ4_05165	CM205908.1	1064061	1065788	+	IS1182 family transposase
+ADATZ4_05170	CM205908.1	1065745	1066185	-	nucleoside 2-deoxyribosyltransferase
+ADATZ4_05175	CM205908.1	1066412	1067002	+	hypothetical protein
+ADATZ4_05180	CM205908.1	1066980	1068680	-	IS1182 family transposase
+ADATZ4_05185	CM205908.1	1068843	1069472	-	transcriptional repressor LexA
+ADATZ4_05190	CM205908.1	1069655	1069903	+	DUF896 domain-containing protein
+ADATZ4_05195	CM205908.1	1070003	1070227	+	YneF family protein
+ADATZ4_05200	CM205908.1	1070358	1072118	+	ABC transporter ATP-binding protein
+ADATZ4_05205	CM205908.1	1072108	1073901	+	ABC transporter ATP-binding protein
+ADATZ4_05210	CM205908.1	1073962	1074603	-	lysophospholipid acyltransferase family protein
+ADATZ4_05215	CM205908.1	1074690	1075445	+	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+ADATZ4_05220	CM205908.1	1075432	1075701	+	GIY-YIG nuclease family protein
+ADATZ4_05225	CM205908.1	1075785	1076783	+	D-2-hydroxyacid dehydrogenase
+ADATZ4_05230	CM205908.1	1076905	1077624	-	HAD family hydrolase
+ADATZ4_05235	CM205908.1	1077862	1078665	+	30S ribosomal protein S2
+ADATZ4_05240	CM205908.1	1078815	1079699	+	translation elongation factor Ts
+ADATZ4_05245	CM205908.1	1079846	1080568	+	UMP kinase
+ADATZ4_05250	CM205908.1	1080571	1081128	+	ribosome recycling factor
+ADATZ4_05255	CM205908.1	1081155	1081577	+	hypothetical protein
+ADATZ4_05260	CM205908.1	1081680	1082468	+	undecaprenyl pyrophosphate synthase
+ADATZ4_05265	CM205908.1	1082490	1083281	+	phosphatidate cytidylyltransferase
+ADATZ4_05270	CM205908.1	1083377	1084654	+	RIP metalloprotease RseP
+ADATZ4_05275	CM205908.1	1084690	1086399	+	proline--tRNA ligase
+ADATZ4_05280	CM205908.1	1086491	1090828	+	PolC-type DNA polymerase III
+ADATZ4_05285	CM205908.1	1090977	1091252	+	hypothetical protein
+ADATZ4_05290	CM205908.1	1091379	1091852	+	ribosome maturation factor RimP
+ADATZ4_05295	CM205908.1	1091876	1093078	+	transcription termination factor NusA
+ADATZ4_05300	CM205908.1	1093105	1093401	+	RNase P modulator RnpM
+ADATZ4_05305	CM205908.1	1093394	1093696	+	L7Ae/L30e/S12e/Gadd45 family ribosomal protein
+ADATZ4_05310	CM205908.1	1093744	1096086	+	translation initiation factor IF-2
+ADATZ4_05315	CM205908.1	1096106	1096456	+	30S ribosome-binding factor RbfA
+ADATZ4_05320	CM205908.1	1096537	1097448	+	tRNA pseudouridine(55) synthase TruB
+ADATZ4_05325	CM205908.1	1097469	1098416	+	riboflavin biosynthesis protein RibF
+ADATZ4_05330	CM205908.1	1098668	1099705	+	heat-inducible transcriptional repressor HrcA
+ADATZ4_05335	CM205908.1	1099726	1100310	+	nucleotide exchange factor GrpE
+ADATZ4_05340	CM205908.1	1100350	1102209	+	molecular chaperone DnaK
+ADATZ4_05345	CM205908.1	1102326	1103474	+	molecular chaperone DnaJ
+ADATZ4_05350	CM205908.1	1103776	1103925	+	teichoic acid D-Ala incorporation-associated protein DltX
+ADATZ4_05355	CM205908.1	1103966	1105492	+	D-alanine--poly(phosphoribitol) ligase subunit DltA
+ADATZ4_05360	CM205908.1	1105492	1106700	+	D-alanyl-lipoteichoic acid biosynthesis protein DltB
+ADATZ4_05365	CM205908.1	1106738	1106971	+	D-alanine--poly(phosphoribitol) ligase subunit DltC
+ADATZ4_05370	CM205908.1	1106975	1108264	+	D-alanyl-lipoteichoic acid biosynthesis protein DltD
+ADATZ4_05375	CM205908.1	1108445	1110277	+	translation elongation factor 4
+ADATZ4_05380	CM205908.1	1110395	1111657	-	tyrosine-type recombinase/integrase
+ADATZ4_05395	CM205908.1	1111983	1112900	-	DNA adenine methylase
+ADATZ4_05400	CM205908.1	1112957	1114720	-	AAA family ATPase
+ADATZ4_05405	CM205908.1	1115232	1115591	-	hypothetical protein
+ADATZ4_05410	CM205908.1	1115673	1115891	-	hypothetical protein
+ADATZ4_05415	CM205908.1	1116074	1116295	-	hypothetical protein
+ADATZ4_05425	CM205908.1	1116606	1116860	-	hypothetical protein
+ADATZ4_05430	CM205908.1	1116930	1117751	-	hypothetical protein
+ADATZ4_05435	CM205908.1	1117845	1118258	-	ImmA/IrrE family metallo-endopeptidase
+ADATZ4_05440	CM205908.1	1118270	1118638	-	helix-turn-helix domain-containing protein
+ADATZ4_05445	CM205908.1	1118805	1119053	+	helix-turn-helix domain-containing protein
+ADATZ4_05450	CM205908.1	1119186	1119371	-	hypothetical protein
+ADATZ4_05455	CM205908.1	1119420	1119644	+	hypothetical protein
+ADATZ4_05460	CM205908.1	1119705	1120259	+	hypothetical protein
+ADATZ4_05465	CM205908.1	1120244	1120507	+	helix-turn-helix domain-containing protein
+ADATZ4_05470	CM205908.1	1120520	1120678	+	hypothetical protein
+ADATZ4_05475	CM205908.1	1120788	1121081	+	hypothetical protein
+ADATZ4_05480	CM205908.1	1121072	1121287	+	hypothetical protein
+ADATZ4_05485	CM205908.1	1121288	1122349	+	recombinase RecT
+ADATZ4_05490	CM205908.1	1122384	1123139	+	LCABL_13060 family 5'-3'-exonuclease
+ADATZ4_05495	CM205908.1	1123151	1123939	+	DnaD domain protein
+ADATZ4_05500	CM205908.1	1123951	1124661	+	antA/AntB antirepressor family protein
+ADATZ4_05505	CM205908.1	1124654	1125058	+	RusA family crossover junction endodeoxyribonuclease
+ADATZ4_05510	CM205908.1	1125213	1125641	+	hypothetical protein
+ADATZ4_05515	CM205908.1	1125986	1126123	-	hypothetical protein
+ADATZ4_05520	CM205908.1	1126261	1126449	+	helix-turn-helix domain-containing protein
+ADATZ4_05525	CM205908.1	1126543	1127016	+	hypothetical protein
+ADATZ4_05540	CM205908.1	1128139	1128756	-	hypothetical protein
+ADATZ4_05545	CM205908.1	1128959	1129153	+	hypothetical protein
+ADATZ4_05550	CM205908.1	1129137	1129367	+	hypothetical protein
+ADATZ4_05555	CM205908.1	1129380	1129691	+	hypothetical protein
+ADATZ4_05560	CM205908.1	1129720	1129965	+	hypothetical protein
+ADATZ4_05565	CM205908.1	1129977	1130534	+	Thoeris anti-defense Tad2 family protein
+ADATZ4_05570	CM205908.1	1130619	1131449	+	phage terminase small subunit
+ADATZ4_05575	CM205908.1	1131446	1132954	+	phage terminase large subunit
+ADATZ4_05580	CM205908.1	1132972	1134603	+	phage portal protein
+ADATZ4_05585	CM205908.1	1134603	1135532	+	hypothetical protein
+ADATZ4_05590	CM205908.1	1135545	1136054	+	hypothetical protein
+ADATZ4_05595	CM205908.1	1136066	1136446	+	hypothetical protein
+ADATZ4_05600	CM205908.1	1136459	1137616	+	major capsid protein
+ADATZ4_05605	CM205908.1	1137698	1138201	+	fibronectin type III domain-containing protein
+ADATZ4_05610	CM205908.1	1138217	1138396	+	LysM peptidoglycan-binding domain-containing protein
+ADATZ4_05615	CM205908.1	1138408	1138746	+	hypothetical protein
+ADATZ4_05620	CM205908.1	1138872	1139357	+	hypothetical protein
+ADATZ4_05625	CM205908.1	1139350	1139739	+	hypothetical protein
+ADATZ4_05630	CM205908.1	1139726	1140214	+	phage neck terminator protein
+ADATZ4_05635	CM205908.1	1140198	1141343	+	DUF3383 family protein
+ADATZ4_05640	CM205908.1	1141359	1141772	+	hypothetical protein
+ADATZ4_05645	CM205908.1	1141818	1142249	+	hypothetical protein
+ADATZ4_05650	CM205908.1	1142215	1142457	+	hypothetical protein
+ADATZ4_05655	CM205908.1	1142450	1148320	+	phage tail tape measure protein
+ADATZ4_05660	CM205908.1	1148380	1149357	+	phage baseplate protein
+ADATZ4_05665	CM205908.1	1149371	1149841	+	phage baseplate plug family protein
+ADATZ4_05670	CM205908.1	1149841	1151094	+	hypothetical protein
+ADATZ4_05675	CM205908.1	1151103	1151516	+	hypothetical protein
+ADATZ4_05680	CM205908.1	1151506	1151892	+	DUF2634 domain-containing protein
+ADATZ4_05685	CM205908.1	1151876	1153024	+	baseplate J/gp47 family protein
+ADATZ4_05690	CM205908.1	1153017	1153730	+	hypothetical protein
+ADATZ4_05695	CM205908.1	1153747	1155372	+	XkdV family phage structural protein
+ADATZ4_05700	CM205908.1	1155383	1155859	+	hypothetical protein
+ADATZ4_05705	CM205908.1	1155960	1156427	+	hypothetical protein
+ADATZ4_05710	CM205908.1	1156443	1156913	+	hypothetical protein
+ADATZ4_05715	CM205908.1	1156926	1157087	+	CD1375 family protein
+ADATZ4_05720	CM205908.1	1157174	1157548	+	phage holin family protein%2C TcdE/UtxA-related
+ADATZ4_05725	CM205908.1	1157545	1158060	+	hypothetical protein
+ADATZ4_05730	CM205908.1	1158060	1159112	+	GH25 family lysozyme
+ADATZ4_05735	CM205908.1	1159348	1159605	+	GlsB/YeaQ/YmgE family stress response membrane protein
+ADATZ4_05740	CM205908.1	1159618	1160163	+	alkaline shock response membrane anchor protein AmaP
+ADATZ4_05745	CM205908.1	1160182	1160364	+	hypothetical protein
+ADATZ4_05750	CM205908.1	1160380	1160799	+	Asp23/Gls24 family envelope stress response protein
+ADATZ4_05755	CM205908.1	1160817	1161221	+	Asp23/Gls24 family envelope stress response protein
+ADATZ4_05760	CM205908.1	1162306	1162407	-	SHOCT domain-containing protein
+ADATZ4_05765	CM205908.1	1163647	1163898	-	hypothetical protein
+ADATZ4_05770	CM205908.1	1164008	1165225	-	DUF805 domain-containing protein
+ADATZ4_05775	CM205908.1	1166025	1166387	-	hypothetical protein
+ADATZ4_05780	CM205908.1	1166609	1166992	-	large-conductance mechanosensitive channel protein MscL
+ADATZ4_05785	CM205908.1	1167332	1167649	+	hypothetical protein
+ADATZ4_05790	CM205908.1	1167752	1168702	+	50S ribosomal protein L11 methyltransferase
+ADATZ4_05795	CM205908.1	1168705	1169457	+	16S rRNA (uracil(1498)-N(3))-methyltransferase
+ADATZ4_05800	CM205908.1	1169525	1169860	+	hypothetical protein
+ADATZ4_05805	CM205908.1	1169889	1172123	+	RelA/SpoT family protein
+ADATZ4_05810	CM205908.1	1172142	1172585	+	D-aminoacyl-tRNA deacylase
+ADATZ4_05815	CM205908.1	1172697	1173338	+	HAD-IA family hydrolase
+ADATZ4_05820	CM205908.1	1173393	1174232	-	fructosamine kinase family protein
+ADATZ4_05825	CM205908.1	1174259	1175110	-	N-acetylmuramoyl-L-alanine amidase family protein
+ADATZ4_05830	CM205908.1	1175291	1175821	+	hypothetical protein
+ADATZ4_05835	CM205908.1	1176129	1177424	+	histidine--tRNA ligase
+ADATZ4_05840	CM205908.1	1177438	1179240	+	aspartate--tRNA ligase
+ADATZ4_05845	CM205908.1	1179377	1179904	+	peptide-methionine (S)-S-oxide reductase MsrA
+ADATZ4_05850	CM205908.1	1180020	1180895	+	YitT family protein
+ADATZ4_05855	CM205908.1	1181014	1182219	+	CDP-glycerol glycerophosphotransferase family protein
+ADATZ4_05860	CM205908.1	1182238	1183047	+	ABC transporter permease
+ADATZ4_05865	CM205908.1	1183067	1184290	+	CDP-glycerol glycerophosphotransferase family protein
+ADATZ4_05870	CM205908.1	1184287	1185216	+	deoxyribonuclease IV
+ADATZ4_05875	CM205908.1	1185314	1186141	-	pyruvate%2C water dikinase regulatory protein
+ADATZ4_05880	CM205908.1	1186322	1186510	+	30S ribosomal protein S21
+ADATZ4_05885	CM205908.1	1186573	1187592	-	zinc-binding alcohol dehydrogenase family protein
+ADATZ4_05890	CM205908.1	1187780	1188154	+	winged helix-turn-helix transcriptional regulator
+ADATZ4_05895	CM205908.1	1188192	1188638	+	GatB/YqeY domain-containing protein
+ADATZ4_05900	CM205908.1	1188959	1189945	+	PhoH family protein
+ADATZ4_05905	CM205908.1	1189945	1190433	+	rRNA maturation RNase YbeY
+ADATZ4_05910	CM205908.1	1190411	1190812	+	diacylglycerol kinase family protein
+ADATZ4_05915	CM205908.1	1190822	1191727	+	GTPase Era
+ADATZ4_05920	CM205908.1	1191750	1192532	+	DNA repair protein RecO
+ADATZ4_05925	CM205908.1	1192819	1193742	+	glycine--tRNA ligase subunit alpha
+ADATZ4_05930	CM205908.1	1193742	1195817	+	glycine--tRNA ligase subunit beta
+ADATZ4_05935	CM205908.1	1195979	1197817	+	DNA primase
+ADATZ4_05940	CM205908.1	1197828	1198958	+	RNA polymerase sigma factor RpoD
+ADATZ4_05945	CM205908.1	1199192	1199698	+	RrF2 family transcriptional regulator
+ADATZ4_05950	CM205908.1	1199757	1203038	+	MMPL family transporter
+ADATZ4_05955	CM205908.1	1203157	1203864	+	tRNA (adenine(22)-N(1))-methyltransferase
+ADATZ4_05960	CM205908.1	1203851	1204657	+	Nif3-like dinuclear metal center hexameric protein
+ADATZ4_05965	CM205908.1	1204718	1205959	+	peptidase T
+ADATZ4_05970	CM205908.1	1206104	1208716	+	ATP-dependent chaperone ClpB
+ADATZ4_05975	CM205908.1	1208907	1212272	+	DNA polymerase III subunit alpha
+ADATZ4_05980	CM205908.1	1212365	1213093	+	transaldolase
+ADATZ4_05985	CM205908.1	1213343	1215100	+	pyruvate kinase
+ADATZ4_05990	CM205908.1	1215265	1216146	+	CvfB family protein
+ADATZ4_05995	CM205908.1	1216158	1217054	+	site-specific tyrosine recombinase XerD
+ADATZ4_06000	CM205908.1	1217093	1217488	+	N-acetyltransferase
+ADATZ4_06005	CM205908.1	1217442	1218230	+	segregation and condensation protein A
+ADATZ4_06010	CM205908.1	1218208	1218810	+	SMC-Scp complex subunit ScpB
+ADATZ4_06015	CM205908.1	1218810	1219532	+	pseudouridine synthase
+ADATZ4_06020	CM205908.1	1219828	1220409	+	ECF transporter S component
+ADATZ4_06025	CM205908.1	1220500	1221534	+	helix-turn-helix domain-containing protein
+ADATZ4_06030	CM205908.1	1221539	1222960	+	RecQ family ATP-dependent DNA helicase
+ADATZ4_06035	CM205908.1	1223032	1223646	+	LysM peptidoglycan-binding domain-containing protein
+ADATZ4_06040	CM205908.1	1223674	1224354	+	(d)CMP kinase
+ADATZ4_06045	CM205908.1	1224434	1225738	+	30S ribosomal protein S1
+ADATZ4_06050	CM205908.1	1225828	1227135	+	ribosome biogenesis GTPase Der
+ADATZ4_06055	CM205908.1	1227371	1227646	+	non-specific DNA-binding protein Hbs
+ADATZ4_06060	CM205908.1	1227752	1229011	+	tetratricopeptide repeat protein
+ADATZ4_06065	CM205908.1	1229130	1230026	-	YitT family protein
+ADATZ4_06070	CM205908.1	1230202	1231395	+	CCA tRNA nucleotidyltransferase
+ADATZ4_06075	CM205908.1	1231424	1233316	+	ABC-F family ATP-binding cassette domain-containing protein
+ADATZ4_06080	CM205908.1	1233328	1234278	+	thymidylate synthase
+ADATZ4_06085	CM205908.1	1234295	1234786	+	dihydrofolate reductase
+ADATZ4_06090	CM205908.1	1234966	1235607	-	PAQR family membrane homeostasis protein TrhA
+ADATZ4_06095	CM205908.1	1235776	1236627	+	fatty acid kinase binding subunit FakB
+ADATZ4_06100	CM205908.1	1236693	1237613	+	SGNH/GDSL hydrolase family protein
+ADATZ4_06105	CM205908.1	1237626	1238225	+	YpmS family protein
+ADATZ4_06110	CM205908.1	1238236	1238457	+	YozE family protein
+ADATZ4_06115	CM205908.1	1238559	1239074	+	hypothetical protein
+ADATZ4_06120	CM205908.1	1239034	1239252	+	hypothetical protein
+ADATZ4_06125	CM205908.1	1239447	1240708	+	ISL3 family transposase
+ADATZ4_06130	CM205908.1	1240802	1241584	-	zinc ribbon domain-containing protein
+ADATZ4_06135	CM205908.1	1241600	1242595	-	hypothetical protein
+ADATZ4_06140	CM205908.1	1242804	1243626	-	IS30 family transposase
+ADATZ4_06145	CM205908.1	1244526	1245386	+	ribosome biogenesis GTPase YlqF
+ADATZ4_06150	CM205908.1	1245379	1246152	+	ribonuclease HII
+ADATZ4_06155	CM205908.1	1246192	1247082	+	DNA-processing protein DprA
+ADATZ4_06160	CM205908.1	1247217	1249328	+	type I DNA topoisomerase
+ADATZ4_06165	CM205908.1	1249493	1250428	+	tyrosine recombinase XerC
+ADATZ4_06170	CM205908.1	1250432	1250974	+	HslVU peptidase proteolytic subunit
+ADATZ4_06175	CM205908.1	1250992	1252404	+	ATP-dependent protease ATPase subunit HslU
+ADATZ4_06180	CM205908.1	1252502	1253374	+	aldose 1-epimerase family protein
+ADATZ4_06185	CM205908.1	1253428	1254051	-	glycerol-3-phosphate 1-O-acyltransferase PlsY
+ADATZ4_06190	CM205908.1	1254312	1256279	+	DNA topoisomerase IV subunit B
+ADATZ4_06195	CM205908.1	1256347	1258749	+	DNA topoisomerase IV subunit A
+ADATZ4_06200	CM205908.1	1258884	1259849	+	LysR family transcriptional regulator
+ADATZ4_06205	CM205908.1	1259878	1260807	+	manganese-dependent inorganic pyrophosphatase
+ADATZ4_06210	CM205908.1	1260955	1261530	+	matrixin family metalloprotease
+ADATZ4_06215	CM205908.1	1261685	1262128	+	peptide-methionine (R)-S-oxide reductase MsrB
+ADATZ4_06220	CM205908.1	1262156	1262689	+	peptide-methionine (S)-S-oxide reductase MsrA
+ADATZ4_06225	CM205908.1	1262705	1263145	+	NUDIX hydrolase
+ADATZ4_06230	CM205908.1	1264007	1265071	+	tyrosine recombinase XerS
+ADATZ4_06235	CM205908.1	1265146	1265700	-	TetR/AcrR family transcriptional regulator
+ADATZ4_06240	CM205908.1	1265857	1266396	+	YhgE/Pip domain-containing protein
+ADATZ4_06245	CM205908.1	1266486	1267130	+	hypothetical protein
+ADATZ4_06250	CM205908.1	1267466	1267831	-	cyclophilin-like fold protein
+ADATZ4_06255	CM205908.1	1267886	1268377	-	YbhB/YbcL family Raf kinase inhibitor-like protein
+ADATZ4_06260	CM205908.1	1268392	1269030	-	SDR family oxidoreductase
+ADATZ4_06265	CM205908.1	1269048	1269791	-	SDR family oxidoreductase
+ADATZ4_06270	CM205908.1	1270004	1270909	+	LysR family transcriptional regulator
+ADATZ4_06275	CM205908.1	1271546	1272292	-	SDR family oxidoreductase
+ADATZ4_06280	CM205908.1	1272295	1272834	-	DapH/DapD/GlmU-related protein
+ADATZ4_06285	CM205908.1	1272945	1273823	+	LysR family transcriptional regulator
+ADATZ4_06290	CM205908.1	1273924	1274889	-	helix-turn-helix domain-containing protein
+ADATZ4_06295	CM205908.1	1274915	1275727	-	oxidoreductase
+ADATZ4_06300	CM205908.1	1275853	1276563	-	class I SAM-dependent methyltransferase
+ADATZ4_06305	CM205908.1	1276613	1277425	-	metallophosphoesterase
+ADATZ4_06310	CM205908.1	1277440	1277718	-	hypothetical protein
+ADATZ4_06315	CM205908.1	1277909	1278562	-	endonuclease III domain-containing protein
+ADATZ4_06320	CM205908.1	1278770	1279276	+	VanZ family protein
+ADATZ4_06325	CM205908.1	1279508	1280017	+	VanZ family protein
+ADATZ4_06330	CM205908.1	1280358	1280795	-	GtrA family protein
+ADATZ4_06335	CM205908.1	1281067	1281609	-	folate family ECF transporter S component
+ADATZ4_06340	CM205908.1	1281782	1282648	-	fatty acid kinase binding subunit FakB
+ADATZ4_06345	CM205908.1	1282709	1283956	-	MFS transporter
+ADATZ4_06350	CM205908.1	1283943	1285250	-	alkaline phosphatase family protein
+ADATZ4_06355	CM205908.1	1285267	1285695	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_06360	CM205908.1	1285896	1287602	+	NFACT RNA binding domain-containing protein
+ADATZ4_06365	CM205908.1	1287682	1290258	-	carbamoyl phosphate synthase preATP-grasp domain-containing protein
+ADATZ4_06370	CM205908.1	1290261	1291337	-	carbamoyl phosphate synthase small subunit
+ADATZ4_06375	CM205908.1	1291362	1291895	-	bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR
+ADATZ4_06380	CM205908.1	1292038	1292961	-	RluA family pseudouridine synthase
+ADATZ4_06385	CM205908.1	1292961	1293425	-	signal peptidase II
+ADATZ4_06390	CM205908.1	1293585	1295240	-	formate--tetrahydrofolate ligase
+ADATZ4_06395	CM205908.1	1295237	1295656	-	EbsA family protein
+ADATZ4_06400	CM205908.1	1295696	1296100	+	ribonuclease HI family protein
+ADATZ4_06405	CM205908.1	1296076	1297200	-	NAD(P)/FAD-dependent oxidoreductase
+ADATZ4_06410	CM205908.1	1297357	1297959	-	nitroreductase family protein
+ADATZ4_06415	CM205908.1	1298091	1298615	-	TetR/AcrR family transcriptional regulator
+ADATZ4_06420	CM205908.1	1298802	1299473	+	CPBP family intramembrane glutamic endopeptidase
+ADATZ4_06425	CM205908.1	1299531	1299881	-	hypothetical protein
+ADATZ4_06430	CM205908.1	1299985	1300446	-	8-oxo-dGTP diphosphatase
+ADATZ4_06435	CM205908.1	1300722	1300922	-	hypothetical protein
+ADATZ4_06440	CM205908.1	1301039	1302385	-	ammonium transporter
+ADATZ4_06445	CM205908.1	1302554	1302934	-	HIT family protein
+ADATZ4_06450	CM205908.1	1302940	1304082	-	THUMP domain-containing class I SAM-dependent RNA methyltransferase
+ADATZ4_06460	CM205908.1	1304580	1304933	-	cell division regulator GpsB
+ADATZ4_06465	CM205908.1	1304989	1305558	-	SLOG family protein
+ADATZ4_06470	CM205908.1	1305762	1306367	+	Holliday junction resolvase RecU
+ADATZ4_06475	CM205908.1	1306412	1308718	+	transglycosylase domain-containing protein
+ADATZ4_06480	CM205908.1	1308914	1309276	-	rhodanese-like domain-containing protein
+ADATZ4_06485	CM205908.1	1309280	1309801	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_06490	CM205908.1	1309958	1310653	-	DnaD domain-containing protein
+ADATZ4_06495	CM205908.1	1310736	1311917	-	pyridoxal phosphate-dependent aminotransferase
+ADATZ4_06500	CM205908.1	1311938	1312441	-	cell wall elongation regulator TseB-like domain-containing protein
+ADATZ4_06505	CM205908.1	1312499	1315339	-	ATP-dependent DNA helicase DinG%2C 3'-5' exoribonuclease type
+ADATZ4_06510	CM205908.1	1315604	1316551	+	mevalonate kinase
+ADATZ4_06515	CM205908.1	1316548	1317522	+	diphosphomevalonate decarboxylase
+ADATZ4_06520	CM205908.1	1317577	1318650	+	phosphomevalonate kinase
+ADATZ4_06525	CM205908.1	1318663	1319700	+	type 2 isopentenyl-diphosphate Delta-isomerase
+ADATZ4_06530	CM205908.1	1319751	1321109	-	RsmF rRNA methyltransferase first C-terminal domain-containing protein
+ADATZ4_06535	CM205908.1	1321319	1322131	+	Cof-type HAD-IIB family hydrolase
+ADATZ4_06540	CM205908.1	1322188	1323348	-	ArgE/DapE family deacylase
+ADATZ4_06545	CM205908.1	1323447	1323911	+	hypothetical protein
+ADATZ4_06550	CM205908.1	1323936	1324799	-	aldo/keto reductase
+ADATZ4_06555	CM205908.1	1324802	1325677	-	aldo/keto reductase
+ADATZ4_06560	CM205908.1	1325801	1326673	+	LysR family transcriptional regulator
+ADATZ4_06565	CM205908.1	1326816	1327856	+	zinc-binding dehydrogenase
+ADATZ4_06570	CM205908.1	1327946	1328098	-	DUF2316 family protein
+ADATZ4_06575	CM205908.1	1328465	1328686	+	hypothetical protein
+ADATZ4_06580	CM205908.1	1328686	1329405	+	hypothetical protein
+ADATZ4_06585	CM205908.1	1329412	1330113	+	ATP-binding cassette domain-containing protein
+ADATZ4_06590	CM205908.1	1330182	1330637	-	MerR family transcriptional regulator
+ADATZ4_06595	CM205908.1	1330737	1331756	+	NAD-dependent epimerase/dehydratase family protein
+ADATZ4_06600	CM205908.1	1331842	1332810	-	zinc-binding alcohol dehydrogenase family protein
+ADATZ4_06605	CM205908.1	1332921	1334948	-	KUP/HAK/KT family potassium transporter
+ADATZ4_06610	CM205908.1	1335158	1336219	+	MFS transporter
+ADATZ4_06615	CM205908.1	1336265	1338241	-	cation:proton antiporter
+ADATZ4_06620	CM205908.1	1338317	1338670	-	iron-sulfur cluster biosynthesis family protein
+ADATZ4_06625	CM205908.1	1338703	1339806	-	lactate oxidase
+ADATZ4_06630	CM205908.1	1339977	1340624	-	TetR/AcrR family transcriptional regulator
+ADATZ4_06635	CM205908.1	1340663	1341841	-	ABC transporter permease
+ADATZ4_06640	CM205908.1	1341838	1342563	-	ABC transporter ATP-binding protein
+ADATZ4_06645	CM205908.1	1343054	1343311	-	hypothetical protein
+ADATZ4_06650	CM205908.1	1343646	1343819	-	hypothetical protein
+ADATZ4_06655	CM205908.1	1343913	1344170	-	hypothetical protein
+ADATZ4_06660	CM205908.1	1344279	1344530	-	Mor transcription activator family protein
+ADATZ4_06665	CM205908.1	1344743	1345141	-	arsenate reductase (thioredoxin)
+ADATZ4_06670	CM205908.1	1345138	1345722	-	TetR/AcrR family transcriptional regulator
+ADATZ4_06675	CM205908.1	1345908	1347911	+	ABC transporter ATP-binding protein/permease
+ADATZ4_06680	CM205908.1	1348046	1349538	-	TIGR03766 family XrtG-associated glycosyltransferase
+ADATZ4_06685	CM205908.1	1349638	1350558	+	IS30-like element ISLsa1 family transposase
+ADATZ4_06690	CM205908.1	1350629	1350895	+	hypothetical protein
+ADATZ4_06695	CM205908.1	1350917	1351120	+	gamma-glutamyl-gamma-aminobutyrate hydrolase family protein
+ADATZ4_06700	CM205908.1	1351316	1352131	-	carbohydrate ABC transporter permease
+ADATZ4_06705	CM205908.1	1352135	1352989	-	carbohydrate ABC transporter permease
+ADATZ4_06710	CM205908.1	1352995	1354293	-	ABC transporter substrate-binding protein
+ADATZ4_06715	CM205908.1	1354422	1355561	+	ABC transporter ATP-binding protein
+ADATZ4_06720	CM205908.1	1356180	1356896	+	NUDIX hydrolase
+ADATZ4_06725	CM205908.1	1357001	1358431	+	nicotinate phosphoribosyltransferase
+ADATZ4_06730	CM205908.1	1358442	1358987	+	cysteine hydrolase family protein
+ADATZ4_06735	CM205908.1	1359368	1360288	+	IS30-like element ISLsa1 family transposase
+ADATZ4_06740	CM205908.1	1360285	1360410	-	hypothetical protein
+ADATZ4_06745	CM205908.1	1360403	1360831	-	6-carboxytetrahydropterin synthase
+ADATZ4_06750	CM205908.1	1360834	1362195	-	TIGR03111 family XrtG-associated glycosyltransferase
+ADATZ4_06755	CM205908.1	1362195	1362794	-	exosortase XrtG
+ADATZ4_06760	CM205908.1	1362912	1363475	-	Firmicu-CTERM sorting domain-containing protein
+ADATZ4_06765	CM205908.1	1363723	1363926	-	helix-turn-helix domain-containing protein
+ADATZ4_06770	CM205908.1	1363946	1364521	-	DUF2975 domain-containing protein
+ADATZ4_06775	CM205908.1	1364683	1366185	-	glycerol kinase GlpK
+ADATZ4_06780	CM205908.1	1366360	1366548	-	2-hydroxymuconate tautomerase
+ADATZ4_06785	CM205908.1	1366631	1367515	-	YitT family protein
+ADATZ4_06790	CM205908.1	1367795	1369210	+	C69 family dipeptidase
+ADATZ4_06795	CM205908.1	1369256	1370764	+	glutamate/gamma-aminobutyrate family transporter YjeM
+ADATZ4_06800	CM205908.1	1370941	1372683	+	IS1182 family transposase
+ADATZ4_06805	CM205908.1	1372748	1373611	+	alpha/beta hydrolase
+ADATZ4_06810	CM205908.1	1373662	1374486	+	helix-turn-helix transcriptional regulator
+ADATZ4_06815	CM205908.1	1374562	1375158	-	TetR/AcrR family transcriptional regulator
+ADATZ4_06820	CM205908.1	1375290	1376552	+	NAD(P)/FAD-dependent oxidoreductase
+ADATZ4_06825	CM205908.1	1376631	1377053	+	hypothetical protein
+ADATZ4_06830	CM205908.1	1377258	1377803	+	GNAT family N-acetyltransferase
+ADATZ4_06835	CM205908.1	1377888	1379363	-	catalase
+ADATZ4_06840	CM205908.1	1379680	1380688	-	aldo/keto reductase
+ADATZ4_06845	CM205908.1	1380800	1381153	+	MerR family transcriptional regulator
+ADATZ4_06850	CM205908.1	1381237	1382133	-	LysR family transcriptional regulator
+ADATZ4_06855	CM205908.1	1382252	1383340	+	NAD(P)-dependent alcohol dehydrogenase
+ADATZ4_06860	CM205908.1	1383447	1383800	-	MmcQ/YjbR family DNA-binding protein
+ADATZ4_06865	CM205908.1	1383813	1384403	-	DJ-1/PfpI family protein
+ADATZ4_06870	CM205908.1	1384906	1385220	-	type II toxin-antitoxin system HicB family antitoxin
+ADATZ4_06875	CM205908.1	1385501	1385947	+	LytTR family DNA-binding domain-containing protein
+ADATZ4_06880	CM205908.1	1385944	1386402	+	DUF3021 domain-containing protein
+ADATZ4_06885	CM205908.1	1386557	1386748	-	hypothetical protein
+ADATZ4_06890	CM205908.1	1386778	1387068	-	isochorismatase family protein
+ADATZ4_06895	CM205908.1	1387378	1387668	+	ArsR/SmtB family transcription factor
+ADATZ4_06900	CM205908.1	1387730	1388884	+	MFS transporter
+ADATZ4_06905	CM205908.1	1388953	1389273	-	MazG nucleotide pyrophosphohydrolase domain-containing protein
+ADATZ4_06910	CM205908.1	1389519	1390040	-	biotin transporter BioY
+ADATZ4_06915	CM205908.1	1390051	1390842	-	biotin--[acetyl-CoA-carboxylase] ligase
+ADATZ4_06920	CM205908.1	1390855	1391613	-	enoyl-ACP reductase FabI
+ADATZ4_06925	CM205908.1	1391644	1392411	-	carboxyltransferase subunit alpha
+ADATZ4_06930	CM205908.1	1392411	1393244	-	acetyl-CoA carboxylase carboxyltransferase subunit beta
+ADATZ4_06935	CM205908.1	1393201	1394601	-	acetyl-CoA carboxylase biotin carboxylase subunit
+ADATZ4_06940	CM205908.1	1394619	1395029	-	3-hydroxyacyl-ACP dehydratase FabZ family protein
+ADATZ4_06945	CM205908.1	1395044	1395469	-	acetyl-CoA carboxylase biotin carboxyl carrier protein
+ADATZ4_06950	CM205908.1	1395475	1396701	-	beta-ketoacyl-ACP synthase II
+ADATZ4_06955	CM205908.1	1396718	1397443	-	3-oxoacyl-ACP reductase family protein
+ADATZ4_06960	CM205908.1	1397443	1398357	-	ACP S-malonyltransferase
+ADATZ4_06965	CM205908.1	1398367	1398615	-	acyl carrier protein
+ADATZ4_06970	CM205908.1	1398639	1399622	-	beta-ketoacyl-ACP synthase III
+ADATZ4_06975	CM205908.1	1399619	1400086	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_06980	CM205908.1	1400111	1400557	-	3-hydroxyacyl-ACP dehydratase FabZ
+ADATZ4_06985	CM205908.1	1401214	1401570	-	50S ribosomal protein L19
+ADATZ4_06990	CM205908.1	1401684	1402448	-	tRNA (guanosine(37)-N1)-methyltransferase TrmD
+ADATZ4_06995	CM205908.1	1402448	1402966	-	ribosome maturation factor RimM
+ADATZ4_07000	CM205908.1	1403060	1403320	-	KH domain-containing protein
+ADATZ4_07005	CM205908.1	1403330	1403605	-	30S ribosomal protein S16
+ADATZ4_07010	CM205908.1	1403693	1403986	-	hypothetical protein
+ADATZ4_07015	CM205908.1	1403983	1405296	-	vWA domain-containing protein
+ADATZ4_07020	CM205908.1	1405299	1406471	-	P-loop NTPase family protein
+ADATZ4_07025	CM205908.1	1406622	1409270	-	cation-translocating P-type ATPase
+ADATZ4_07030	CM205908.1	1409502	1410950	-	signal recognition particle protein
+ADATZ4_07035	CM205908.1	1410970	1411311	-	putative DNA-binding protein
+ADATZ4_07040	CM205908.1	1411485	1412948	-	signal recognition particle-docking protein FtsY
+ADATZ4_07045	CM205908.1	1412954	1416505	-	chromosome segregation protein SMC
+ADATZ4_07050	CM205908.1	1416519	1417208	-	ribonuclease III
+ADATZ4_07055	CM205908.1	1417285	1417536	-	acyl carrier protein
+ADATZ4_07060	CM205908.1	1417624	1418661	-	phosphate acyltransferase PlsX
+ADATZ4_07065	CM205908.1	1418674	1420707	-	ATP-dependent DNA helicase RecG
+ADATZ4_07070	CM205908.1	1420783	1422480	-	fatty acid kinase ATP-binding subunit FakA
+ADATZ4_07075	CM205908.1	1422513	1422875	-	Asp23/Gls24 family envelope stress response protein
+ADATZ4_07080	CM205908.1	1423110	1423295	+	50S ribosomal protein L28
+ADATZ4_07085	CM205908.1	1423423	1424097	-	thiamine diphosphokinase
+ADATZ4_07090	CM205908.1	1424097	1424750	-	ribulose-phosphate 3-epimerase
+ADATZ4_07095	CM205908.1	1424763	1425659	-	ribosome small subunit-dependent GTPase A
+ADATZ4_07100	CM205908.1	1425776	1427785	-	Stk1 family PASTA domain-containing Ser/Thr kinase
+ADATZ4_07105	CM205908.1	1427785	1428531	-	Stp1/IreP family PP2C-type Ser/Thr phosphatase
+ADATZ4_07110	CM205908.1	1428543	1429886	-	16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB
+ADATZ4_07115	CM205908.1	1429886	1430830	-	methionyl-tRNA formyltransferase
+ADATZ4_07120	CM205908.1	1430853	1433270	-	primosomal protein N'
+ADATZ4_07125	CM205908.1	1433282	1434493	-	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+ADATZ4_07130	CM205908.1	1434588	1434803	-	DNA-directed RNA polymerase subunit omega
+ADATZ4_07135	CM205908.1	1434807	1435421	-	guanylate kinase
+ADATZ4_07140	CM205908.1	1435688	1436011	+	hypothetical protein
+ADATZ4_07145	CM205908.1	1436062	1436529	-	hypothetical protein
+ADATZ4_07150	CM205908.1	1436648	1438684	-	MSCRAMM family protein
+ADATZ4_07155	CM205908.1	1438911	1440605	-	DNA repair protein RecN
+ADATZ4_07160	CM205908.1	1440682	1441137	-	arginine repressor
+ADATZ4_07165	CM205908.1	1441230	1442045	-	TlyA family RNA methyltransferase
+ADATZ4_07170	CM205908.1	1442046	1442948	-	polyprenyl synthetase family protein
+ADATZ4_07175	CM205908.1	1442938	1443183	-	exodeoxyribonuclease VII small subunit
+ADATZ4_07180	CM205908.1	1443176	1444531	-	exodeoxyribonuclease VII large subunit
+ADATZ4_07185	CM205908.1	1444518	1445384	-	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD
+ADATZ4_07190	CM205908.1	1445533	1445961	-	transcription antitermination factor NusB
+ADATZ4_07195	CM205908.1	1445961	1446401	-	Asp23/Gls24 family envelope stress response protein
+ADATZ4_07200	CM205908.1	1446436	1446996	-	elongation factor P
+ADATZ4_07205	CM205908.1	1447073	1448137	-	M24 family metallopeptidase
+ADATZ4_07210	CM205908.1	1448234	1448533	-	50S ribosomal protein L27
+ADATZ4_07215	CM205908.1	1448553	1448891	-	ribosomal-processing cysteine protease Prp
+ADATZ4_07220	CM205908.1	1448920	1449228	-	50S ribosomal protein L21
+ADATZ4_07225	CM205908.1	1449392	1450000	-	TetR/AcrR family transcriptional regulator
+ADATZ4_07230	CM205908.1	1450058	1450600	-	dUTP diphosphatase
+ADATZ4_07235	CM205908.1	1450615	1451556	-	hypothetical protein
+ADATZ4_07240	CM205908.1	1451549	1452421	-	exonuclease SbcC
+ADATZ4_07245	CM205908.1	1452674	1454014	-	type I glutamate--ammonia ligase
+ADATZ4_07250	CM205908.1	1454056	1454442	-	MerR family transcriptional regulator
+ADATZ4_07255	CM205908.1	1454549	1455472	-	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA
+ADATZ4_07260	CM205908.1	1455469	1456224	-	glycerophosphodiester phosphodiesterase
+ADATZ4_07265	CM205908.1	1456370	1456546	+	DUF3042 family protein
+ADATZ4_07270	CM205908.1	1456590	1457006	-	rhodanese-like domain-containing protein
+ADATZ4_07275	CM205908.1	1457037	1458008	-	ROK family glucokinase
+ADATZ4_07280	CM205908.1	1458013	1458243	-	YqgQ family protein
+ADATZ4_07285	CM205908.1	1458286	1458918	-	rhomboid family intramembrane serine protease
+ADATZ4_07290	CM205908.1	1458982	1459530	-	5-formyltetrahydrofolate cyclo-ligase
+ADATZ4_07295	CM205908.1	1459594	1459743	-	50S ribosomal protein L33
+ADATZ4_07300	CM205908.1	1459931	1462045	-	peptidoglycan D%2CD-transpeptidase FtsI family protein
+ADATZ4_07305	CM205908.1	1462311	1462520	-	DUF378 domain-containing protein
+ADATZ4_07310	CM205908.1	1462820	1465450	+	YfhO family protein
+ADATZ4_07315	CM205908.1	1465502	1465810	-	HesB/YadR/YfhF family protein
+ADATZ4_07320	CM205908.1	1466126	1466599	-	transcription elongation factor GreA
+ADATZ4_07325	CM205908.1	1466709	1467383	-	uridine kinase
+ADATZ4_07330	CM205908.1	1467396	1468532	-	endolytic transglycosylase MltG
+ADATZ4_07335	CM205908.1	1468689	1471097	-	phenylalanine--tRNA ligase subunit beta
+ADATZ4_07340	CM205908.1	1471107	1472153	-	phenylalanine--tRNA ligase subunit alpha
+ADATZ4_07345	CM205908.1	1472487	1472861	-	winged helix-turn-helix transcriptional regulator
+ADATZ4_07350	CM205908.1	1472896	1473393	-	HD domain-containing protein
+ADATZ4_07355	CM205908.1	1473518	1474288	-	TrmH family RNA methyltransferase
+ADATZ4_07360	CM205908.1	1474395	1474667	+	acylphosphatase
+ADATZ4_07365	CM205908.1	1474770	1475672	+	membrane protein insertase YidC
+ADATZ4_07370	CM205908.1	1475821	1476225	-	YxeA family protein
+ADATZ4_07375	CM205908.1	1476374	1477984	-	HAMP domain-containing sensor histidine kinase
+ADATZ4_07380	CM205908.1	1477981	1478667	-	response regulator transcription factor
+ADATZ4_07385	CM205908.1	1479083	1480099	+	alcohol dehydrogenase AdhP
+ADATZ4_07390	CM205908.1	1480223	1480876	-	M57 family metalloprotease
+ADATZ4_07395	CM205908.1	1481096	1481410	-	ArsR/SmtB family transcription factor
+ADATZ4_07400	CM205908.1	1481425	1482240	-	Cof-type HAD-IIB family hydrolase
+ADATZ4_07405	CM205908.1	1482343	1482531	-	50S ribosomal protein L32
+ADATZ4_07410	CM205908.1	1482598	1483152	-	YceD family protein
+ADATZ4_07415	CM205908.1	1483226	1484374	-	nucleotidyltransferase
+ADATZ4_07420	CM205908.1	1484376	1485119	-	class I SAM-dependent DNA methyltransferase
+ADATZ4_07425	CM205908.1	1485116	1485472	-	ribosome silencing factor
+ADATZ4_07430	CM205908.1	1485492	1486094	-	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) YqeK
+ADATZ4_07435	CM205908.1	1486084	1486716	-	nicotinate-nucleotide adenylyltransferase
+ADATZ4_07440	CM205908.1	1486730	1487038	-	YhbY family RNA-binding protein
+ADATZ4_07445	CM205908.1	1487055	1488197	-	ribosome biogenesis GTPase YqeH
+ADATZ4_07450	CM205908.1	1488178	1488720	-	YqeG family HAD IIIA-type phosphatase
+ADATZ4_07455	CM205908.1	1489024	1489383	-	50S ribosomal protein L20
+ADATZ4_07460	CM205908.1	1489454	1489648	-	50S ribosomal protein L35
+ADATZ4_07465	CM205908.1	1489698	1490222	-	translation initiation factor IF-3
+ADATZ4_07470	CM205908.1	1490462	1492405	-	threonine--tRNA ligase
+ADATZ4_07475	CM205908.1	1492741	1493667	-	primosomal protein DnaI
+ADATZ4_07480	CM205908.1	1493671	1495041	-	replication initiation and membrane attachment family protein
+ADATZ4_07485	CM205908.1	1495045	1495545	-	transcriptional regulator NrdR
+ADATZ4_07490	CM205908.1	1495545	1496174	-	dephospho-CoA kinase
+ADATZ4_07495	CM205908.1	1496167	1497027	-	bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase
+ADATZ4_07500	CM205908.1	1497050	1499710	-	DNA polymerase I
+ADATZ4_07505	CM205908.1	1500025	1501371	+	guanine deaminase
+ADATZ4_07510	CM205908.1	1501371	1502720	+	uracil-xanthine permease family protein
+ADATZ4_07515	CM205908.1	1502880	1503584	-	Bax inhibitor-1/YccA family protein
+ADATZ4_07520	CM205908.1	1503733	1504461	-	nicotinamide riboside transporter PnuC
+ADATZ4_07525	CM205908.1	1504640	1505971	-	UDP-N-acetylmuramate--L-alanine ligase
+ADATZ4_07530	CM205908.1	1506105	1508927	-	DNA translocase FtsK
+ADATZ4_07535	CM205908.1	1509137	1509775	-	YtpR family tRNA-binding protein
+ADATZ4_07540	CM205908.1	1509799	1510131	-	thioredoxin family protein
+ADATZ4_07545	CM205908.1	1510310	1510636	+	PepSY domain-containing protein
+ADATZ4_07550	CM205908.1	1510732	1512090	-	amino acid permease
+ADATZ4_07555	CM205908.1	1512125	1513234	-	alanine dehydrogenase
+ADATZ4_07560	CM205908.1	1513447	1513953	-	universal stress protein
+ADATZ4_07565	CM205908.1	1513992	1515392	-	dipeptidase PepV
+ADATZ4_07570	CM205908.1	1515534	1516367	+	NAD(P)H-hydrate dehydratase
+ADATZ4_07575	CM205908.1	1516414	1517103	-	16S rRNA pseudouridylate synthase
+ADATZ4_07580	CM205908.1	1517115	1518749	-	putative polysaccharide biosynthesis protein
+ADATZ4_07585	CM205908.1	1518972	1519292	+	hypothetical protein
+ADATZ4_07590	CM205908.1	1519398	1520162	+	flavodoxin family protein
+ADATZ4_07595	CM205908.1	1520226	1520900	-	ATP-binding cassette domain-containing protein
+ADATZ4_07600	CM205908.1	1520914	1521669	-	hypothetical protein
+ADATZ4_07605	CM205908.1	1521920	1524349	-	leucine--tRNA ligase
+ADATZ4_07610	CM205908.1	1524790	1525431	+	phosphatase PAP2 family protein
+ADATZ4_07615	CM205908.1	1525428	1525994	+	tRNA 5-(aminomethyl)-2-thiouridylate-methyltransferase MnmM
+ADATZ4_07620	CM205908.1	1526051	1526245	+	hypothetical protein
+ADATZ4_07625	CM205908.1	1526335	1527657	-	glycosyltransferase family 2 protein
+ADATZ4_07630	CM205908.1	1527666	1528175	-	hypothetical protein
+ADATZ4_07635	CM205908.1	1528168	1528983	-	EAL domain-containing protein
+ADATZ4_07640	CM205908.1	1529145	1529867	-	adaptor protein MecA
+ADATZ4_07645	CM205908.1	1530015	1530422	-	transcriptional regulator SpxA
+ADATZ4_07650	CM205908.1	1530626	1531366	-	MBL fold metallo-hydrolase
+ADATZ4_07655	CM205908.1	1531490	1531993	+	antibiotic biosynthesis monooxygenase family protein
+ADATZ4_07660	CM205908.1	1532091	1533296	+	DUF2075 domain-containing protein
+ADATZ4_07770	CM205908.1	1540402	1540791	-	CvfD/Ygs/GSP13 family RNA-binding post-transcriptional regulator
+ADATZ4_07775	CM205908.1	1540825	1541418	-	peptidylprolyl isomerase
+ADATZ4_07780	CM205908.1	1541540	1542048	+	phosphatidylglycerophosphatase A family protein
+ADATZ4_07785	CM205908.1	1542148	1542813	+	VTT domain-containing protein
+ADATZ4_07790	CM205908.1	1542893	1543246	-	MerR family transcriptional regulator
+ADATZ4_07795	CM205908.1	1543319	1544176	+	SDR family NAD(P)-dependent oxidoreductase
+ADATZ4_07800	CM205908.1	1544298	1545137	+	aldo/keto reductase
+ADATZ4_07805	CM205908.1	1545155	1545949	+	SDR family NAD(P)-dependent oxidoreductase
+ADATZ4_07810	CM205908.1	1546187	1547593	-	APC family permease
+ADATZ4_07815	CM205908.1	1547786	1549645	-	SpaA isopeptide-forming pilin-related protein
+ADATZ4_07820	CM205908.1	1549979	1552210	-	WxL domain-containing protein
+ADATZ4_07825	CM205908.1	1552450	1553091	-	WxL domain-containing protein
+ADATZ4_07830	CM205908.1	1553689	1554318	-	TIGR01906 family membrane protein
+ADATZ4_07835	CM205908.1	1554311	1555105	-	TIGR01457 family HAD-type hydrolase
+ADATZ4_07840	CM205908.1	1555118	1555789	-	YutD family protein
+ADATZ4_07845	CM205908.1	1555801	1557186	-	bifunctional metallophosphatase/5'-nucleotidase
+ADATZ4_07850	CM205908.1	1557246	1557854	-	metallophosphatase
+ADATZ4_07855	CM205908.1	1557869	1558717	-	aldo/keto reductase
+ADATZ4_07860	CM205908.1	1558841	1560244	-	amino acid permease
+ADATZ4_07865	CM205908.1	1560450	1561640	-	acetate/propionate family kinase
+ADATZ4_07870	CM205908.1	1561657	1562679	-	class I SAM-dependent methyltransferase
+ADATZ4_07875	CM205908.1	1562769	1562927	-	hypothetical protein
+ADATZ4_07880	CM205908.1	1562969	1563391	-	prepilin-type N-terminal cleavage/methylation domain-containing protein
+ADATZ4_07885	CM205908.1	1563388	1563600	-	hypothetical protein
+ADATZ4_07890	CM205908.1	1563572	1564021	-	type II secretion system protein
+ADATZ4_07895	CM205908.1	1564008	1564319	-	competence type IV pilus major pilin ComGC
+ADATZ4_07900	CM205908.1	1564312	1565370	-	type II secretion system F family protein
+ADATZ4_07905	CM205908.1	1565300	1566265	-	competence type IV pilus ATPase ComGA
+ADATZ4_07910	CM205908.1	1566370	1567107	-	YebC/PmpR family DNA-binding transcriptional regulator
+ADATZ4_07915	CM205908.1	1567386	1568864	+	ABC transporter substrate-binding protein/permease
+ADATZ4_07920	CM205908.1	1568857	1569597	+	amino acid ABC transporter ATP-binding protein
+ADATZ4_07925	CM205908.1	1569654	1570481	-	hypothetical protein
+ADATZ4_07930	CM205908.1	1570631	1571632	-	catabolite control protein A
+ADATZ4_07935	CM205908.1	1571827	1572924	+	aminopeptidase P family protein
+ADATZ4_07940	CM205908.1	1573009	1573371	-	hypothetical protein
+ADATZ4_07945	CM205908.1	1573393	1573797	-	DUF948 domain-containing protein
+ADATZ4_07950	CM205908.1	1573967	1574848	+	mechanosensitive ion channel family protein
+ADATZ4_07955	CM205908.1	1574997	1576364	-	MFS transporter
+ADATZ4_07960	CM205908.1	1576523	1576819	-	ArsR/SmtB family transcription factor
+ADATZ4_07965	CM205908.1	1577147	1577635	-	cyclic-di-AMP-binding protein CbpB
+ADATZ4_07970	CM205908.1	1577657	1578175	-	YfcE family phosphodiesterase
+ADATZ4_07975	CM205908.1	1578178	1578777	-	XTP/dITP diphosphatase
+ADATZ4_07980	CM205908.1	1578779	1579609	-	glutamate racemase
+ADATZ4_07985	CM205908.1	1579801	1580325	+	YslB family protein
+ADATZ4_07990	CM205908.1	1580412	1580729	-	thioredoxin
+ADATZ4_07995	CM205908.1	1580818	1583181	-	endonuclease MutS2
+ADATZ4_08000	CM205908.1	1583206	1583742	-	CvpA family protein
+ADATZ4_08005	CM205908.1	1583744	1584013	-	cell division protein ZapA
+ADATZ4_08010	CM205908.1	1584158	1584469	-	DUF1292 domain-containing protein
+ADATZ4_08015	CM205908.1	1584478	1584915	-	Holliday junction resolvase RuvX
+ADATZ4_08020	CM205908.1	1584912	1585184	-	IreB family regulatory phosphoprotein
+ADATZ4_08025	CM205908.1	1585296	1587935	-	alanine--tRNA ligase
+ADATZ4_08030	CM205908.1	1588247	1589605	-	DEAD/DEAH box helicase
+ADATZ4_08035	CM205908.1	1589602	1590567	-	DHH family phosphoesterase
+ADATZ4_08040	CM205908.1	1590664	1591785	-	DNA polymerase IV
+ADATZ4_08045	CM205908.1	1591904	1592329	-	preprotein translocase subunit YajC
+ADATZ4_08050	CM205908.1	1592401	1593546	-	tRNA guanosine(34) transglycosylase Tgt
+ADATZ4_08055	CM205908.1	1593566	1594600	-	tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA
+ADATZ4_08060	CM205908.1	1594617	1595633	-	Holliday junction branch migration DNA helicase RuvB
+ADATZ4_08065	CM205908.1	1595649	1596257	-	Holliday junction branch migration protein RuvA
+ADATZ4_08070	CM205908.1	1596399	1598417	-	DNA mismatch repair endonuclease MutL
+ADATZ4_08075	CM205908.1	1598439	1601114	-	DNA mismatch repair protein MutS
+ADATZ4_08080	CM205908.1	1601143	1601937	-	TIGR00282 family metallophosphoesterase
+ADATZ4_08085	CM205908.1	1602069	1603628	-	ribonuclease Y
+ADATZ4_08090	CM205908.1	1603956	1604108	+	hypothetical protein
+ADATZ4_08095	CM205908.1	1604192	1605325	-	recombinase RecA
+ADATZ4_08100	CM205908.1	1605419	1606669	-	competence/damage-inducible protein A
+ADATZ4_08105	CM205908.1	1606725	1607312	-	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+ADATZ4_08110	CM205908.1	1607374	1608273	-	helix-turn-helix domain-containing protein
+ADATZ4_08115	CM205908.1	1608387	1609676	-	EF-P 5-aminopentanol modification-associated protein YfmH
+ADATZ4_08120	CM205908.1	1609654	1610949	-	EF-P 5-aminopentanol modification-associated protein YfmF
+ADATZ4_08125	CM205908.1	1611082	1611924	-	amino acid ABC transporter substrate-binding protein
+ADATZ4_08130	CM205908.1	1611937	1612572	-	amino acid ABC transporter ATP-binding protein
+ADATZ4_08135	CM205908.1	1612591	1613232	-	amino acid ABC transporter permease
+ADATZ4_08140	CM205908.1	1613696	1614502	-	septum site-determining protein MinD
+ADATZ4_08145	CM205908.1	1614505	1615176	-	septum site-determining protein MinC
+ADATZ4_08150	CM205908.1	1615195	1615722	-	rod shape-determining protein MreD
+ADATZ4_08155	CM205908.1	1615736	1616587	-	rod shape-determining protein MreC
+ADATZ4_08160	CM205908.1	1616669	1617673	-	rod shape-determining protein
+ADATZ4_08165	CM205908.1	1617826	1618488	-	JAB domain-containing protein
+ADATZ4_08170	CM205908.1	1618528	1619850	-	bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+ADATZ4_08175	CM205908.1	1619964	1622630	-	valine--tRNA ligase
+ADATZ4_08180	CM205908.1	1622934	1623443	-	thiol peroxidase
+ADATZ4_08185	CM205908.1	1623585	1624802	-	tRNA uracil 4-sulfurtransferase ThiI
+ADATZ4_08190	CM205908.1	1624823	1625968	-	cysteine desulfurase family protein
+ADATZ4_08195	CM205908.1	1626120	1627850	-	septation ring formation regulator EzrA
+ADATZ4_08200	CM205908.1	1628040	1628507	+	free L-methionine (R)-S-oxide reductase MsrC
+ADATZ4_08205	CM205908.1	1628707	1629312	+	30S ribosomal protein S4
+ADATZ4_08210	CM205908.1	1629581	1629916	+	ribonuclease G
+ADATZ4_08215	CM205908.1	1629961	1630560	-	DUF1054 family protein
+ADATZ4_08220	CM205908.1	1630637	1631092	+	YueI family protein
+ADATZ4_08225	CM205908.1	1631136	1632386	+	replication-associated recombination protein A
+ADATZ4_08230	CM205908.1	1632766	1633053	+	hypothetical protein
+ADATZ4_08235	CM205908.1	1633150	1633629	+	universal stress protein
+ADATZ4_08240	CM205908.1	1633723	1634607	-	helix-turn-helix domain-containing protein
+ADATZ4_08245	CM205908.1	1634935	1636491	-	glycerophosphodiester phosphodiesterase
+ADATZ4_08250	CM205908.1	1636559	1637701	-	D-alanine--D-alanine ligase family protein
+ADATZ4_08255	CM205908.1	1637776	1638747	-	DUF2785 domain-containing protein
+ADATZ4_08260	CM205908.1	1638778	1639623	-	SPFH domain-containing protein
+ADATZ4_08265	CM205908.1	1639747	1640049	-	glycine cleavage system H family protein
+ADATZ4_08270	CM205908.1	1640063	1641268	-	FtsW/RodA/SpoVE family cell cycle protein
+ADATZ4_08275	CM205908.1	1641364	1641588	-	DUF2969 domain-containing protein
+ADATZ4_08280	CM205908.1	1641601	1641900	-	membrane protein insertion efficiency factor YidD
+ADATZ4_08285	CM205908.1	1641924	1642931	-	rod shape-determining protein
+ADATZ4_08290	CM205908.1	1643061	1644368	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+ADATZ4_08295	CM205908.1	1644395	1644625	-	DUF1146 family protein
+ADATZ4_08300	CM205908.1	1644836	1645255	-	F0F1 ATP synthase subunit epsilon
+ADATZ4_08305	CM205908.1	1645269	1646684	-	F0F1 ATP synthase subunit beta
+ADATZ4_08310	CM205908.1	1646707	1647606	-	F0F1 ATP synthase subunit gamma
+ADATZ4_08315	CM205908.1	1647637	1649178	-	F0F1 ATP synthase subunit alpha
+ADATZ4_08320	CM205908.1	1649209	1649751	-	ATP synthase F1 subunit delta
+ADATZ4_08325	CM205908.1	1649741	1650256	-	F0F1 ATP synthase subunit B
+ADATZ4_08330	CM205908.1	1650307	1650519	-	F0F1 ATP synthase subunit C
+ADATZ4_08335	CM205908.1	1650555	1651274	-	F0F1 ATP synthase subunit A
+ADATZ4_08340	CM205908.1	1651622	1652251	-	uracil phosphoribosyltransferase
+ADATZ4_08345	CM205908.1	1652344	1653585	-	serine hydroxymethyltransferase
+ADATZ4_08350	CM205908.1	1653666	1654682	-	L-threonylcarbamoyladenylate synthase
+ADATZ4_08355	CM205908.1	1654700	1655551	-	peptide chain release factor N(5)-glutamine methyltransferase
+ADATZ4_08360	CM205908.1	1655544	1656629	-	peptide chain release factor 1
+ADATZ4_08365	CM205908.1	1656651	1657235	-	thymidine kinase
+ADATZ4_08370	CM205908.1	1657441	1658790	+	MurT ligase domain-containing protein
+ADATZ4_08375	CM205908.1	1658787	1659491	+	type 1 glutamine amidotransferase
+ADATZ4_08380	CM205908.1	1659547	1660566	-	serine hydrolase domain-containing protein
+ADATZ4_08385	CM205908.1	1660685	1662526	-	ABC transporter ATP-binding protein
+ADATZ4_08390	CM205908.1	1662519	1664252	-	ABC transporter ATP-binding protein
+ADATZ4_08395	CM205908.1	1664420	1664749	+	hypothetical protein
+ADATZ4_08400	CM205908.1	1664796	1665002	-	hypothetical protein
+ADATZ4_08405	CM205908.1	1665081	1666205	-	GGDEF domain-containing protein
+ADATZ4_08410	CM205908.1	1666438	1667100	+	EAL domain-containing protein
+ADATZ4_08415	CM205908.1	1667170	1668273	+	SLC13 family permease
+ADATZ4_08420	CM205908.1	1668412	1669377	-	ADP-ribosyltransferase
+ADATZ4_08435	CM205908.1	1670167	1670649	+	TspO/MBR family protein
+ADATZ4_08440	CM205908.1	1671014	1674031	-	YfhO family protein
+ADATZ4_08445	CM205908.1	1674319	1675665	-	glucose-6-phosphate isomerase
+ADATZ4_08450	CM205908.1	1675795	1676661	-	GRP family sugar transporter
+ADATZ4_08455	CM205908.1	1676844	1677992	-	class I SAM-dependent methyltransferase
+ADATZ4_08460	CM205908.1	1678051	1679520	-	ATP-binding protein
+ADATZ4_08465	CM205908.1	1679517	1680251	-	winged helix-turn-helix domain-containing protein
+ADATZ4_08475	CM205908.1	1681543	1681761	+	helix-turn-helix domain-containing protein
+ADATZ4_08480	CM205908.1	1681852	1682673	+	hypothetical protein
+ADATZ4_08485	CM205908.1	1683416	1685521	-	glycoside hydrolase family 36 protein
+ADATZ4_08490	CM205908.1	1685722	1686666	+	AraC family transcriptional regulator
+ADATZ4_08495	CM205908.1	1686831	1688207	-	MFS transporter
+ADATZ4_08500	CM205908.1	1688809	1690164	-	M20/M25/M40 family metallo-hydrolase
+ADATZ4_08505	CM205908.1	1690181	1691797	-	peptide ABC transporter substrate-binding protein
+ADATZ4_08510	CM205908.1	1692168	1693085	-	anti sigma factor C-terminal domain-containing protein
+ADATZ4_08515	CM205908.1	1693078	1693560	-	RNA polymerase sigma factor
+ADATZ4_08520	CM205908.1	1693670	1695055	-	class II fumarate hydratase
+ADATZ4_08525	CM205908.1	1695191	1695685	-	AP2 domain-containing protein
+ADATZ4_08530	CM205908.1	1695909	1696280	+	DUF1304 domain-containing protein
+ADATZ4_08535	CM205908.1	1696753	1696932	-	hypothetical protein
+ADATZ4_08540	CM205908.1	1697300	1697749	+	OsmC family protein
+ADATZ4_08545	CM205908.1	1697807	1697980	-	hypothetical protein
+ADATZ4_08550	CM205908.1	1698039	1698482	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_08555	CM205908.1	1698616	1699188	+	DUF5067 domain-containing protein
+ADATZ4_08560	CM205908.1	1699208	1700029	+	LicD family protein
+ADATZ4_08565	CM205908.1	1700051	1701589	+	Ppx/GppA phosphatase family protein
+ADATZ4_08570	CM205908.1	1701586	1703748	+	RNA degradosome polyphosphate kinase
+ADATZ4_08575	CM205908.1	1703750	1704685	+	exopolyphosphatase
+ADATZ4_08580	CM205908.1	1704754	1705512	-	ABC transporter ATP-binding protein
+ADATZ4_08585	CM205908.1	1705493	1706461	-	iron ABC transporter permease
+ADATZ4_08590	CM205908.1	1706458	1707351	-	heme ABC transporter substrate-binding protein IsdE
+ADATZ4_08595	CM205908.1	1707364	1708134	-	NEAT domain-containing protein
+ADATZ4_08600	CM205908.1	1708118	1709308	-	NEAT domain-containing protein
+ADATZ4_08605	CM205908.1	1709413	1710150	-	NEAT domain-containing protein
+ADATZ4_08610	CM205908.1	1710366	1710674	-	hypothetical protein
+ADATZ4_08615	CM205908.1	1711086	1712171	-	ABC transporter ATP-binding protein
+ADATZ4_08620	CM205908.1	1712441	1712668	+	heavy-metal-associated domain-containing protein
+ADATZ4_08625	CM205908.1	1712699	1713247	+	ferritin-like domain-containing protein
+ADATZ4_08630	CM205908.1	1713452	1715755	+	glycoside hydrolase family 31 protein
+ADATZ4_08635	CM205908.1	1715967	1717868	+	heavy metal translocating P-type ATPase
+ADATZ4_08640	CM205908.1	1717966	1719393	-	glycoside hydrolase family 73 protein
+ADATZ4_08645	CM205908.1	1719496	1720200	-	glucosamine-6-phosphate deaminase
+ADATZ4_08650	CM205908.1	1720344	1720466	-	hypothetical protein
+ADATZ4_08655	CM205908.1	1720612	1722429	-	glutamine--fructose-6-phosphate transaminase (isomerizing)
+ADATZ4_08660	CM205908.1	1722744	1724099	-	phosphoglucosamine mutase
+ADATZ4_08665	CM205908.1	1724131	1725099	-	CdaR family protein
+ADATZ4_08670	CM205908.1	1725099	1725950	-	diadenylate cyclase CdaA
+ADATZ4_08675	CM205908.1	1726199	1726861	+	DUF1361 domain-containing protein
+ADATZ4_08680	CM205908.1	1726915	1729047	-	cation:proton antiporter
+ADATZ4_08685	CM205908.1	1729064	1729978	-	UDP-N-acetylmuramate dehydrogenase
+ADATZ4_08690	CM205908.1	1730153	1730917	+	exodeoxyribonuclease III
+ADATZ4_08695	CM205908.1	1730943	1731479	+	3'-5' exonuclease
+ADATZ4_08700	CM205908.1	1731562	1732578	-	aldo/keto reductase
+ADATZ4_08705	CM205908.1	1732595	1733113	-	GNAT family N-acetyltransferase
+ADATZ4_08710	CM205908.1	1733106	1733579	-	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE
+ADATZ4_08715	CM205908.1	1733673	1734647	-	phosphate acetyltransferase
+ADATZ4_08720	CM205908.1	1734704	1735423	-	uracil-DNA glycosylase
+ADATZ4_08725	CM205908.1	1735547	1736107	+	LURP-one-related/scramblase family protein
+ADATZ4_08730	CM205908.1	1736218	1736955	-	amino acid ABC transporter ATP-binding protein
+ADATZ4_08735	CM205908.1	1737024	1737497	-	SsrA-binding protein SmpB
+ADATZ4_08740	CM205908.1	1737513	1739906	-	ribonuclease R
+ADATZ4_08745	CM205908.1	1739910	1740668	-	alpha/beta hydrolase
+ADATZ4_08750	CM205908.1	1740753	1740989	-	preprotein translocase subunit SecG
+ADATZ4_08755	CM205908.1	1741086	1742642	-	chloride channel protein
+ADATZ4_08760	CM205908.1	1742709	1743806	-	hypothetical protein
+ADATZ4_08765	CM205908.1	1743918	1745237	-	phosphopyruvate hydratase
+ADATZ4_08770	CM205908.1	1745345	1746103	-	triose-phosphate isomerase
+ADATZ4_08775	CM205908.1	1746248	1747450	-	phosphoglycerate kinase
+ADATZ4_08780	CM205908.1	1747630	1748640	-	type I glyceraldehyde-3-phosphate dehydrogenase
+ADATZ4_08785	CM205908.1	1748709	1749737	-	sugar-binding transcriptional regulator
+ADATZ4_08795	CM205908.1	1750144	1750755	+	ECF transporter S component
+ADATZ4_08805	CM205908.1	1750990	1751703	-	LiaF transmembrane domain-containing protein
+ADATZ4_08810	CM205908.1	1751709	1752155	-	LytTR family DNA-binding domain-containing protein
+ADATZ4_08815	CM205908.1	1752426	1753022	+	ATP-dependent Clp endopeptidase proteolytic subunit ClpP
+ADATZ4_08820	CM205908.1	1753146	1754084	-	DNA-binding protein WhiA
+ADATZ4_08825	CM205908.1	1754087	1755097	-	gluconeogenesis morphogenetic factor MgfK
+ADATZ4_08830	CM205908.1	1755094	1755978	-	RNase adapter RapZ
+ADATZ4_08835	CM205908.1	1756126	1756671	-	HdeD family acid-resistance protein
+ADATZ4_08840	CM205908.1	1756825	1759680	-	excinuclease ABC subunit UvrA
+ADATZ4_08845	CM205908.1	1759700	1761706	-	excinuclease ABC subunit UvrB
+ADATZ4_08850	CM205908.1	1761823	1762347	-	acetyltransferase
+ADATZ4_08855	CM205908.1	1762344	1762985	-	YfbR-like 5'-deoxynucleotidase
+ADATZ4_08860	CM205908.1	1763079	1764020	-	thioredoxin-disulfide reductase
+ADATZ4_08865	CM205908.1	1764092	1764997	-	UTP--glucose-1-phosphate uridylyltransferase GalU
+ADATZ4_08870	CM205908.1	1765035	1766048	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+ADATZ4_08875	CM205908.1	1766064	1766927	-	prolipoprotein diacylglyceryl transferase
+ADATZ4_08880	CM205908.1	1766933	1767868	-	HPr(Ser) kinase/phosphatase
+ADATZ4_08885	CM205908.1	1767957	1768328	-	phage holin family protein
+ADATZ4_08890	CM205908.1	1768329	1768658	-	PspC domain-containing protein
+ADATZ4_08895	CM205908.1	1768853	1769533	-	phosphate signaling complex protein PhoU
+ADATZ4_08900	CM205908.1	1769545	1770303	-	phosphate ABC transporter ATP-binding protein PstB
+ADATZ4_08905	CM205908.1	1770319	1771107	-	phosphate ABC transporter ATP-binding protein PstB
+ADATZ4_08910	CM205908.1	1771156	1772040	-	phosphate ABC transporter permease PstA
+ADATZ4_08915	CM205908.1	1772040	1772966	-	phosphate ABC transporter permease subunit PstC
+ADATZ4_08920	CM205908.1	1772967	1773848	-	phosphate ABC transporter substrate-binding protein
+ADATZ4_08925	CM205908.1	1774100	1775443	-	sensor histidine kinase
+ADATZ4_08930	CM205908.1	1775440	1776147	-	response regulator transcription factor
+ADATZ4_08935	CM205908.1	1776152	1777306	-	PDZ domain-containing protein
+ADATZ4_08940	CM205908.1	1778461	1778532	-	peptide chain release factor 2
+ADATZ4_08945	CM205908.1	1778609	1780972	-	preprotein translocase subunit SecA
+ADATZ4_08950	CM205908.1	1781174	1781734	-	ribosome hibernation-promoting factor%2C HPF/YfiA family
+ADATZ4_08955	CM205908.1	1781872	1782546	-	ComF family protein
+ADATZ4_08960	CM205908.1	1782543	1783862	-	helicase-related protein
+ADATZ4_08965	CM205908.1	1783938	1784597	+	YigZ family protein
+ADATZ4_08970	CM205908.1	1784651	1785745	-	glycosyltransferase family 4 protein
+ADATZ4_08975	CM205908.1	1786152	1786592	+	CidA/LrgA family protein
+ADATZ4_08980	CM205908.1	1786637	1787443	+	antiholin-like protein LrgB
+ADATZ4_08985	CM205908.1	1787698	1789533	-	potassium transporter KimA
+ADATZ4_08990	CM205908.1	1789925	1791550	-	chaperonin GroEL
+ADATZ4_08995	CM205908.1	1791606	1791890	-	co-chaperone GroES
+ADATZ4_09000	CM205908.1	1792071	1792709	-	redox-sensing transcriptional repressor Rex
+ADATZ4_09005	CM205908.1	1792942	1794894	+	ABC-F family ATP-binding cassette domain-containing protein
+ADATZ4_09010	CM205908.1	1795003	1795299	+	ArsR/SmtB family transcription factor
+ADATZ4_09015	CM205908.1	1795357	1796535	+	CynX/NimT family MFS transporter
+ADATZ4_09020	CM205908.1	1796616	1797665	-	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD
+ADATZ4_09025	CM205908.1	1797700	1798308	-	ribosomal protein S18-alanine N-acetyltransferase
+ADATZ4_09030	CM205908.1	1798292	1799014	-	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB
+ADATZ4_09035	CM205908.1	1799193	1799933	-	acyl-[acyl-carrier-protein] thioesterase
+ADATZ4_09040	CM205908.1	1799939	1800820	-	16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+ADATZ4_09045	CM205908.1	1800832	1801170	-	DNA replication initiation control protein YabA
+ADATZ4_09050	CM205908.1	1801195	1802208	-	DNA polymerase III subunit delta'
+ADATZ4_09055	CM205908.1	1802218	1802547	-	cyclic di-AMP receptor DarA
+ADATZ4_09060	CM205908.1	1802574	1803218	-	dTMP kinase
+ADATZ4_09065	CM205908.1	1803416	1803667	-	YaaL family protein
+ADATZ4_09070	CM205908.1	1803685	1804284	-	recombination mediator RecR
+ADATZ4_09075	CM205908.1	1804306	1804626	-	YbaB/EbfC family nucleoid-associated protein
+ADATZ4_09080	CM205908.1	1804645	1806375	-	DNA polymerase III subunit gamma/tau
+ADATZ4_09090	CM205908.1	1806653	1807204	-	tRNA adenosine(34) deaminase TadA
+ADATZ4_09095	CM205908.1	1807221	1807832	-	class I SAM-dependent methyltransferase
+ADATZ4_09100	CM205908.1	1808036	1808263	+	glutaredoxin-like protein NrdH
+ADATZ4_09105	CM205908.1	1808372	1810537	+	class 1b ribonucleoside-diphosphate reductase subunit alpha
+ADATZ4_09110	CM205908.1	1810572	1811567	+	class 1b ribonucleoside-diphosphate reductase subunit beta
+ADATZ4_09115	CM205908.1	1811668	1812582	-	3-hydroxyacyl-CoA dehydrogenase
+ADATZ4_09120	CM205908.1	1812785	1813363	+	LOG family protein
+ADATZ4_09125	CM205908.1	1813428	1816040	-	bifunctional lysylphosphatidylglycerol flippase/synthetase MprF
+ADATZ4_09130	CM205908.1	1816414	1816782	-	50S ribosomal protein L7/L12
+ADATZ4_09135	CM205908.1	1816831	1817337	-	50S ribosomal protein L10
+ADATZ4_09140	CM205908.1	1817560	1818258	-	50S ribosomal protein L1
+ADATZ4_09145	CM205908.1	1818356	1818781	-	50S ribosomal protein L11
+ADATZ4_09150	CM205908.1	1818980	1819528	-	transcription termination/antitermination protein NusG
+ADATZ4_09155	CM205908.1	1819653	1819829	-	preprotein translocase subunit SecE
+ADATZ4_09160	CM205908.1	1819873	1820022	-	50S ribosomal protein L33
+ADATZ4_09165	CM205908.1	1820097	1820666	-	sigma-70 family RNA polymerase sigma factor
+ADATZ4_09170	CM205908.1	1820739	1821284	-	NYN domain-containing protein
+ADATZ4_09175	CM205908.1	1821313	1822080	-	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB
+ADATZ4_09180	CM205908.1	1822077	1822484	-	Mini-ribonuclease 3
+ADATZ4_09185	CM205908.1	1822484	1823896	-	cysteine--tRNA ligase
+ADATZ4_09190	CM205908.1	1824051	1825541	-	glutamate--tRNA ligase
+ADATZ4_09195	CM205908.1	1825805	1826989	-	PIN/TRAM domain-containing protein
+ADATZ4_09200	CM205908.1	1827025	1828401	-	DNA repair protein RadA
+ADATZ4_09205	CM205908.1	1828496	1829035	-	dCTP deaminase/dUTPase family protein
+ADATZ4_09210	CM205908.1	1829214	1829555	+	acetyltransferase
+ADATZ4_09215	CM205908.1	1829563	1830249	+	ribose-5-phosphate isomerase RpiA
+ADATZ4_09220	CM205908.1	1830669	1832003	+	C1 family peptidase
+ADATZ4_09225	CM205908.1	1832137	1833369	-	serine hydrolase domain-containing protein
+ADATZ4_09230	CM205908.1	1833497	1834168	-	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase
+ADATZ4_09235	CM205908.1	1834308	1835339	-	DMT family transporter
+ADATZ4_09240	CM205908.1	1835378	1836325	-	AEC family transporter
+ADATZ4_09245	CM205908.1	1836693	1837808	+	LCP family protein
+ADATZ4_09250	CM205908.1	1837949	1838863	+	metal ABC transporter solute-binding protein
+ADATZ4_09255	CM205908.1	1839004	1841799	-	YhgE/Pip family protein
+ADATZ4_09260	CM205908.1	1841956	1842525	+	TetR/AcrR family transcriptional regulator
+ADATZ4_09265	CM205908.1	1842642	1843289	+	EAL domain-containing protein
+ADATZ4_09270	CM205908.1	1843460	1844590	+	GGDEF domain-containing protein
+ADATZ4_09275	CM205908.1	1844721	1845764	+	AI-2E family transporter
+ADATZ4_09280	CM205908.1	1845821	1846648	-	PTS system mannose/fructose/sorbose family transporter subunit IID
+ADATZ4_09285	CM205908.1	1846662	1847447	-	PTS mannose/fructose/sorbose transporter subunit IIC
+ADATZ4_09290	CM205908.1	1847535	1848038	-	PTS sugar transporter subunit IIB
+ADATZ4_09295	CM205908.1	1848035	1848454	-	PTS sugar transporter subunit IIA
+ADATZ4_09300	CM205908.1	1848559	1849170	-	HAD family hydrolase
+ADATZ4_09305	CM205908.1	1849266	1850672	-	MATE family efflux transporter
+ADATZ4_09310	CM205908.1	1850946	1851383	+	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_09315	CM205908.1	1851402	1852037	+	YczE/YyaS/YitT family protein
+ADATZ4_09320	CM205908.1	1852111	1852662	-	TetR/AcrR family transcriptional regulator
+ADATZ4_09325	CM205908.1	1852787	1853626	+	alpha/beta hydrolase
+ADATZ4_09330	CM205908.1	1853653	1854597	+	amidohydrolase family protein
+ADATZ4_09340	CM205908.1	1854966	1855847	-	homoserine kinase
+ADATZ4_09345	CM205908.1	1855861	1856340	-	SprT family protein
+ADATZ4_09350	CM205908.1	1856333	1858528	-	Tex family protein
+ADATZ4_09355	CM205908.1	1858826	1859260	-	hypothetical protein
+ADATZ4_09360	CM205908.1	1859279	1860109	-	NAD(+) synthase
+ADATZ4_09365	CM205908.1	1860141	1861607	-	nicotinate phosphoribosyltransferase
+ADATZ4_09370	CM205908.1	1861769	1862509	+	WecB/TagA/CpsF family glycosyltransferase
+ADATZ4_09375	CM205908.1	1862451	1862957	-	GNAT family N-acetyltransferase
+ADATZ4_09380	CM205908.1	1863026	1863727	-	GntR family transcriptional regulator
+ADATZ4_09385	CM205908.1	1863763	1864905	-	N-acetylglucosamine-6-phosphate deacetylase
+ADATZ4_09390	CM205908.1	1864991	1865794	-	pyrroline-5-carboxylate reductase
+ADATZ4_09405	CM205908.1	1866271	1867086	-	metallophosphoesterase
+ADATZ4_09410	CM205908.1	1867156	1868637	-	peptide MFS transporter
+ADATZ4_09415	CM205908.1	1868972	1869292	-	PTS sugar transporter subunit IIB
+ADATZ4_09455	CM205908.1	1875286	1876308	-	tRNA dihydrouridine synthase DusB
+ADATZ4_09460	CM205908.1	1876310	1877197	-	Hsp33 family molecular chaperone HslO
+ADATZ4_09465	CM205908.1	1877310	1879409	-	ATP-dependent zinc metalloprotease FtsH
+ADATZ4_09470	CM205908.1	1879518	1880060	-	hypoxanthine phosphoribosyltransferase
+ADATZ4_09475	CM205908.1	1880077	1881429	-	tRNA lysidine(34) synthetase TilS
+ADATZ4_09480	CM205908.1	1881500	1882045	-	S1 domain-containing RNA-binding protein
+ADATZ4_09485	CM205908.1	1882306	1882716	-	FtsB family cell division protein
+ADATZ4_09490	CM205908.1	1882826	1883098	-	RNA-binding S4 domain-containing protein
+ADATZ4_09495	CM205908.1	1883100	1884680	-	polysaccharide biosynthesis protein
+ADATZ4_09500	CM205908.1	1884692	1888234	-	transcription-repair coupling factor
+ADATZ4_09505	CM205908.1	1888252	1888809	-	aminoacyl-tRNA hydrolase
+ADATZ4_09510	CM205908.1	1889139	1890104	+	L-lactate dehydrogenase
+ADATZ4_09515	CM205908.1	1890450	1891838	+	L%2CD-transpeptidase family protein
+ADATZ4_09520	CM205908.1	1892142	1892783	+	cyclic di-AMP binding protein CbpA
+ADATZ4_09525	CM205908.1	1892930	1893310	-	type II toxin-antitoxin system PemK/MazF family toxin
+ADATZ4_09530	CM205908.1	1893345	1893572	-	hypothetical protein
+ADATZ4_09535	CM205908.1	1893661	1894782	-	alanine racemase
+ADATZ4_09540	CM205908.1	1894776	1895144	-	holo-ACP synthase
+ADATZ4_09545	CM205908.1	1895337	1896479	-	baeRF6 domain-containing protein
+ADATZ4_09550	CM205908.1	1896707	1898266	-	degradosome RNA helicase CshA
+ADATZ4_09555	CM205908.1	1898456	1899841	-	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+ADATZ4_09560	CM205908.1	1900028	1900813	-	hypothetical protein
+ADATZ4_09565	CM205908.1	1900888	1901784	-	zinc metalloprotease HtpX
+ADATZ4_09570	CM205908.1	1901793	1902368	-	LemA family protein
+ADATZ4_09575	CM205908.1	1902537	1903007	+	low molecular weight protein-tyrosine-phosphatase
+ADATZ4_09580	CM205908.1	1903089	1904834	-	hypothetical protein
+ADATZ4_09585	CM205908.1	1904773	1905240	-	hypothetical protein
+ADATZ4_09590	CM205908.1	1905579	1907714	-	lectin-like domain-containing protein
+ADATZ4_09595	CM205908.1	1908072	1909115	-	WxLIP family cell surface protein
+ADATZ4_09600	CM205908.1	1909198	1909872	-	WxL domain-containing protein
+ADATZ4_09605	CM205908.1	1909907	1910593	-	WxL domain-containing protein
+ADATZ4_09610	CM205908.1	1910619	1911038	-	hypothetical protein
+ADATZ4_09615	CM205908.1	1911654	1914068	-	hypothetical protein
+ADATZ4_09620	CM205908.1	1914721	1915320	-	WxL domain-containing protein
+ADATZ4_09625	CM205908.1	1915814	1916437	-	WxL domain-containing protein
+ADATZ4_09630	CM205908.1	1916756	1917331	-	WxL domain-containing protein
+ADATZ4_09635	CM205908.1	1917774	1918487	-	class A sortase
+ADATZ4_09640	CM205908.1	1918672	1918923	-	type B 50S ribosomal protein L31
+ADATZ4_09645	CM205908.1	1919023	1920309	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+ADATZ4_09650	CM205908.1	1920653	1922800	-	mucin-binding protein
+ADATZ4_09655	CM205908.1	1923333	1924046	-	acetolactate decarboxylase
+ADATZ4_09660	CM205908.1	1924061	1925737	-	acetolactate synthase AlsS
+ADATZ4_09665	CM205908.1	1925854	1926276	+	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_09670	CM205908.1	1926380	1928077	-	DUF5776 domain-containing protein
+ADATZ4_09675	CM205908.1	1928387	1930510	-	hypothetical protein
+ADATZ4_09680	CM205908.1	1930703	1932310	-	CTP synthase
+ADATZ4_09685	CM205908.1	1932488	1933156	-	DNA-directed RNA polymerase subunit delta
+ADATZ4_09690	CM205908.1	1933201	1933641	-	YwiB family protein
+ADATZ4_09695	CM205908.1	1934240	1935079	+	lipoate--protein ligase family protein
+ADATZ4_09700	CM205908.1	1935076	1936434	+	HD domain-containing protein
+ADATZ4_09705	CM205908.1	1936469	1937284	+	sugar-phosphatase
+ADATZ4_09710	CM205908.1	1937609	1940068	-	phosphoketolase family protein
+ADATZ4_09715	CM205908.1	1940343	1941071	-	GntR family transcriptional regulator
+ADATZ4_09720	CM205908.1	1941340	1941756	+	MerR family transcriptional regulator
+ADATZ4_09725	CM205908.1	1941851	1942210	-	DUF3899 domain-containing protein
+ADATZ4_09730	CM205908.1	1942317	1943297	-	ribose-phosphate diphosphokinase
+ADATZ4_09735	CM205908.1	1943380	1944759	-	bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU
+ADATZ4_09740	CM205908.1	1944775	1945614	-	pur operon repressor
+ADATZ4_09745	CM205908.1	1946115	1946555	+	hypothetical protein
+ADATZ4_09750	CM205908.1	1946697	1947494	-	metal ABC transporter permease
+ADATZ4_09755	CM205908.1	1947487	1948185	-	metal ABC transporter ATP-binding protein
+ADATZ4_09760	CM205908.1	1948182	1949108	-	metal ABC transporter solute-binding protein%2C Zn/Mn family
+ADATZ4_09765	CM205908.1	1949201	1950133	-	alpha/beta hydrolase
+ADATZ4_09770	CM205908.1	1950271	1951251	+	LytTR family DNA-binding domain-containing protein
+ADATZ4_09775	CM205908.1	1951405	1952256	+	ABC transporter ATP-binding protein
+ADATZ4_09780	CM205908.1	1952253	1952999	+	ABC transporter permease
+ADATZ4_09785	CM205908.1	1953062	1953382	-	hypothetical protein
+ADATZ4_09790	CM205908.1	1953401	1953892	-	hypothetical protein
+ADATZ4_09795	CM205908.1	1954065	1954979	-	ROK family protein
+ADATZ4_09800	CM205908.1	1954963	1956438	-	6-phospho-beta-glucosidase
+ADATZ4_09805	CM205908.1	1956680	1957840	-	ROK family transcriptional regulator
+ADATZ4_09810	CM205908.1	1957863	1959263	-	glycoside-pentoside-hexuronide (GPH):cation symporter
+ADATZ4_09815	CM205908.1	1959541	1961829	+	alpha-xylosidase
+ADATZ4_09820	CM205908.1	1961918	1962496	-	uracil-DNA glycosylase family protein
+ADATZ4_09825	CM205908.1	1962511	1963365	-	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+ADATZ4_09830	CM205908.1	1963480	1963716	-	Veg family protein
+ADATZ4_09835	CM205908.1	1963816	1964706	-	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA
+ADATZ4_09840	CM205908.1	1964696	1965268	-	ribonuclease M5
+ADATZ4_09845	CM205908.1	1965255	1966031	-	TatD family hydrolase
+ADATZ4_09850	CM205908.1	1966139	1968172	-	methionine--tRNA ligase
+ADATZ4_09855	CM205908.1	1968452	1969297	-	DUF72 domain-containing protein
+ADATZ4_09860	CM205908.1	1969309	1969635	-	hypothetical protein
+ADATZ4_09865	CM205908.1	1969648	1970346	-	NAD-dependent protein deacylase
+ADATZ4_09870	CM205908.1	1970374	1971339	-	HELLH-NELLK family protein
+ADATZ4_09875	CM205908.1	1971354	1972616	-	hydroxymethylglutaryl-CoA reductase%2C degradative
+ADATZ4_09880	CM205908.1	1972628	1973548	-	Ppx/GppA phosphatase family protein
+ADATZ4_09885	CM205908.1	1973569	1974585	-	tryptophan--tRNA ligase
+ADATZ4_09890	CM205908.1	1975406	1977712	+	RNA polymerase recycling motor HelD
+ADATZ4_09895	CM205908.1	1977826	1978287	-	hypothetical protein
+ADATZ4_09900	CM205908.1	1978403	1978726	+	hypothetical protein
+ADATZ4_09905	CM205908.1	1978782	1979768	-	LacI family DNA-binding transcriptional regulator
+ADATZ4_09910	CM205908.1	1979917	1980459	-	6-phospho-3-hexuloisomerase
+ADATZ4_09915	CM205908.1	1980456	1981079	-	orotidine 5'-phosphate decarboxylase / HUMPS family protein
+ADATZ4_09920	CM205908.1	1981079	1982041	-	sugar kinase
+ADATZ4_09925	CM205908.1	1982068	1983357	-	gluconate:proton symporter
+ADATZ4_09930	CM205908.1	1983359	1984108	-	sugar phosphate isomerase/epimerase family protein
+ADATZ4_09935	CM205908.1	1984121	1984378	-	hypothetical protein
+ADATZ4_09940	CM205908.1	1984637	1985818	-	cation:proton antiporter
+ADATZ4_09945	CM205908.1	1986448	1986729	-	SemiSWEET family transporter
+ADATZ4_09950	CM205908.1	1986971	1988305	-	dihydrolipoyl dehydrogenase family protein
+ADATZ4_09955	CM205908.1	1988357	1989619	-	MFS transporter
+ADATZ4_09960	CM205908.1	1989755	1990633	+	helix-turn-helix domain-containing protein
+ADATZ4_09965	CM205908.1	1990680	1991126	+	DUF3290 domain-containing protein
+ADATZ4_09970	CM205908.1	1991130	1991768	+	DUF421 domain-containing protein
+ADATZ4_09975	CM205908.1	1991801	1992319	+	NUDIX hydrolase
+ADATZ4_10000	CM205908.1	1998038	1999297	-	tyrosine--tRNA ligase
+ADATZ4_10005	CM205908.1	1999594	2000961	-	Nramp family divalent metal transporter
+ADATZ4_10010	CM205908.1	2001163	2001393	+	hypothetical protein
+ADATZ4_10015	CM205908.1	2001450	2001818	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_10020	CM205908.1	2001879	2003252	-	DUF2252 domain-containing protein
+ADATZ4_10025	CM205908.1	2003390	2004874	-	helix-turn-helix domain-containing protein
+ADATZ4_10030	CM205908.1	2004950	2005192	-	hypothetical protein
+ADATZ4_10035	CM205908.1	2005345	2006748	-	cytosine permease
+ADATZ4_10040	CM205908.1	2006785	2007225	-	nucleoside 2-deoxyribosyltransferase
+ADATZ4_10045	CM205908.1	2007575	2008054	+	PH domain-containing protein
+ADATZ4_10050	CM205908.1	2008041	2009483	+	PH domain-containing protein
+ADATZ4_10055	CM205908.1	2009574	2010710	-	glycerate kinase family protein
+ADATZ4_10060	CM205908.1	2010723	2012027	-	GntP family permease
+ADATZ4_10065	CM205908.1	2012322	2013362	+	CdaR family transcriptional regulator
+ADATZ4_10070	CM205908.1	2013486	2014424	-	ABC transporter permease
+ADATZ4_10075	CM205908.1	2014437	2015330	-	ATP-binding cassette domain-containing protein
+ADATZ4_10080	CM205908.1	2015327	2015701	-	GntR family transcriptional regulator
+ADATZ4_10085	CM205908.1	2015853	2016572	-	DUF975 family protein
+ADATZ4_10090	CM205908.1	2016597	2017310	-	B3/B4 domain-containing protein
+ADATZ4_10095	CM205908.1	2017492	2019213	+	aryl-sulfate sulfotransferase
+ADATZ4_10100	CM205908.1	2019316	2019534	-	hypothetical protein
+ADATZ4_10105	CM205908.1	2019719	2020660	+	nucleoside hydrolase
+ADATZ4_10110	CM205908.1	2020730	2021659	+	DMT family transporter
+ADATZ4_10115	CM205908.1	2021734	2023365	-	ABC-F family ATP-binding cassette domain-containing protein
+ADATZ4_10120	CM205908.1	2023491	2024351	-	helix-turn-helix domain-containing protein
+ADATZ4_10125	CM205908.1	2024790	2025980	-	MFS transporter
+ADATZ4_10130	CM205908.1	2026076	2026963	-	LysR family transcriptional regulator
+ADATZ4_10135	CM205908.1	2027073	2028104	+	YeiH family protein
+ADATZ4_10140	CM205908.1	2028162	2028773	-	cadmium resistance transporter
+ADATZ4_10145	CM205908.1	2028845	2029183	+	ArsR/SmtB family transcription factor
+ADATZ4_10150	CM205908.1	2029229	2030764	-	multicopper oxidase family protein
+ADATZ4_10155	CM205908.1	2030903	2031586	+	VTT domain-containing protein
+ADATZ4_10160	CM205908.1	2031650	2033458	-	heavy metal translocating P-type ATPase
+ADATZ4_10165	CM205908.1	2033598	2034929	-	collagen binding domain-containing protein
+ADATZ4_10170	CM205908.1	2035108	2035515	-	iron-sulfur cluster biosynthesis family protein
+ADATZ4_10175	CM205908.1	2035653	2036024	-	GntR family transcriptional regulator
+ADATZ4_10180	CM205908.1	2036063	2037874	-	FtsX-like permease family protein
+ADATZ4_10185	CM205908.1	2037885	2038643	-	ABC transporter ATP-binding protein
+ADATZ4_10190	CM205908.1	2038814	2039767	+	aldo/keto reductase
+ADATZ4_10195	CM205908.1	2039832	2041037	-	MFS transporter
+ADATZ4_10200	CM205908.1	2041168	2041530	+	winged helix-turn-helix transcriptional regulator
+ADATZ4_10205	CM205908.1	2041782	2042714	+	hypothetical protein
+ADATZ4_10210	CM205908.1	2042724	2045030	+	CDP-glycerol:glycerophosphate glycerophosphotransferase
+ADATZ4_10215	CM205908.1	2045070	2045510	-	Rrf2 family transcriptional regulator
+ADATZ4_10220	CM205908.1	2045560	2046417	-	NAD(P)H-binding protein
+ADATZ4_10225	CM205908.1	2046576	2047340	+	glucose 1-dehydrogenase
+ADATZ4_10230	CM205908.1	2047421	2048146	-	SDR family oxidoreductase
+ADATZ4_10235	CM205908.1	2048285	2049025	+	sulfite exporter TauE/SafE family protein
+ADATZ4_10240	CM205908.1	2049080	2051152	-	collagen-binding domain-containing protein
+ADATZ4_10245	CM205908.1	2051376	2052206	+	hypothetical protein
+ADATZ4_10250	CM205908.1	2052400	2053176	+	C40 family peptidase
+ADATZ4_10255	CM205908.1	2053292	2053720	-	Spx/MgsR family RNA polymerase-binding regulatory protein
+ADATZ4_10260	CM205908.1	2054134	2055948	-	glycoside hydrolase family protein
+ADATZ4_10265	CM205908.1	2056097	2056480	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_10270	CM205908.1	2056728	2057546	+	Cof-type HAD-IIB family hydrolase
+ADATZ4_10275	CM205908.1	2057549	2058373	-	alpha/beta fold hydrolase
+ADATZ4_10280	CM205908.1	2058643	2059674	+	aldose epimerase family protein
+ADATZ4_10285	CM205908.1	2059862	2060131	+	30S ribosomal protein S14
+ADATZ4_10290	CM205908.1	2060256	2060693	+	hypothetical protein
+ADATZ4_10295	CM205908.1	2060748	2063018	-	maltose phosphorylase
+ADATZ4_10300	CM205908.1	2063071	2064444	-	SLC45 family MFS transporter
+ADATZ4_10305	CM205908.1	2064645	2065610	-	LacI family DNA-binding transcriptional regulator
+ADATZ4_10310	CM205908.1	2065758	2067104	-	HAMP domain-containing sensor histidine kinase
+ADATZ4_10315	CM205908.1	2067094	2067786	-	response regulator transcription factor
+ADATZ4_10320	CM205908.1	2068050	2070770	+	YfhO family protein
+ADATZ4_10325	CM205908.1	2070816	2070998	-	hypothetical protein
+ADATZ4_10330	CM205908.1	2071093	2072259	-	cation:proton antiporter
+ADATZ4_10335	CM205908.1	2072501	2072701	+	YjzD family protein
+ADATZ4_10340	CM205908.1	2072777	2073448	-	GTP pyrophosphokinase
+ADATZ4_10345	CM205908.1	2073445	2074680	-	multidrug efflux MFS transporter
+ADATZ4_10350	CM205908.1	2074856	2075614	+	NADP-dependent (R)-specific alcohol dehydrogenase
+ADATZ4_10355	CM205908.1	2075667	2076044	-	DUF1634 domain-containing protein
+ADATZ4_10360	CM205908.1	2076044	2076889	-	sulfite exporter TauE/SafE family protein
+ADATZ4_10365	CM205908.1	2077216	2078073	-	LysR family transcriptional regulator
+ADATZ4_10370	CM205908.1	2078098	2078991	-	alpha/beta hydrolase
+ADATZ4_10375	CM205908.1	2078981	2080294	-	PTS transporter subunit EIIC
+ADATZ4_10380	CM205908.1	2080492	2081577	-	hypothetical protein
+ADATZ4_10385	CM205908.1	2081676	2082149	-	S-ribosylhomocysteine lyase
+ADATZ4_10390	CM205908.1	2082250	2083104	-	alpha/beta hydrolase fold domain-containing protein
+ADATZ4_10395	CM205908.1	2083241	2084089	-	hypothetical protein
+ADATZ4_10400	CM205908.1	2084160	2084516	-	fluoride efflux transporter FluC
+ADATZ4_10405	CM205908.1	2084516	2084908	-	fluoride efflux transporter FluC
+ADATZ4_10410	CM205908.1	2084982	2085245	-	metal-sensitive transcriptional regulator
+ADATZ4_10415	CM205908.1	2085245	2085571	-	thioredoxin
+ADATZ4_10420	CM205908.1	2085692	2087101	-	FAD-dependent oxidoreductase
+ADATZ4_10425	CM205908.1	2088199	2089053	-	DegV family protein
+ADATZ4_10430	CM205908.1	2089638	2091017	+	Nramp family divalent metal transporter
+ADATZ4_10435	CM205908.1	2091128	2091877	-	glucose 1-dehydrogenase
+ADATZ4_10440	CM205908.1	2092117	2092632	+	hypothetical protein
+ADATZ4_10445	CM205908.1	2092687	2093340	-	bifunctional 2-keto-4-hydroxyglutarate aldolase/2-keto-3-deoxy-6-phosphogluconate aldolase
+ADATZ4_10450	CM205908.1	2093355	2094320	-	sugar kinase
+ADATZ4_10455	CM205908.1	2094350	2095360	-	2-keto-3-deoxygluconate permease
+ADATZ4_10460	CM205908.1	2095453	2096268	-	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD
+ADATZ4_10465	CM205908.1	2096288	2097133	-	5-dehydro-4-deoxy-D-glucuronate isomerase
+ADATZ4_10470	CM205908.1	2097480	2097755	+	hypothetical protein
+ADATZ4_10475	CM205908.1	2098091	2098849	+	IclR family transcriptional regulator
+ADATZ4_10480	CM205908.1	2098897	2100312	-	NAD-dependent succinate-semialdehyde dehydrogenase
+ADATZ4_10485	CM205908.1	2100528	2101094	-	TetR/AcrR family transcriptional regulator
+ADATZ4_10490	CM205908.1	2101390	2101908	-	methylated-DNA--[protein]-cysteine S-methyltransferase
+ADATZ4_10495	CM205908.1	2102086	2103297	-	NAD(P)/FAD-dependent oxidoreductase
+ADATZ4_10500	CM205908.1	2103637	2104278	+	SDR family oxidoreductase
+ADATZ4_10505	CM205908.1	2104487	2104783	-	hypothetical protein
+ADATZ4_10510	CM205908.1	2104959	2105660	+	response regulator transcription factor
+ADATZ4_10515	CM205908.1	2105650	2107014	+	sensor histidine kinase
+ADATZ4_10520	CM205908.1	2107106	2107354	+	hypothetical protein
+ADATZ4_10525	CM205908.1	2107467	2107886	-	hypothetical protein
+ADATZ4_10530	CM205908.1	2108149	2109909	-	pyruvate oxidase
+ADATZ4_10535	CM205908.1	2110119	2111036	-	magnesium transporter CorA family protein
+ADATZ4_10540	CM205908.1	2111121	2111873	-	nicotinamide riboside transporter PnuC
+ADATZ4_10545	CM205908.1	2112189	2112605	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_10550	CM205908.1	2112880	2114517	-	alpha-glucosidase
+ADATZ4_10555	CM205908.1	2114763	2115422	-	ATP-binding cassette domain-containing protein
+ADATZ4_10560	CM205908.1	2115435	2116910	-	ABC transporter permease
+ADATZ4_10565	CM205908.1	2117079	2118251	-	AI-2E family transporter
+ADATZ4_10570	CM205908.1	2118548	2119189	-	hypothetical protein
+ADATZ4_10575	CM205908.1	2119202	2120551	-	DUF5776 domain-containing protein
+ADATZ4_10580	CM205908.1	2121037	2122056	+	glycosyltransferase family 2 protein
+ADATZ4_10585	CM205908.1	2122068	2124116	+	glycosyltransferase-like membrane protein
+ADATZ4_10590	CM205908.1	2124236	2125093	+	DUF3737 family protein
+ADATZ4_10595	CM205908.1	2125093	2126259	+	MalY/PatB family protein
+ADATZ4_10600	CM205908.1	2126400	2127353	+	Dyp-type peroxidase
+ADATZ4_10605	CM205908.1	2127662	2128891	+	MFS transporter
+ADATZ4_10610	CM205908.1	2128926	2129405	-	Rossmann-fold NAD(P)-binding domain-containing protein
+ADATZ4_10615	CM205908.1	2129800	2131005	+	betaine/proline/choline family ABC transporter ATP-binding protein
+ADATZ4_10620	CM205908.1	2131002	2131628	+	ABC transporter permease
+ADATZ4_10625	CM205908.1	2131639	2132571	+	osmoprotectant ABC transporter substrate-binding protein
+ADATZ4_10630	CM205908.1	2132573	2133235	+	ABC transporter permease
+ADATZ4_10635	CM205908.1	2133387	2134718	+	hypothetical protein
+ADATZ4_10640	CM205908.1	2134787	2136328	-	hypothetical protein
+ADATZ4_10645	CM205908.1	2136448	2136837	-	tautomerase family protein
+ADATZ4_10650	CM205908.1	2136844	2139111	-	ATP-binding cassette domain-containing protein
+ADATZ4_10655	CM205908.1	2139291	2139812	+	DUF1440 domain-containing protein
+ADATZ4_10660	CM205908.1	2139831	2141162	+	MFS transporter
+ADATZ4_10665	CM205908.1	2141340	2141885	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_10670	CM205908.1	2142856	2143341	-	cytidine deaminase
+ADATZ4_10675	CM205908.1	2143436	2144020	+	signal peptidase I
+ADATZ4_10680	CM205908.1	2144112	2145806	-	oleate hydratase
+ADATZ4_10685	CM205908.1	2146036	2146788	-	hypothetical protein
+ADATZ4_10690	CM205908.1	2147014	2148954	-	acyltransferase family protein
+ADATZ4_10695	CM205908.1	2149425	2150468	+	adenosine deaminase
+ADATZ4_10700	CM205908.1	2150592	2151416	+	phage integrase N-terminal SAM-like domain-containing protein
+ADATZ4_10705	CM205908.1	2151470	2152318	+	polysaccharide deacetylase family protein
+ADATZ4_10710	CM205908.1	2152864	2153235	+	cupredoxin domain-containing protein
+ADATZ4_10715	CM205908.1	2153253	2155178	+	copper-translocating P-type ATPase
+ADATZ4_10720	CM205908.1	2155280	2156125	-	aldo/keto reductase
+ADATZ4_10725	CM205908.1	2156249	2157514	-	D-alanyl-D-alanine carboxypeptidase family protein
+ADATZ4_10730	CM205908.1	2157761	2158207	+	CopY/TcrY family copper transport repressor
+ADATZ4_10735	CM205908.1	2158204	2160270	+	heavy metal translocating P-type ATPase
+ADATZ4_10740	CM205908.1	2160367	2161302	-	DMT family transporter
+ADATZ4_10745	CM205908.1	2161569	2162216	-	FusB/FusC family EF-G-binding protein
+ADATZ4_10750	CM205908.1	2162507	2163082	+	sugar O-acetyltransferase
+ADATZ4_10755	CM205908.1	2163282	2164277	-	hypothetical protein
+ADATZ4_10760	CM205908.1	2164313	2165731	-	C69 family dipeptidase
+ADATZ4_10765	CM205908.1	2166021	2166248	-	hypothetical protein
+ADATZ4_10770	CM205908.1	2166493	2167747	-	group II intron reverse transcriptase/maturase
+ADATZ4_10775	CM205908.1	2168765	2169448	-	hypothetical protein
+ADATZ4_10780	CM205908.1	2169667	2169984	+	helix-turn-helix domain-containing protein
+ADATZ4_10785	CM205908.1	2170143	2172890	-	HAD-IC family P-type ATPase
+ADATZ4_10790	CM205908.1	2173485	2173979	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_10795	CM205908.1	2174009	2174563	+	NADPH-dependent FMN reductase
+ADATZ4_10800	CM205908.1	2174625	2175749	-	vitamin B12 independent methionine synthase
+ADATZ4_10805	CM205908.1	2176126	2177646	-	ABC transporter permease/substrate-binding protein
+ADATZ4_10810	CM205908.1	2177648	2178577	-	ABC transporter ATP-binding protein
+ADATZ4_10815	CM205908.1	2178784	2179200	+	Lrp/AsnC family transcriptional regulator
+ADATZ4_10820	CM205908.1	2179330	2180340	-	alcohol dehydrogenase AdhP
+ADATZ4_10825	CM205908.1	2180711	2181946	+	ArgE/DapE family deacylase
+ADATZ4_10830	CM205908.1	2182005	2184152	-	lectin-like domain-containing protein
+ADATZ4_10835	CM205908.1	2184196	2184804	-	WxL domain-containing protein
+ADATZ4_10840	CM205908.1	2184955	2185617	-	hypothetical protein
+ADATZ4_10845	CM205908.1	2185632	2186999	-	amino acid permease
+ADATZ4_10850	CM205908.1	2187587	2188111	-	GNAT family N-acetyltransferase
+ADATZ4_10855	CM205908.1	2188139	2188582	-	flavodoxin domain-containing protein
+ADATZ4_10860	CM205908.1	2188807	2190009	-	trans-2-enoyl-CoA reductase family protein
+ADATZ4_10865	CM205908.1	2190153	2191148	-	tRNA dihydrouridine synthase
+ADATZ4_10870	CM205908.1	2191303	2192277	-	DUF4097 domain-containing protein
+ADATZ4_10875	CM205908.1	2192274	2192912	-	DUF1700 domain-containing protein
+ADATZ4_10880	CM205908.1	2192905	2193222	-	PadR family transcriptional regulator
+ADATZ4_10885	CM205908.1	2193390	2193944	+	cysteine hydrolase family protein
+ADATZ4_10890	CM205908.1	2194194	2195066	+	C39 family peptidase
+ADATZ4_10895	CM205908.1	2195084	2196118	+	DUF5776 domain-containing protein
+ADATZ4_10900	CM205908.1	2196302	2197126	+	ABC transporter permease subunit
+ADATZ4_10905	CM205908.1	2197123	2197854	+	ABC transporter ATP-binding protein
+ADATZ4_10910	CM205908.1	2198712	2200223	-	glycerol kinase GlpK
+ADATZ4_10915	CM205908.1	2200356	2201003	-	endonuclease III domain-containing protein
+ADATZ4_10920	CM205908.1	2201115	2201366	-	hypothetical protein
+ADATZ4_10925	CM205908.1	2201528	2202262	+	gamma-glutamyl-gamma-aminobutyrate hydrolase family protein
+ADATZ4_10930	CM205908.1	2202344	2203003	+	DUF6198 family protein
+ADATZ4_10935	CM205908.1	2203053	2204894	-	S53 family peptidase
+ADATZ4_10940	CM205908.1	2205055	2205939	-	alpha/beta hydrolase
+ADATZ4_10945	CM205908.1	2206115	2206909	+	tyrosine-protein phosphatase
+ADATZ4_10950	CM205908.1	2206988	2207920	+	alpha/beta hydrolase
+ADATZ4_10955	CM205908.1	2208283	2208861	-	TetR/AcrR family transcriptional regulator
+ADATZ4_10960	CM205908.1	2208986	2209900	+	NAD(P)H-binding protein
+ADATZ4_10965	CM205908.1	2209965	2211263	-	adenylosuccinate lyase
+ADATZ4_10970	CM205908.1	2211537	2212823	+	adenylosuccinate synthase
+ADATZ4_10975	CM205908.1	2212848	2213834	+	GMP reductase
+ADATZ4_10980	CM205908.1	2213922	2215502	-	Nramp family divalent metal transporter
+ADATZ4_10985	CM205908.1	2215914	2216351	+	universal stress protein
+ADATZ4_10990	CM205908.1	2216439	2217089	+	metal-dependent transcriptional regulator
+ADATZ4_10995	CM205908.1	2217107	2217673	-	cadmium resistance transporter
+ADATZ4_11000	CM205908.1	2217909	2218328	-	hypothetical protein
+ADATZ4_11005	CM205908.1	2218441	2218785	-	YjcN family protein
+ADATZ4_11010	CM205908.1	2218940	2220163	-	hypothetical protein
+ADATZ4_11015	CM205908.1	2220190	2221419	-	hypothetical protein
+ADATZ4_11020	CM205908.1	2221744	2221845	+	IS30 family transposase
+ADATZ4_11025	CM205908.1	2222852	2223304	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_11030	CM205908.1	2223297	2223740	-	GNAT family N-acetyltransferase
+ADATZ4_11035	CM205908.1	2224323	2224856	-	PadR family transcriptional regulator
+ADATZ4_11040	CM205908.1	2225017	2225553	+	phenolic acid decarboxylase
+ADATZ4_11045	CM205908.1	2225885	2226079	+	hypothetical protein
+ADATZ4_11050	CM205908.1	2226141	2226605	+	NUDIX hydrolase
+ADATZ4_11055	CM205908.1	2226664	2226831	-	hypothetical protein
+ADATZ4_11060	CM205908.1	2227020	2227544	+	GNAT family N-acetyltransferase
+ADATZ4_11065	CM205908.1	2227654	2229045	-	hypothetical protein
+ADATZ4_11070	CM205908.1	2229394	2230050	+	EAL domain-containing protein
+ADATZ4_11075	CM205908.1	2230114	2230692	-	TetR/AcrR family transcriptional regulator
+ADATZ4_11080	CM205908.1	2230859	2232193	+	ABC transporter permease
+ADATZ4_11085	CM205908.1	2232256	2232972	-	response regulator
+ADATZ4_11090	CM205908.1	2232969	2234561	-	ATP-binding protein
+ADATZ4_11095	CM205908.1	2234681	2235682	-	2-hydroxyacid dehydrogenase
+ADATZ4_11100	CM205908.1	2235702	2236775	-	AEC family transporter
+ADATZ4_11105	CM205908.1	2237029	2238471	-	Na+/H+ antiporter NhaC
+ADATZ4_11110	CM205908.1	2238837	2239370	-	GNAT family N-acetyltransferase
+ADATZ4_11115	CM205908.1	2239540	2239929	+	hypothetical protein
+ADATZ4_11120	CM205908.1	2239931	2240794	-	aldo/keto reductase
+ADATZ4_11125	CM205908.1	2240999	2241622	+	hypothetical protein
+ADATZ4_11130	CM205908.1	2241676	2242431	-	potassium channel family protein
+ADATZ4_11135	CM205908.1	2242522	2243694	-	ArgE/DapE family deacylase
+ADATZ4_11140	CM205908.1	2243889	2244398	+	YbhB/YbcL family Raf kinase inhibitor-like protein
+ADATZ4_11145	CM205908.1	2244419	2244940	+	universal stress protein
+ADATZ4_11150	CM205908.1	2245013	2247574	-	YfhO family protein
+ADATZ4_11155	CM205908.1	2247599	2247973	-	iron chaperone
+ADATZ4_11160	CM205908.1	2248313	2249092	-	(S)-acetoin forming diacetyl reductase
+ADATZ4_11165	CM205908.1	2249260	2250633	-	sugar porter family MFS transporter
+ADATZ4_11170	CM205908.1	2250855	2252363	-	xylulokinase
+ADATZ4_11175	CM205908.1	2252467	2253816	-	xylose isomerase
+ADATZ4_11180	CM205908.1	2254325	2255134	-	hypothetical protein
+ADATZ4_11185	CM205908.1	2255784	2256263	-	hypothetical protein
+ADATZ4_11190	CM205908.1	2256278	2256697	-	hypothetical protein
+ADATZ4_11195	CM205908.1	2256829	2257842	-	lipoate--protein ligase
+ADATZ4_11200	CM205908.1	2258166	2258630	-	Rrf2 family transcriptional regulator
+ADATZ4_11205	CM205908.1	2259069	2260082	+	ABC transporter ATP-binding protein
+ADATZ4_11210	CM205908.1	2260079	2261053	+	ATP-binding cassette domain-containing protein
+ADATZ4_11215	CM205908.1	2261053	2262012	+	ABC transporter permease
+ADATZ4_11220	CM205908.1	2262028	2262978	+	ABC transporter permease
+ADATZ4_11225	CM205908.1	2263099	2264907	+	oligopeptide ABC transporter substrate-binding protein
+ADATZ4_11230	CM205908.1	2264972	2265505	-	TetR/AcrR family transcriptional regulator
+ADATZ4_11235	CM205908.1	2265597	2267312	+	MFS transporter
+ADATZ4_11240	CM205908.1	2267319	2268290	+	cation diffusion facilitator family transporter
+ADATZ4_11245	CM205908.1	2268476	2268931	+	universal stress protein
+ADATZ4_11250	CM205908.1	2269022	2269909	+	RluA family pseudouridine synthase
+ADATZ4_11255	CM205908.1	2270140	2270880	-	glucose 1-dehydrogenase
+ADATZ4_11260	CM205908.1	2271422	2272756	-	signal transduction protein
+ADATZ4_11265	CM205908.1	2272753	2274078	-	GHKL domain-containing protein
+ADATZ4_11270	CM205908.1	2274092	2274847	-	response regulator transcription factor
+ADATZ4_11275	CM205908.1	2275360	2275782	-	hypothetical protein
+ADATZ4_11280	CM205908.1	2275859	2276341	+	transcription elongation factor GreA
+ADATZ4_11285	CM205908.1	2276413	2277084	-	matrixin family metalloprotease
+ADATZ4_11290	CM205908.1	2277207	2277932	-	GntR family transcriptional regulator
+ADATZ4_11295	CM205908.1	2278078	2278581	+	Cys-tRNA(Pro) deacylase
+ADATZ4_11300	CM205908.1	2278585	2279388	+	hypothetical protein
+ADATZ4_11305	CM205908.1	2279445	2281466	-	DUF5776 domain-containing protein
+ADATZ4_11310	CM205908.1	2281976	2282164	+	helix-turn-helix transcriptional regulator
+ADATZ4_11315	CM205908.1	2282167	2282694	+	DUF3278 domain-containing protein
+ADATZ4_11320	CM205908.1	2282777	2284192	-	MFS transporter
+ADATZ4_11325	CM205908.1	2284414	2284596	+	hypothetical protein
+ADATZ4_11330	CM205908.1	2284666	2285907	-	hypothetical protein
+ADATZ4_11335	CM205908.1	2286216	2287676	-	glucuronate isomerase
+ADATZ4_11340	CM205908.1	2287715	2289295	-	tagaturonate epimerase family protein
+ADATZ4_11345	CM205908.1	2289351	2290829	-	glycoside-pentoside-hexuronide (GPH):cation symporter
+ADATZ4_11350	CM205908.1	2291064	2292071	-	LacI family DNA-binding transcriptional regulator
+ADATZ4_11355	CM205908.1	2292146	2293216	-	mannonate dehydratase
+ADATZ4_11360	CM205908.1	2293249	2293950	-	GntR family transcriptional regulator
+ADATZ4_11365	CM205908.1	2294093	2294995	-	phosphogluconate dehydrogenase (NAD(+)-dependent%2C decarboxylating)
+ADATZ4_11370	CM205908.1	2295504	2297045	-	gluconokinase
+ADATZ4_11375	CM205908.1	2297141	2298133	-	D-isomer specific 2-hydroxyacid dehydrogenase family protein
+ADATZ4_11380	CM205908.1	2298168	2298830	-	histidine phosphatase family protein
+ADATZ4_11385	CM205908.1	2298851	2299729	-	aldose 1-epimerase family protein
+ADATZ4_11390	CM205908.1	2299747	2301384	-	mannitol dehydrogenase family protein
+ADATZ4_11395	CM205908.1	2301812	2303623	-	beta-glucuronidase
+ADATZ4_11400	CM205908.1	2303718	2306213	-	glycoside hydrolase family 31 protein
+ADATZ4_11405	CM205908.1	2306571	2307989	+	MFS transporter
+ADATZ4_11410	CM205908.1	2308062	2309489	+	glucuronate isomerase
+ADATZ4_11415	CM205908.1	2309588	2310925	+	MATE family efflux transporter
+ADATZ4_11420	CM205908.1	2310938	2311594	-	HD domain-containing protein
+ADATZ4_11425	CM205908.1	2311763	2312656	+	ABC transporter ATP-binding protein
+ADATZ4_11430	CM205908.1	2312662	2314284	+	ABC transporter permease
+ADATZ4_11435	CM205908.1	2314337	2314834	-	hypothetical protein
+ADATZ4_11440	CM205908.1	2315123	2316310	-	acetate/propionate family kinase
+ADATZ4_11445	CM205908.1	2316434	2317414	-	sugar kinase
+ADATZ4_11450	CM205908.1	2317432	2318277	-	5-dehydro-4-deoxy-D-glucuronate isomerase
+ADATZ4_11455	CM205908.1	2318410	2318961	-	TetR/AcrR family transcriptional regulator
+ADATZ4_11460	CM205908.1	2319216	2319464	+	hypothetical protein
+ADATZ4_11465	CM205908.1	2319591	2319941	-	aggregation-promoting factor C-terminal-like domain-containing protein
+ADATZ4_11470	CM205908.1	2320163	2320810	-	aggregation-promoting factor
+ADATZ4_11475	CM205908.1	2321305	2321886	-	aggregation-promoting factor
+ADATZ4_11480	CM205908.1	2322368	2324986	-	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+ADATZ4_11485	CM205908.1	2325348	2327141	+	glycerophosphodiester phosphodiesterase
+ADATZ4_11490	CM205908.1	2328297	2328821	-	DUF1836 domain-containing protein
+ADATZ4_11495	CM205908.1	2328911	2331247	-	cation-translocating P-type ATPase
+ADATZ4_11500	CM205908.1	2331485	2331643	+	hypothetical protein
+ADATZ4_11505	CM205908.1	2331714	2332562	+	aldo/keto reductase
+ADATZ4_11510	CM205908.1	2332706	2334184	-	glutamate/gamma-aminobutyrate family transporter YjeM
+ADATZ4_11515	CM205908.1	2334398	2334823	-	Hsp20/alpha crystallin family protein
+ADATZ4_11520	CM205908.1	2335103	2335459	-	hypothetical protein
+ADATZ4_11525	CM205908.1	2335667	2337022	+	hemolysin family protein
+ADATZ4_11530	CM205908.1	2337084	2338052	+	LacI family DNA-binding transcriptional regulator
+ADATZ4_11535	CM205908.1	2338115	2338888	-	SDR family NAD(P)-dependent oxidoreductase
+ADATZ4_11540	CM205908.1	2339054	2339233	-	hypothetical protein
+ADATZ4_11545	CM205908.1	2339402	2340835	-	DHA2 family efflux MFS transporter permease subunit
+ADATZ4_11550	CM205908.1	2340934	2342454	-	ATP-binding cassette domain-containing protein
+ADATZ4_11555	CM205908.1	2342786	2343259	+	class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI
+ADATZ4_11560	CM205908.1	2343256	2344002	+	nitroreductase family protein
+ADATZ4_11565	CM205908.1	2344072	2345418	-	MFS transporter
+ADATZ4_11570	CM205908.1	2345576	2346742	-	MDR family MFS transporter
+ADATZ4_11575	CM205908.1	2346997	2347815	-	Ig-like domain-containing protein
+ADATZ4_11580	CM205908.1	2348055	2348897	+	aldo/keto reductase
+ADATZ4_11585	CM205908.1	2348999	2350426	-	aldehyde dehydrogenase family protein
+ADATZ4_11590	CM205908.1	2350495	2351070	-	TetR/AcrR family transcriptional regulator
+ADATZ4_11595	CM205908.1	2351510	2353246	-	DUF2075 domain-containing protein
+ADATZ4_11600	CM205908.1	2353251	2353580	-	MazG-like family protein
+ADATZ4_11605	CM205908.1	2353818	2354285	-	hypothetical protein
+ADATZ4_11610	CM205908.1	2354511	2356979	-	MucBP domain-containing protein
+ADATZ4_11615	CM205908.1	2357502	2360135	-	MucBP domain-containing protein
+ADATZ4_11620	CM205908.1	2360496	2361233	-	SDR family NAD(P)-dependent oxidoreductase
+ADATZ4_11625	CM205908.1	2361440	2362033	-	NAD(P)H-dependent oxidoreductase
+ADATZ4_11630	CM205908.1	2362125	2362718	+	Crp/Fnr family transcriptional regulator
+ADATZ4_11635	CM205908.1	2362891	2363733	+	alpha/beta fold hydrolase
+ADATZ4_11640	CM205908.1	2363838	2364056	-	hypothetical protein
+ADATZ4_11645	CM205908.1	2364204	2365247	-	zinc-dependent alcohol dehydrogenase family protein
+ADATZ4_11650	CM205908.1	2365321	2365794	-	flavodoxin family protein
+ADATZ4_11655	CM205908.1	2365834	2366283	-	MerR family transcriptional regulator
+ADATZ4_11660	CM205908.1	2366310	2366963	-	NAD(P)H-binding protein
+ADATZ4_11665	CM205908.1	2367040	2367897	-	alpha/beta hydrolase
+ADATZ4_11670	CM205908.1	2368173	2368844	+	EAL domain-containing protein
+ADATZ4_11675	CM205908.1	2368887	2369258	-	MerR family transcriptional regulator
+ADATZ4_11680	CM205908.1	2369271	2369921	-	TetR/AcrR family transcriptional regulator
+ADATZ4_11685	CM205908.1	2370016	2371017	+	NAD-dependent epimerase/dehydratase family protein
+ADATZ4_11690	CM205908.1	2371094	2372059	-	beta-galactosidase small subunit
+ADATZ4_11695	CM205908.1	2372043	2373929	-	glycoside hydrolase family 2 TIM barrel-domain containing protein
+ADATZ4_11700	CM205908.1	2374128	2374562	-	Rrf2 family transcriptional regulator
+ADATZ4_11705	CM205908.1	2374599	2375456	-	SDR family oxidoreductase
+ADATZ4_11710	CM205908.1	2376614	2376739	-	hypothetical protein
+ADATZ4_11715	CM205908.1	2376864	2377625	-	helix-turn-helix transcriptional regulator
+ADATZ4_11720	CM205908.1	2378039	2378944	+	hypothetical protein
+ADATZ4_11725	CM205908.1	2379036	2382824	-	helicase-exonuclease AddAB subunit AddA
+ADATZ4_11730	CM205908.1	2382808	2386413	-	PD-(D/E)XK nuclease family protein
+ADATZ4_11735	CM205908.1	2386708	2387850	+	ArgE/DapE family deacylase
+ADATZ4_11740	CM205908.1	2387953	2388966	-	polysaccharide deacetylase family protein
+ADATZ4_11745	CM205908.1	2389098	2389472	-	hypothetical protein
+ADATZ4_11750	CM205908.1	2389540	2390139	-	SDR family oxidoreductase
+ADATZ4_11755	CM205908.1	2390282	2391265	+	aldo/keto reductase
+ADATZ4_11760	CM205908.1	2391542	2392852	+	NCS2 family permease
+ADATZ4_11765	CM205908.1	2393325	2393615	+	AbrB/MazE/SpoVT family DNA-binding domain-containing protein
+ADATZ4_11770	CM205908.1	2393608	2393970	+	hypothetical protein
+ADATZ4_11775	CM205908.1	2394195	2394596	+	hypothetical protein
+ADATZ4_11780	CM205908.1	2395057	2395587	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_11785	CM205908.1	2395734	2396669	+	efflux ABC transporter ATPase subunit%2C DrrA-related
+ADATZ4_11790	CM205908.1	2396684	2397460	+	ABC transporter permease
+ADATZ4_11795	CM205908.1	2397568	2398461	-	LysR family transcriptional regulator
+ADATZ4_11800	CM205908.1	2398577	2399305	+	DUF554 domain-containing protein
+ADATZ4_11805	CM205908.1	2399416	2400330	-	prenyltransferase
+ADATZ4_11810	CM205908.1	2400432	2403548	-	YfhO family protein
+ADATZ4_11815	CM205908.1	2403809	2404330	+	QueT transporter family protein
+ADATZ4_11820	CM205908.1	2404811	2405596	-	hypothetical protein
+ADATZ4_11825	CM205908.1	2405830	2406063	+	hypothetical protein
+ADATZ4_11830	CM205908.1	2406179	2406406	-	hypothetical protein
+ADATZ4_11835	CM205908.1	2406635	2408455	-	DUF2207 family protein
+ADATZ4_11840	CM205908.1	2409192	2410814	-	glycoside hydrolase family 43 protein
+ADATZ4_11845	CM205908.1	2410834	2412309	-	MFS transporter
+ADATZ4_11850	CM205908.1	2412550	2413455	-	helix-turn-helix domain-containing protein
+ADATZ4_11855	CM205908.1	2413606	2415063	-	cardiolipin synthase
+ADATZ4_11860	CM205908.1	2415179	2415334	+	hypothetical protein
+ADATZ4_11865	CM205908.1	2415398	2416225	-	DNA/RNA non-specific endonuclease
+ADATZ4_11870	CM205908.1	2416467	2417006	+	hypothetical protein
+ADATZ4_11875	CM205908.1	2417227	2417601	+	hypothetical protein
+ADATZ4_11880	CM205908.1	2417695	2418003	-	LPXTG cell wall anchor domain-containing protein
+ADATZ4_11885	CM205908.1	2418244	2419323	-	mannonate dehydratase
+ADATZ4_11890	CM205908.1	2419399	2420919	-	GH39 family glycosyl hydrolase
+ADATZ4_11895	CM205908.1	2420949	2422826	-	sialate O-acetylesterase
+ADATZ4_11900	CM205908.1	2422926	2424494	-	MFS transporter
+ADATZ4_11905	CM205908.1	2424552	2426609	-	alpha-glucuronidase
+ADATZ4_11910	CM205908.1	2427130	2428326	-	MucBP domain-containing protein
+ADATZ4_11915	CM205908.1	2428523	2428828	+	hypothetical protein
+ADATZ4_11920	CM205908.1	2429378	2430022	-	HAD family hydrolase
+ADATZ4_11925	CM205908.1	2430236	2431567	-	C1 family peptidase
+ADATZ4_11930	CM205908.1	2431769	2432233	-	MarR family winged helix-turn-helix transcriptional regulator
+ADATZ4_11935	CM205908.1	2432508	2434196	+	IS1182 family transposase
+ADATZ4_11940	CM205908.1	2434198	2434785	-	signal peptidase I
+ADATZ4_11945	CM205908.1	2435095	2436285	+	multidrug effflux MFS transporter
+ADATZ4_11950	CM205908.1	2436367	2437575	-	hypothetical protein
+ADATZ4_11955	CM205908.1	2437753	2438277	+	acyl-CoA thioesterase
+ADATZ4_11960	CM205908.1	2438401	2438934	-	GNAT family N-acetyltransferase
+ADATZ4_11965	CM205908.1	2439055	2439702	+	NAD(P)-dependent oxidoreductase
+ADATZ4_11970	CM205908.1	2439785	2441134	+	branched-chain amino acid transport system II carrier protein
+ADATZ4_11975	CM205908.1	2441221	2441484	+	hypothetical protein
+ADATZ4_11980	CM205908.1	2441576	2442259	+	YjjG family noncanonical pyrimidine nucleotidase
+ADATZ4_11985	CM205908.1	2442256	2442492	-	type II toxin-antitoxin system Phd/YefM family antitoxin
+ADATZ4_11990	CM205908.1	2442561	2442950	-	hypothetical protein
+ADATZ4_11995	CM205908.1	2443350	2445260	-	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG
+ADATZ4_12000	CM205908.1	2445337	2446731	-	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE
+ADATZ4_12005	CM205908.1	2446943	2447707	-	RNA-binding cell elongation regulator Jag/EloR
+ADATZ4_12010	CM205908.1	2447897	2448730	-	membrane protein insertase YidC
+ADATZ4_12015	CM205908.1	2448733	2449089	-	ribonuclease P protein component
+ADATZ4_12020	CM205908.1	2449192	2449326	-	50S ribosomal protein L34
+ADATZ4_12025	JCFRYO010000002.1	32674	34707	+	right-handed parallel beta-helix repeat-containing protein
+ADATZ4_12030	JCFRYO010000002.1	2088	3335	+	MFS transporter
+ADATZ4_12035	JCFRYO010000002.1	3426	3617	-	helix-turn-helix domain-containing protein
+ADATZ4_12040	JCFRYO010000002.1	3757	4686	+	IS30-like element ISLpl1 family transposase
+ADATZ4_12045	JCFRYO010000002.1	4962	5318	-	hypothetical protein
+ADATZ4_12050	JCFRYO010000002.1	5322	6134	-	AAA family ATPase
+ADATZ4_12055	JCFRYO010000002.1	7502	7696	+	hypothetical protein
+ADATZ4_12060	JCFRYO010000002.1	7743	8213	+	hypothetical protein
+ADATZ4_12065	JCFRYO010000002.1	8407	8673	+	hypothetical protein
+ADATZ4_12070	JCFRYO010000002.1	8994	9275	-	putative quinol monooxygenase
+ADATZ4_12075	JCFRYO010000002.1	9335	9646	-	hypothetical protein
+ADATZ4_12080	JCFRYO010000002.1	10163	10609	-	universal stress protein
+ADATZ4_12085	JCFRYO010000002.1	10895	11254	-	hypothetical protein
+ADATZ4_12090	JCFRYO010000002.1	11392	12351	+	RepA
+ADATZ4_12095	JCFRYO010000002.1	12605	12886	+	type II toxin-antitoxin system RelB/DinJ family antitoxin
+ADATZ4_12100	JCFRYO010000002.1	12876	13382	+	hypothetical protein
+ADATZ4_12105	JCFRYO010000002.1	13372	13650	-	hypothetical protein
+ADATZ4_12110	JCFRYO010000002.1	13672	13899	-	hypothetical protein
+ADATZ4_12115	JCFRYO010000002.1	14128	14727	-	site-specific integrase
+ADATZ4_12120	JCFRYO010000002.1	14831	15109	+	plasmid mobilization protein
+ADATZ4_12125	JCFRYO010000002.1	15099	15401	+	type II toxin-antitoxin system YafQ family toxin
+ADATZ4_12130	JCFRYO010000002.1	15558	16319	-	helix-turn-helix transcriptional regulator
+ADATZ4_12135	JCFRYO010000002.1	16820	17509	-	IS6 family transposase
+ADATZ4_12140	JCFRYO010000002.1	17579	17790	+	IS1182 family transposase
+ADATZ4_12145	JCFRYO010000002.1	18014	18685	-	hypothetical protein
+ADATZ4_12150	JCFRYO010000002.1	18682	19671	-	IS30 family transposase
+ADATZ4_12155	JCFRYO010000002.1	21981	22221	-	IS3-like element ISL1 family transposase
+ADATZ4_12160	JCFRYO010000002.1	22296	23645	+	dihydrolipoyl dehydrogenase family protein
+ADATZ4_12165	JCFRYO010000002.1	23724	24131	-	hypothetical protein
+ADATZ4_12170	JCFRYO010000002.1	24259	25434	+	IS256 family transposase
+ADATZ4_12175	JCFRYO010000002.1	26092	26676	+	recombinase family protein
+ADATZ4_12180	JCFRYO010000002.1	27036	28241	+	NAD(P)/FAD-dependent oxidoreductase
+ADATZ4_12185	JCFRYO010000002.1	28357	29733	+	FAD-dependent oxidoreductase
+ADATZ4_12190	JCFRYO010000002.1	30048	30977	+	IS30-like element ISLpl1 family transposase
+ADATZ4_12195	JCFRYO010000002.1	31306	32493	-	helix-turn-helix domain-containing protein
+ADATZ4_12200	JCFRYO010000003.1	31925	32542	-	hypothetical protein
+ADATZ4_12205	JCFRYO010000003.1	312	1466	-	phage tail tip lysozyme
+ADATZ4_12210	JCFRYO010000003.1	1467	2885	-	conjugal transfer protein
+ADATZ4_12215	JCFRYO010000003.1	2878	4893	-	VirB4 family type IV secretion system protein
+ADATZ4_12220	JCFRYO010000003.1	4905	5564	-	TrsD/TraD family conjugative transfer protein
+ADATZ4_12225	JCFRYO010000003.1	5533	5895	-	conjugal transfer protein
+ADATZ4_12230	JCFRYO010000003.1	5916	6251	-	CagC family type IV secretion system protein
+ADATZ4_12235	JCFRYO010000003.1	6253	6867	-	hypothetical protein
+ADATZ4_12240	JCFRYO010000003.1	6903	7214	-	hypothetical protein
+ADATZ4_12245	JCFRYO010000003.1	7298	9361	-	MobQ family relaxase
+ADATZ4_12250	JCFRYO010000003.1	9612	9839	+	hypothetical protein
+ADATZ4_12255	JCFRYO010000003.1	9862	10140	+	hypothetical protein
+ADATZ4_12260	JCFRYO010000003.1	10130	10636	-	hypothetical protein
+ADATZ4_12265	JCFRYO010000003.1	10626	10907	-	type II toxin-antitoxin system RelB/DinJ family antitoxin
+ADATZ4_12270	JCFRYO010000003.1	11157	11498	-	replication initiator protein A
+ADATZ4_12275	JCFRYO010000003.1	12892	13698	+	ParA family protein
+ADATZ4_12280	JCFRYO010000003.1	13701	14069	+	DUF5388 domain-containing protein
+ADATZ4_12285	JCFRYO010000003.1	14858	15427	-	recombinase family protein
+ADATZ4_12290	JCFRYO010000003.1	15589	16014	-	SGNH/GDSL hydrolase family protein
+ADATZ4_12295	JCFRYO010000003.1	16156	17331	+	IS256 family transposase
+ADATZ4_12300	JCFRYO010000003.1	17461	17742	+	hypothetical protein
+ADATZ4_12305	JCFRYO010000003.1	17754	19100	-	lipopolysaccharide biosynthesis protein
+ADATZ4_12310	JCFRYO010000003.1	19162	20250	-	polysaccharide pyruvyl transferase family protein
+ADATZ4_12315	JCFRYO010000003.1	20452	20712	-	transposase
+ADATZ4_12320	JCFRYO010000003.1	20931	21999	-	IS3 family transposase
+ADATZ4_12325	JCFRYO010000003.1	22410	23339	+	IS30-like element ISLpl1 family transposase
+ADATZ4_12330	JCFRYO010000003.1	23451	23642	+	hypothetical protein
+ADATZ4_12335	JCFRYO010000003.1	24038	24100	+	putative holin-like toxin
+ADATZ4_12340	JCFRYO010000003.1	24256	25380	-	ArdC-like ssDNA-binding domain-containing protein
+ADATZ4_12345	JCFRYO010000003.1	25384	25599	-	hypothetical protein
+ADATZ4_12350	JCFRYO010000003.1	25722	27857	-	type IA DNA topoisomerase
+ADATZ4_12355	JCFRYO010000003.1	27864	28274	-	hypothetical protein
+ADATZ4_12360	JCFRYO010000003.1	28289	29128	-	conjugal transfer protein TrbL family protein
+ADATZ4_12365	JCFRYO010000003.1	29147	29536	-	hypothetical protein
+ADATZ4_12370	JCFRYO010000003.1	29551	31095	-	VirD4-like conjugal transfer protein%2C CD1115 family
+ADATZ4_12375	JCFRYO010000003.1	31097	31567	-	conjugal transfer protein
+ADATZ4_12380	JCFRYO010000003.1	31570	31938	-	thioredoxin domain-containing protein
