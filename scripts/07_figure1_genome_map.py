@@ -93,21 +93,28 @@ def draw(ax, rec, canon_name):
     # the END of a feature supplies theta1 and the START supplies theta2.
     wdeg = lambda p: 90.0 - deg(p)
 
-    # CDS rings
+    # CDS rings.
+    # Draw EACH SEGMENT of the location, never location.start -> location.end. A gene
+    # that crosses the origin of a circular replicon has a compound location, e.g.
+    # ADATZ4_12025 on pCJMSD1_1 is join{[32673:32797](+), [0:1910](+)}. Its .start is 0
+    # and its .end is the replicon length, so a single start->end wedge sweeps the whole
+    # 360 deg and paints over every other gene. Both plasmids have one such gene.
+    # Ordinary compound locations (programmed frameshifts) simply draw as adjacent
+    # segments, which is visually identical to one wedge.
     for f in rec.features:
         if f.type not in ("CDS", "rRNA", "tRNA", "tmRNA", "ncRNA"):
             continue
-        s, e = int(f.location.start), int(f.location.end)
         if f.type == "CDS":
             r0, col = (8.3, FWD) if f.location.strand == 1 else (7.5, REV)
             h = 0.7
         else:
             r0, col, h = 6.8, RNA, 0.55
-        span = max(deg(e) - deg(s), 0.06)
-        t2 = wdeg(s)
-        ax.add_patch(Wedge((0, 0), r0 + h, t2 - span, t2,
-                           width=h, transform=ax.transData._b,
-                           facecolor=col, edgecolor="none"))
+        for part in f.location.parts:
+            s, e = int(part.start), int(part.end)
+            span = max(deg(e) - deg(s), 0.06)
+            ax.add_patch(Wedge((0, 0), r0 + h, wdeg(s) - span, wdeg(s),
+                               width=h, transform=ax.transData._b,
+                               facecolor=col, edgecolor="none"))
 
     mid, gc, skew = gc_tracks(str(rec.seq))
     th = 2*np.pi*mid/L
